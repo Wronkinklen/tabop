@@ -293,8 +293,8 @@ https://w11.supercast2.com:999/hls/hdchnl11-349.ts
 
  <!-- VARIADOS IPTV  -->
 
-#EXTINF:-1, tvg-logo="https://i.postimg.cc/cCThLjpn/gol-play.png" tvg-id="GOL PLAY" group-title="VARIADOS IPTV ",GOL SD 
+#EXTINF:-1, tvg-name="GOL SD "  tvg-logo="https://i.postimg.cc/cCThLjpn/gol-play.png" tvg-id="GOL PLAY" group-title="VARIADOS IPTV ",GOL SD 
 http://16692914887321261.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321261.ts
-#EXTINF:-1, tvg-id="Canal Hollywood HD" tvg-logo="https://acortar.link/002BDO" group-title="VARIADOS IPTV ",HOLLYWOOD HD
+#EXTINF:-1, tvg-name="HOLLYWOOD HD"  tvg-id="Canal Hollywood HD" tvg-logo="https://acortar.link/002BDO" group-title="VARIADOS IPTV ",HOLLYWOOD HD
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321266.ts
 
