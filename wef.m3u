@@ -59,13 +59,13 @@ acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
 acestream://5789ca155323664edd293b848606688edf803f4d
 #EXTINF:-1,tvg-name="DAZN F1 1080 2"tvg-logo="https://acortar.link/eeJCAb"  tvg-id="DAZN F1 HD" group-title="DAZN F1 ",DAZN F1 1080 2 
 acestream://9dad717d99b29a05672166258a77c25b57713dd5
-EXTINF:-1,tvg-name="DAZN F1 1080 PRUEBA "tvg-logo=" https://acortar.link/eeJCAb" tvg-id="DAZN F1 HD"  group-title="DAZN F1 ",DAZN F1 1080 TEMPORAL (DESACTIVADO) 
+EXTINF:-1,tvg-name="DAZN F1 1080 PRUEBA "tvg-logo=" https://acortar.link/eeJCAb" tvg-id="DAZN F1 HD"  group-title="DAZN F1 ",DAZN F1 1080 TEMPORAL 
 acestream://aff9ef05a35642dbad7c0eee8c315768942e417e
 #EXTINF:-1,tvg-name="DAZN F1 720"tvg-logo=" https://acortar.link/eeJCAb" tvg-id="DAZN F1 HD"  group-title="DAZN F1 ",DAZN F1 720
 acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
-#EXTINF:-1,tvg-name= MULTICAMARA F1" tvg-logo="https://acortar.link/WwBYRx" tvg-id="DAZN F1 HD" group-title="DAZN F1 ",MULTICAMARA F1 (DESACTIVADO)
+EXTINF:-1,tvg-name= MULTICAMARA F1" tvg-logo="https://acortar.link/WwBYRx" tvg-id="DAZN F1 HD" group-title="DAZN F1 ",MULTICAMARA F1 
 acestream://018186e9a5b942e3a5d8c24ca906ded64c2bbbe4
-#EXTINF:-1,tvg-name="DAZN F1 ONBOARD ALONSO" tvg-logo="https://acortar.link/QZZ08Q" tvg-id="DAZN F1 HD" group-title="DAZN F1 ",DAZN F1 ONBOARD ALONSO (DESACTIVADO)
+EXTINF:-1,tvg-name="DAZN F1 ONBOARD ALONSO" tvg-logo="https://acortar.link/QZZ08Q" tvg-id="DAZN F1 HD" group-title="DAZN F1 ",DAZN F1 ONBOARD ALONSO 
 acestream://a88c674c825fd00a936f424f58cd9004f52eb59b
 
 <!-- MOVISTAR -->
@@ -141,7 +141,7 @@ acestream://99e544cddbee13798e854c1009ee7d1a93fdedf7
  
 <!-- WRC -->
  
-#EXTINF:-1,tvg-name="WRC ESPAÑOL"tvg-logo="https://acortar.link/IZadUs" tvg-id="Sport TV5 POR HD" group-title="WRC",WRC ESPAÑOL 1080 (DESACTIVADO)
+EXTINF:-1,tvg-name="WRC ESPAÑOL"tvg-logo="https://acortar.link/IZadUs" tvg-id="Sport TV5 POR HD" group-title="WRC",WRC ESPAÑOL 1080 
 acestream://4b4e4277ee6b7f3041cf7d1a708862b3330b1b4b
  
 #EXTINF:-1,tvg-name="WRC ORIGINAL"tvg-logo="https://acortar.link/l657l5" tvg-id="Sport TV5 POR HD" group-title="WRC",WRC 1080 
