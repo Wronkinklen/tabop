@@ -310,22 +310,22 @@ acestream://6710c1803656a154c7d3d9977127fe49afbc3354
 #EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Transformers_El_despertar_de_las_bestias-717876501-large.jpg" group-title="PELICULAS ACESTREAM " ,Transformers El despertar de las bestias 4K
 acestream://fee0f3a3ec9ea8aec38aa26a3b7bed0ce7fbe2cc
 
-#EXTINF:-1,tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3P9QvWVN02Etn4kYGC702WVoXEb.jpg" group-title="ACESTREAM",Fast And Furious X 1080
+#EXTINF:-1,tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3P9QvWVN02Etn4kYGC702WVoXEb.jpg" group-title="PELICULAS ACESTREAM",Fast And Furious X 1080
 acestream://68b6a4f18c39f9b97e312ca765606323ca29bdeb
 
-#EXTINF:-1,tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mj2Z9HnRSIEk3n7yVPoOY4Uzzfh.jpg" group-title="ACESTREAM" ,John Wick 4 1080
+#EXTINF:-1,tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mj2Z9HnRSIEk3n7yVPoOY4Uzzfh.jpg" group-title="PELICULAS ACESTREAM" ,John Wick 4 1080
 acestream://5ce9e116ace93f705ff92cb8fcea779ac7460c35
 
-#EXTINF:-1 ,tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4nOYmPqBgbVEYJun5EB9Vk9tqSA.jpg"  group-title="ACESTREAM"  ,Scream VI 4K
+#EXTINF:-1 ,tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4nOYmPqBgbVEYJun5EB9Vk9tqSA.jpg"  group-title="PELICULAS ACESTREAM"  ,Scream VI 4K
 acestream://f78796db0843ebf15be9c633524feee83b707f40
 
-#EXTINF:-1 ,tvg-logo="https://decine21.com/img/upload/obras/uncharted-43126/src/uncharted-43126-c.jpg"  group-title="ACESTREAM"  , Uncharted 1080 
+#EXTINF:-1 ,tvg-logo="https://decine21.com/img/upload/obras/uncharted-43126/src/uncharted-43126-c.jpg"  group-title="PELICULAS ACESTREAM"  , Uncharted 1080 
 acestream://ef8ed76b23526dbac2fd06f1f636a553bbb5d2e9
 
-#EXTINF:-1 ,tvg-logo="https://decine21.com/img/upload/obras/jungle-cruise-40504/src/jungle-cruise-40504-c.jpg"  group-title="ACESTREAM" , Jungle Cruise 1080 
+#EXTINF:-1 ,tvg-logo="https://decine21.com/img/upload/obras/jungle-cruise-40504/src/jungle-cruise-40504-c.jpg"  group-title="PELICULAS ACESTREAM" , Jungle Cruise 1080 
 acestream://246c2efc64e4425f1d6bef6530852ffbd9f53b65
 
-#EXTINF:-1,tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gZEqh3vVcHhPBmBHdkprePuMgWn.jpg" group-title="ACESTREAM" , Flash 4K 
+#EXTINF:-1,tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gZEqh3vVcHhPBmBHdkprePuMgWn.jpg" group-title="PELICULAS ACESTREAM" , Flash 4K 
 acestream://aac53f84df68d1fa43ef6d066ba13b56e64f35b6
 
 
@@ -359,7 +359,7 @@ http://194539863471505345.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/505345.mkv
 #EXTINF:-1, tvg-logo="https://es.web.img2.acsta.net/pictures/17/03/07/14/12/442907.jpg" group-title=" PELICULAS 1080 ",Fast & Furious 8  
 http://194539863471147970.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/147970.mp4
 
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYWY1ZDY4MmQtYjhiYS00N2QwLTk1NzgtOWI2YzUwZThjNDYwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg" group-title="ACESTREAM"  ,Creed III 1080
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYWY1ZDY4MmQtYjhiYS00N2QwLTk1NzgtOWI2YzUwZThjNDYwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg" group-title="PELICULAS 1080"  ,Creed III 1080
 http://127.0.0.1:6878/ace/getstream?id=2ab2433fbf732b96e2d1675e4aeb509139a441db
 
 
@@ -370,7 +370,7 @@ http://127.0.0.1:6878/ace/getstream?id=2ab2433fbf732b96e2d1675e4aeb509139a441db
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/11/02/15/37/0544148.jpg" group-title=" PELICULAS 4K ",Avatar: El sentido del agua
 http://194539863471505164.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/505164.mkv
 
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTJhNzlmNzctNTU5Yy00N2YwLThhMjQtZDM0YjEzN2Y0ZjNhXkEyXkFqcGdeQXVyMTEwMTQ4MzU5._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM " ,Super Mario Bros 4K
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTJhNzlmNzctNTU5Yy00N2YwLThhMjQtZDM0YjEzN2Y0ZjNhXkEyXkFqcGdeQXVyMTEwMTQ4MzU5._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS 4K " ,Super Mario Bros 4K
 http://127.0.0.1:6878/ace/getstream?id=76a2c712b929cf7294dd4877403f9dfe0557fdcc
 
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYzZkOGUwMzMtMTgyNS00YjFlLTg5NzYtZTE3Y2E5YTA5NWIyXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_UY1200_CR90,0,630,1200_AL_.jpg" group-title=" PELICULAS 4K ",Black Adam
