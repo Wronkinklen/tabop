@@ -476,6 +476,8 @@ http://194539863471505445.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/505445.mkv
 #EXTINF:-1, tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2019/3/w1280/5SPa7dZ85p54xa7E9tHRmfKq5ce.jpg" group-title=" MARVEL ",Capitana Marvel  1080 
 http://194539863471148512.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/148512.mkv
 
+ <!-- SERIES 24H IPTV  -->
+
 #EXTINF:-1 ,group-title="Series 24h" tvg-logo="https://i.postimg.cc/tgqmkKvV/anhqv.png" ,Aquí no hay quien viva
 https://cdn5.lqsa.es/hls/0/stream.m3u8
 #EXTINF:-1 ,group-title="Series 24h" tvg-logo="https://i.postimg.cc/mgN5QLjs/lqsa.png" ,La que se avecina
