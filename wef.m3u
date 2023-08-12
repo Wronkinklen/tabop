@@ -59,13 +59,13 @@ acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
 acestream://5789ca155323664edd293b848606688edf803f4d
 #EXTINF:-1,tvg-name="DAZN F1 1080 2"tvg-logo="https://acortar.link/eeJCAb"  tvg-id="DAZN F1 HD" group-title="DAZN F1 ",DAZN F1 1080 2 
 acestream://9dad717d99b29a05672166258a77c25b57713dd5
-#EXTINF:-1,tvg-name="DAZN F1 1080 PRUEBA "tvg-logo=" https://acortar.link/eeJCAb" tvg-id="DAZN F1 HD"  group-title="DAZN F1 ",DAZN F1 1080 TEMPORAL (DESACTIVADO) 
+EXTINF:-1,tvg-name="DAZN F1 1080 PRUEBA "tvg-logo=" https://acortar.link/eeJCAb" tvg-id="DAZN F1 HD"  group-title="DAZN F1 ",DAZN F1 1080 TEMPORAL (DESACTIVADO) 
 acestream://aff9ef05a35642dbad7c0eee8c315768942e417e
 #EXTINF:-1,tvg-name="DAZN F1 720"tvg-logo=" https://acortar.link/eeJCAb" tvg-id="DAZN F1 HD"  group-title="DAZN F1 ",DAZN F1 720
 acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
-#EXTINF:-1,tvg-name= MULTICAMARA F1  "tvg-logo=" https://acortar.link/eeJCAb" tvg-id="DAZN F1 HD" group-title="DAZN F1 ",MULTICAMARA F1 (DESACTIVADO)
+#EXTINF:-1,tvg-name= MULTICAMARA F1" tvg-logo="https://acortar.link/WwBYRx" tvg-id="DAZN F1 HD" group-title="DAZN F1 ",MULTICAMARA F1 (DESACTIVADO)
 acestream://018186e9a5b942e3a5d8c24ca906ded64c2bbbe4
-#EXTINF:-1,tvg-name="DAZN F1 ONBOARD ALONSO"tvg-logo="https://acortar.link/QZZ08Q" group-title="DAZN F1 " tvg-id="DAZN F1 HD" ,DAZN F1 ONBOARD ALONSO (DESACTIVADO)
+#EXTINF:-1,tvg-name="DAZN F1 ONBOARD ALONSO" tvg-logo="https://acortar.link/QZZ08Q" group-title="DAZN F1 " tvg-id="DAZN F1 HD" ,DAZN F1 ONBOARD ALONSO (DESACTIVADO)
 acestream://a88c674c825fd00a936f424f58cd9004f52eb59b
 <!-- MOVISTAR -->
  
@@ -127,7 +127,7 @@ acestream://93d663e92a93845b11c9831885646fa39ba1ed66
 acestream://37d42d2b5d2278e6bb5810329a5f220867b3cf0c
 #EXTINF:-1,tvg-name="DAZN LIGA 2 720 1 "tvg-logo="https://telegra.ph/file/47cefdd0ff29e5ea76dfa.jpg" tvg-id="DAZN LaLiga 2 HD"  group-title="DAZN LALIGA",DAZN LIGA 2 720 1 
 acestream://0950c37fe1ea817fc561c611ae943d58505f7a79
-#EXTINF:-1,tvg-name="DAZN LIGA 3  1080  "tvg-logo="https://telegra.ph/file/47cefdd0ff29e5ea76dfa.jpg" tvg-id="" group-title="DAZN LALIGA",DAZN LIGA 3 1080 
+#EXTINF:-1,tvg-name="DAZN LIGA 3  1080  "tvg-logo="https://telegra.ph/file/6ede7767f85ffeecc9901.jpg" tvg-id="" group-title="DAZN LALIGA",DAZN LIGA 3 1080 
 acestream://91cf24543ac5a3dcd4a3557ce52de3f50ee6cb18
 #EXTINF:-1,tvg-name="DAZN LIGA 4  1080  "tvg-logo="https://telegra.ph/file/42064e09047a580ce96ec.jpg" tvg-id="" group-title="DAZN LALIGA",DAZN LIGA 4 1080 
 acestream://2792a8a5f4a3f53cd72dec377a2639cd12a6973e
