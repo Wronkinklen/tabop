@@ -86,9 +86,9 @@ acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
 acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce
 #EXTINF:-1,tvg-name="MOVISTAR DEPORTES 7 1080 "tvg-logo="https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png" tvg-id="M+ Deportes 7" group-title="MOVISTAR",MOVISTAR DEPORTES 7 1080  
 acestream://2448f1d084f440eed2fbe847e24f1c02f5659a78
-#EXTINF:-1,tvg-name="VAMOS 1080"tvg-logo="https://acortar.link/Jl1X3Q"  tvg-id="M+ #Vamos HD" group-title="MOVISTAR",VAMOS 1080 
+#EXTINF:-1,tvg-name="VAMOS 1080"tvg-logo="https://acortar.link/Jl1X3Q"  tvg-id="M+ #Vamos HD" group-title="MOVISTAR",#VAMOS 1080 
 acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1,tvg-name="VAMOS 720"tvg-logo="https://acortar.link/Jl1X3Q"tvg-id="M+ #Vamos HD"group-title="MOVISTAR",VAMOS 720 
+#EXTINF:-1,tvg-name="VAMOS 720"tvg-logo="https://acortar.link/Jl1X3Q"tvg-id="M+ #Vamos HD"group-title="MOVISTAR",#VAMOS 720 
 acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
 #EXTINF:-1,tvg-name="#ELLAS 1080"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Ellas_V_por_Movistar_Plus%2B.svg/640px-Ellas_V_por_Movistar_Plus%2B.svg.png" tvg-id="M+ Ellas #V HD" group-title="MOVISTAR",#ELLAS 1080
 acestream://67654e63b5065cdaa6c8e8d41bb5428b42b32830
@@ -101,6 +101,8 @@ acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
 acestream://1969c27658d4c8333ab2c0670802546121a774a5
 #EXTINF:-1,tvg-name="MOVISTAR LA LIGA 1080 TEMPORAL  "tvg-logo="https://telegra.ph/file/87a4c3d008b086629d093.jpg" tvg-id="M+ LaLiga TV HD" group-title="LIGA",MOVISTAR LA LIGA 1080 TEMPORAL
 acestream://731428b18eb656121990261c1b072b13f7caef30
+#EXTINF:-1,tvg-name="MOVISTAR LA LIGA 720  "tvg-logo="https://telegra.ph/file/87a4c3d008b086629d093.jpg" tvg-id="M+ LaLiga TV HD" group-title="LIGA",MOVISTAR LA LIGA 720
+acestream://f031f5728b32f6089dda28edebe990cf198108d8
 #EXTINF:-1,tvg-name="LA LIGA BAR 1080 "tvg-logo="https://acortar.link/Fw1d0B" tvg-id="LaLiga TV BAR HD" group-title="LIGA",LA LIGA BAR 1080 
 acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 #EXTINF:-1 group-title="LIGA" tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://telegra.ph/file/5c77da09724e53af96832.jpg" ,MOVISTAR LA LIGA 2  1080 
@@ -130,7 +132,7 @@ acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
 acestream://93d663e92a93845b11c9831885646fa39ba1ed66
 #EXTINF:-1,tvg-name="DAZN LIGA 2 1080 2 "tvg-logo="https://telegra.ph/file/47cefdd0ff29e5ea76dfa.jpg" tvg-id="DAZN LaLiga 2 HD" group-title="DAZN LALIGA",DAZN LIGA 2  1080 2 
 acestream://37d42d2b5d2278e6bb5810329a5f220867b3cf0c
-#EXTINF:-1,tvg-name="DAZN LIGA 2 720 1 "tvg-logo="https://telegra.ph/file/47cefdd0ff29e5ea76dfa.jpg" tvg-id="DAZN LaLiga 2 HD"  group-title="DAZN LALIGA",DAZN LIGA 2 720 1 
+#EXTINF:-1,tvg-name="DAZN LIGA 2 720 1 "tvg-logo="https://telegra.ph/file/47cefdd0ff29e5ea76dfa.jpg" tvg-id="DAZN LaLiga 2 HD"  group-title="DAZN LALIGA",DAZN LIGA 2 720 
 acestream://0950c37fe1ea817fc561c611ae943d58505f7a79
 #EXTINF:-1,tvg-name="DAZN LIGA 3  1080  "tvg-logo="https://telegra.ph/file/6ede7767f85ffeecc9901.jpg" tvg-id="" group-title="DAZN LALIGA",DAZN LIGA 3 1080 
 acestream://91cf24543ac5a3dcd4a3557ce52de3f50ee6cb18
