@@ -147,9 +147,9 @@ acestream://8ef4e74336a0114d6def70de9d15cc4817d2f350
  
 <!-- EUROSPORT -->
  
-#EXTINF:-1,tvg-name="EUROSPORT  1 1080 "tvg-logo="https://i.ibb.co/DKTwL0t/Eurosport1-o.jpg" tvg-id="Eurosport 1 HD" group-title="EUROSPORT",EUROSPORT 1 1080 
+#EXTINF:-1,tvg-name="EUROSPORT  1 1080" tvg-logo="https://i.ibb.co/DKTwL0t/Eurosport1-o.jpg" tvg-id="Eurosport 1 HD" group-title="EUROSPORT",EUROSPORT 1 1080 
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1,tvg-name="EUROSPORT  2 1080 "tvg-logo="https://i.ibb.co/4dFxnrC/Eurosport2-o.jpg" tvg-id="Eurosport 2" group-title="EUROSPORT",EUROSPORT 2 1080 
+#EXTINF:-1,tvg-name="EUROSPORT  2 1080" tvg-logo="" tvg-id="Eurosport 2" group-title="EUROSPORT",EUROSPORT 2 1080 
 acestream://c373da9e901d414b7384e671112e64d5a2310c29
 
 <!-- VARIADOS -->
@@ -169,15 +169,15 @@ acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
 
  <!-- DAZN F1 IPTV --> 
 
-#EXTINF:-1,tvg-name="DAZN F1 HD "tvg-logo="https://acortar.link/eeJCAb" tvg-id="DAZN F1 HD" group-title="DAZN F1 IPTV  ",DAZN F1 HD 
+#EXTINF:-1,tvg-name="DAZN F1 fHD "tvg-logo="https://acortar.link/eeJCAb" tvg-id="DAZN F1 HD" group-title="DAZN F1 IPTV  ",DAZN F1 fHD 
 http://62.197.129.85:8080/digitalbox/aJ4rpws3a0/204940
-#EXTINF:-1,tvg-name="DAZN F1 HD 2"tvg-logo="https://acortar.link/eeJCAb" tvg-id="DAZN F1 HD" group-title="DAZN F1 IPTV ",DAZN F1 HD 2 
+#EXTINF:-1,tvg-name="DAZN F1 fHD 2"tvg-logo="https://acortar.link/eeJCAb" tvg-id="DAZN F1 HD" group-title="DAZN F1 IPTV ",DAZN F1 fHD 2 
 http://62.197.129.85:8080/0003/yaz6PY6SXEFx/204940
-#EXTINF:-1,tvg-name="DAZN F1 HD 3"tvg-logo="https://acortar.link/eeJCAb" tvg-id="DAZN F1 HD" group-title="DAZN F1 IPTV ",DAZN F1 HD 3 
+#EXTINF:-1,tvg-name="DAZN F1 fHD 3"tvg-logo="https://acortar.link/eeJCAb" tvg-id="DAZN F1 HD" group-title="DAZN F1 IPTV ",DAZN F1 fHD 3 
 http://62.197.129.85:8080/firesp11/2023C/204940
-#EXTINF:-1,tvg-name="DAZN F1 HD 4"tvg-logo="https://acortar.link/eeJCAb" tvg-id="DAZN F1 HD" group-title="DAZN F1 IPTV ",DAZN F1 HD 4
+#EXTINF:-1,tvg-name="DAZN F1 fHD 4"tvg-logo="https://acortar.link/eeJCAb" tvg-id="DAZN F1 HD" group-title="DAZN F1 IPTV ",DAZN F1 fHD 4
 http://62.197.129.85:8080/1128221512/yUFEAr88Lv/204940
-#EXTINF:-1,tvg-name="DAZN F1 HD 1"tvg-logo="https://acortar.link/eeJCAb" tvg-id="DAZN F1 HD" group-title="DAZN F1 IPTV ",DAZN F1 HD
+#EXTINF:-1,tvg-name="DAZN F1 fHD 1"tvg-logo="https://acortar.link/eeJCAb" tvg-id="DAZN F1 HD" group-title="DAZN F1 IPTV ",DAZN F1 HD
 http://todoen1.xyz:8080/m6hP9j9tXP/r9NJQaGU6eMe/49905
 
 <!-- CHAMPIONS IPTV  -->
@@ -205,9 +205,9 @@ http://172.93.111.179:8080/sergioarayacas/SergioWh6/157427
 http://172.93.111.179:8080/sergioarayacas/SergioWh6/157437
 #EXTINF:-1,tvg-name="MOVISTAR LA LIGA FHD 2   "tvg-logo="https://telegra.ph/file/87a4c3d008b086629d093.jpg" tvg-id="M+ LaLiga TV HD"  group-title="LIGA IPTV",MOVISTAR LA LIGA FHD 2
 http://172.93.111.179:8080/sergioarayacas/SergioWh6/157438
-#EXTINF:-1,tvg-name="MOVISTAR LA LIGA HD   "tvg-logo="https://telegra.ph/file/87a4c3d008b086629d093.jpg" tvg-id="M+ LaLiga TV 2 HD"  group-title="LIGA IPTV",MOVISTAR LA LIGA HD 
+#EXTINF:-1,tvg-name="MOVISTAR LA LIGA HD   "tvg-logo="https://telegra.ph/file/87a4c3d008b086629d093.jpg" tvg-id="M+ LaLiga TV HD"  group-title="LIGA IPTV",MOVISTAR LA LIGA HD 
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/165392.ts
-#EXTINF:-1,tvg-name="MOVISTAR LA LIGA HD 2  "tvg-logo="https://telegra.ph/file/87a4c3d008b086629d093.jpg" tvg-id="M+ LaLiga TV 2 HD"  group-title="LIGA IPTV",MOVISTAR LA LIGA HD 2
+#EXTINF:-1,tvg-name="MOVISTAR LA LIGA HD 2  "tvg-logo="https://telegra.ph/file/87a4c3d008b086629d093.jpg" tvg-id="M+ LaLiga TV HD"  group-title="LIGA IPTV",MOVISTAR LA LIGA HD 2
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/165398.ts
 #EXTINF:-1,tvg-name="MOVISTAR LA LIGA 2  FHD "tvg-logo="https://telegra.ph/file/87a4c3d008b086629d093.jpg" tvg-id="M+ LaLiga TV 2 HD"  group-title="LIGA IPTV",MOVISTAR LA LIGA 2 FHD 
 http://172.93.111.179:8080/sergioarayacas/SergioWh6/157440
@@ -265,15 +265,15 @@ http://todoen1.xyz:8080/patriciosonncalderon/4ZC4SsdD4/176647
 
  <!-- EUROSPORT IPTV -->
 
-#EXTINF:-1,tvg-name="EUROSPORT  1 FHD "tvg-logo="https://i.ibb.co/DKTwL0t/Eurosport1-o.jpg" tvg-id="Eurosport 1 HD" group-title="EUROSPORT IPTV",EUROSPORT 1 FHD 
+#EXTINF:-1,tvg-name="EUROSPORT  1 FHD" tvg-logo="https://i.ibb.co/DKTwL0t/Eurosport1-o.jpg" tvg-id="Eurosport 1 HD" group-title="EUROSPORT IPTV",EUROSPORT 1 FHD 
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/290348.ts
-#EXTINF:-1,tvg-name="EUROSPORT  1 HD "tvg-logo="https://i.ibb.co/DKTwL0t/Eurosport1-o.jpg" tvg-id="Eurosport 1 HD" group-title="EUROSPORT IPTV",EUROSPORT 1 HD 
+#EXTINF:-1,tvg-name="EUROSPORT  1 HD" tvg-logo="https://i.ibb.co/DKTwL0t/Eurosport1-o.jpg" tvg-id="Eurosport 1 HD" group-title="EUROSPORT IPTV",EUROSPORT 1 HD 
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/290349.ts
-#EXTINF:-1,tvg-name="EUROSPORT  1 SD "tvg-logo="https://i.ibb.co/DKTwL0t/Eurosport1-o.jpg" tvg-id="Eurosport 1 HD" group-title="EUROSPORT IPTV",EUROSPORT 1 SD 
+#EXTINF:-1,tvg-name="EUROSPORT  1 SD" tvg-logo="" tvg-id="Eurosport 1 HD" group-title="EUROSPORT IPTV",EUROSPORT 1 SD 
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/290350.ts
 #EXTINF:-1,tvg-name="EUROSPORT  2 FHD "tvg-logo="https://i.ibb.co/4dFxnrC/Eurosport2-o.jpg" tvg-id="Eurosport 2" group-title="EUROSPORT IPTV",EUROSPORT 2 FHD 
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/290351.ts
-#EXTINF:-1,tvg-name="EUROSPORT  2 HD "tvg-logo="https://i.ibb.co/4dFxnrC/Eurosport2-o.jpg" tvg-id="Eurosport 2" group-title="EUROSPORT IPTV",EUROSPORT 2 HD 
+#EXTINF:-1,tvg-name="EUROSPORT  2 HD "tvg-logo="" tvg-id="Eurosport 2" group-title="EUROSPORT IPTV",EUROSPORT 2 HD 
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/290352.ts
 #EXTINF:-1,tvg-name="EUROSPORT  2 SD "tvg-logo="https://i.ibb.co/4dFxnrC/Eurosport2-o.jpg" tvg-id="Eurosport 2" group-title="EUROSPORT IPTV",EUROSPORT 2 SD 
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/290353.ts
@@ -293,8 +293,8 @@ https://w11.supercast2.com:999/hls/hdchnl11-349.ts
 
  <!-- VARIADOS IPTV  -->
 
-#EXTINF:0 tvg-id="GOL.es" group-title="VARIADOS IPTV ",GOL SD 
+EXTINF:-1, tvg-logo="https://i.postimg.cc/cCThLjpn/gol-play.png" tvg-id="GOL PLAY" group-title="VARIADOS IPTV ",GOL SD 
 http://16692914887321261.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321261.ts
-#EXTINF:0 tvg-id="Hollywood.es" group-title="VARIADOS IPTV ",HOLLYWOOD HD
+EXTINF:-1, tvg-id="Canal Hollywood HD" tvg-logo="https://acortar.link/002BDO" group-title="VARIADOS IPTV ",HOLLYWOOD HD
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321266.ts
 
