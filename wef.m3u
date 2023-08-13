@@ -66,6 +66,7 @@ EXTINF:-1,tvg-name="DAZN F1 ONBOARD ALONSO" tvg-logo="https://acortar.link/QZZ08
 acestream://a88c674c825fd00a936f424f58cd9004f52eb59b
 
 <!-- MOVISTAR DEPORTES --> 
+
 #EXTINF:-1,tvg-name="MOVISTAR DEPORTES 1080"tvg-logo="https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"  tvg-id="M+ Deportes HD" group-title="MOVISTAR",MOVISTAR DEPORTES 1080
 acestream://d00223931b1854163e24c5c22475015d7d45c112
 #EXTINF:-1,tvg-name="MOVISTAR DEPORTES 720"tvg-logo="https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"  tvg-id="M+ Deportes HD"  group-title="MOVISTAR",MOVISTAR DEPORTES 720
