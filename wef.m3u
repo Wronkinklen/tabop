@@ -392,8 +392,7 @@ http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/290353.ts
 
 #EXTINF:-1, group-title="WRC IPTV" tvg-id="Sport TV5 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a454.png" ,WRC SD (OFF)
 
-
-XTINF:-1, group-title="WRC IPTV" tvg-id="Sport TV5 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a454.png" ,WRC SD (PRUEBA)
+#EXTINF:-1, group-title="WRC IPTV" tvg-id="Sport TV5 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a454.png" ,WRC SD (PRUEBA)
 
  <!-- VARIADOS IPTV -->
 
@@ -416,6 +415,9 @@ http://127.0.0.1:6878/ace/getstream?id=fee0f3a3ec9ea8aec38aa26a3b7bed0ce7fbe2cc
 
 #EXTINF:-1,tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3P9QvWVN02Etn4kYGC702WVoXEb.jpg" group-title="PELICULAS ACESTREAM",Fast And Furious X 1080
 http://127.0.0.1:6878/ace/getstream?id=68b6a4f18c39f9b97e312ca765606323ca29bdeb
+
+#EXTINF:-1,tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3P9QvWVN02Etn4kYGC702WVoXEb.jpg" group-title="PELICULAS ACESTREAM",Fast And Furious X 4K
+def3bce00919be7eadca0a173eec2df69ba102f4
 
 #EXTINF:-1,tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mj2Z9HnRSIEk3n7yVPoOY4Uzzfh.jpg" group-title="PELICULAS ACESTREAM" ,John Wick 4 1080
 http://127.0.0.1:6878/ace/getstream?id=5ce9e116ace93f705ff92cb8fcea779ac7460c35
@@ -450,6 +452,14 @@ http://127.0.0.1:6878/ace/getstream?id=be5d6949eeef78f17560c0e50238fcccc4858c5a
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMjZjNmJkYjItZjBiYS00MGI5LWFkM2YtMWQ0YjZmNTI0YTY3XkEyXkFqcGdeQXVyMTUzMTQ0NzQz._V1_.jpg" group-title=" PELICULAS ACESTREAM ",Air 1080
 http://127.0.0.1:6878/ace/getstream?id=35549f0d63b6524ae86b356cd07df5ea79fb64dd
 
+#EXTINF:-1,tvg-logo="https://hips.hearstapps.com/hmg-prod/images/tenet-1593638684.jpeg" group-title=" PELICULAS 1080 ",TENET 1080 
+http://127.0.0.1:6878/ace/getstream?id=5f2cf43c9bbda6bdb30c1a388151acfd7e015680
+
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Piratas_del_Caribe_La_venganza_de_Salazar-591351172-large.jpg" group-title=" PELICULAS 1080 ",Piratas del Caribe:La Venganza de Salazar
+http://127.0.0.1:6878/ace/getstream?id=d7861c13722ad9c9b29fc1adbd509c03a3e40a8a
+
+
+
 
 <!-- PELICULAS 1080  -->
 
@@ -483,6 +493,8 @@ http://194539863471147970.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/147970.mp4
 #EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Animales_fantaasticos_Los_secretos_de_Dumbledore-224990969-large.jpg" group-title=" PELICULAS 1080 ",Animales Fantásticos 3: Los Secretos de Dumbledore 
 http://194539863471505154.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/505154.mkv
 
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Animales_fantaasticos_Los_secretos_de_Dumbledore-224990969-large.jpg" group-title=" PELICULAS 1080 ",Animales Fantásticos 3: Los Secretos de Dumbledore 
+
 
 
 <!-- PELICULAS 4K -->
@@ -490,7 +502,7 @@ http://194539863471505154.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/505154.mkv
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/11/02/15/37/0544148.jpg" group-title=" PELICULAS 4K ",Avatar: El sentido del agua
 http://194539863471505164.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/505164.mkv
 
-#EXTINF:-1, tvg-logo="https://pics.filmaffinity.com/Black_Adam-931758598-large.jpg" group-title="PELICULAS 4K" , Black Adam
+#EXTINF:-1, tvg-logo="https://pics.filmaffinity.com/Black_Adam-806237944-large.jpg" group-title="PELICULAS 4K" , Black Adam
 http://194539863471505174.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/505174.mkv
 
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMjZjNmJkYjItZjBiYS00MGI5LWFkM2YtMWQ0YjZmNTI0YTY3XkEyXkFqcGdeQXVyMTUzMTQ0NzQz._V1_.jpg" group-title=" PELICULAS 4K ",Air 
@@ -507,6 +519,10 @@ http://194539863471320461.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/320461.mkv
 
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZjNiMjkzMDItOWNjMy00ODZjLTgwY2UtZTEyODYzNTI2NzI1XkEyXkFqcGdeQXVyMTU5OTA4NTIz._V1_FMjpg_UX1000_.jpg"  group-title=" PELICULAS 4K",El Gato con Botas: El último deseo 
 http://194539863471505257.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/505257.mkv 
+
+
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYWY1ZDY4MmQtYjhiYS00N2QwLTk1NzgtOWI2YzUwZThjNDYwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg" group-title="PELICULAS 4K"  ,Creed III 4K (ACE)
+http://127.0.0.1:6878/ace/getstream?id=97b21156fffcdf1a442e5dd1adde14bafa03e841
 
 
 
@@ -529,6 +545,9 @@ http://194539863471505408.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/505408.mkv
 
 
 <!-- HARRY POTTER  -->
+
+#EXTINF:-1,tvg-logo="https://www.ecartelera.com/carteles/3000/3074/001_p.jpg" group-title="HARRY POTTER " ,Harry Potter y la piedra filosofal  1080
+http://127.0.0.1:6878/ace/getstream?id=a7dadb7ed35f2fc658b15a1a08eeef1c9760a8ce
 
 #EXTINF:-1,tvg-logo="https://www.ecartelera.com/carteles/3000/3074/001_p.jpg" group-title="HARRY POTTER " ,Harry Potter y la piedra filosofal  4K 
 http://194539863471148525.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/148525.mkv 
@@ -554,6 +573,9 @@ http://194539863471148526.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/148526.mkv
 <!-- MARVEL  -->
 
 
+#EXTINF:-1, tvg-logo="https://www.cinemascomics.com/wp-content/uploads/2018/04/poster-imax-vengadores-infinity-war.jpg" group-title=" MARVEL ",Vengadores: Infinity War 1080
+http://127.0.0.1:6878/ace/getstream?id=392ff4a0d2b82d4abe9b8c5c2c85e7e26205b8f6
+
 #EXTINF:-1, tvg-logo="https://i.promecal.es/IMG/2018/A51BD26A-DD3B-0221-022D6C41688A5E06.JPG" group-title=" MARVEL ",Black Panther: Wakanda Forever 1080
 http://194539863471505175.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/505175.mkv
 
@@ -568,7 +590,6 @@ http://127.0.0.1:6878/ace/getstream?id=01f97b1cfc6d1335674b41eb0df929396086c1ea
 
 #EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Guardianes_de_la_galaxia_Vol_3-328540746-large.jpg" group-title="MARVEL"  ,Guardianes de la galaxia Vol. 3 1080 (ACE)
 http://127.0.0.1:6878/ace/getstream?id=8bcc8ab90149b0776483600671e6bfa2ec28073f
-
 
 #EXTINF:-1, tvg-logo="https://es.web.img2.acsta.net/pictures/21/12/01/12/07/0243323.jpg" group-title="MARVEL " , Spider-Man No Way Home 1080 (ACE)
 http://127.0.0.1:6878/ace/getstream?id=6dff7ffba4e22e6787f6e3c91f9b1781047c688b
