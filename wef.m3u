@@ -422,7 +422,7 @@ http://127.0.0.1:6878/ace/getstream?id=fee0f3a3ec9ea8aec38aa26a3b7bed0ce7fbe2cc
 http://127.0.0.1:6878/ace/getstream?id=68b6a4f18c39f9b97e312ca765606323ca29bdeb
 
 #EXTINF:-1,tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3P9QvWVN02Etn4kYGC702WVoXEb.jpg" group-title="PELICULAS ACESTREAM",Fast And Furious X 4K
-http://127.0.0.1:6878/ace/getstream?iddef3bce00919be7eadca0a173eec2df69ba102f4
+http://127.0.0.1:6878/ace/getstream?id=def3bce00919be7eadca0a173eec2df69ba102f4
 
 #EXTINF:-1,tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mj2Z9HnRSIEk3n7yVPoOY4Uzzfh.jpg" group-title="PELICULAS ACESTREAM" ,John Wick 4 1080
 http://127.0.0.1:6878/ace/getstream?id=5ce9e116ace93f705ff92cb8fcea779ac7460c35
