@@ -383,16 +383,22 @@ http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/290353.ts
  <!-- WRC IPTV -->
 
 #EXTINF:-1, group-title="WRC IPTV" tvg-id="Sport TV5 POR HD" tvg-logo="https://i.pinimg.com/236x/04/da/bd/04dabd53c1ac13f81a0ff16880a7cc8b.jpg" ,WRC ESPAÑOL HD (OFF)
+http://127.0.0.1:6878/ace/getstream?id=ecf4ec41200785812c140e3d1050b412f1519fa7
 
 #EXTINF:-1, group-title="WRC IPTV" tvg-id="Sport TV5 POR HD" tvg-logo="https://i.pinimg.com/236x/04/da/bd/04dabd53c1ac13f81a0ff16880a7cc8b.jpg" ,WRC ESPAÑOL 2 HD (OFF)
+http://127.0.0.1:6878/ace/getstream?id=ecf4ec41200785812c140e3d1050b412f1519fa7
 
 #EXTINF:-1, group-title="WRC IPTV" tvg-id="Sport TV5 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a454.png" ,WRC HD (OFF)
+http://127.0.0.1:6878/ace/getstream?id=ecf4ec41200785812c140e3d1050b412f1519fa7
 
 #EXTINF:-1, group-title="WRC IPTV" tvg-id="Sport TV5 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a454.png" ,WRC HD (OFF)
+http://127.0.0.1:6878/ace/getstream?id=ecf4ec41200785812c140e3d1050b412f1519fa7
 
 #EXTINF:-1, group-title="WRC IPTV" tvg-id="Sport TV5 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a454.png" ,WRC SD (OFF)
+http://127.0.0.1:6878/ace/getstream?id=ecf4ec41200785812c140e3d1050b412f1519fa7
 
 #EXTINF:-1, group-title="WRC IPTV" tvg-id="Sport TV5 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a454.png" ,WRC SD (PRUEBA)
+http://127.0.0.1:6878/ace/getstream?id=ecf4ec41200785812c140e3d1050b412f1519fa7
 
  <!-- VARIADOS IPTV -->
 
@@ -436,6 +442,9 @@ http://127.0.0.1:6878/ace/getstream?id=aac53f84df68d1fa43ef6d066ba13b56e64f35b6
 
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYWY1ZDY4MmQtYjhiYS00N2QwLTk1NzgtOWI2YzUwZThjNDYwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg" group-title="PELICULAS ACESTREAM"  ,Creed III 1080 
 http://127.0.0.1:6878/ace/getstream?id=2ab2433fbf732b96e2d1675e4aeb509139a441db
+
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYWY1ZDY4MmQtYjhiYS00N2QwLTk1NzgtOWI2YzUwZThjNDYwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg" group-title="PELICULAS 4K"  ,Creed III 4K 
+http://127.0.0.1:6878/ace/getstream?id=97b21156fffcdf1a442e5dd1adde14bafa03e841
 
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/11/02/15/37/0544148.jpg" group-title="PELICULAS ACESTREAM"  , Avatar: El sentido del agua 1080 
 http://127.0.0.1:6878/ace/getstream?id=50f86b209afdb40fd79c29cc4de84541852a8555
@@ -492,8 +501,7 @@ http://194539863471147970.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/147970.mp4
 
 #EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Animales_fantaasticos_Los_secretos_de_Dumbledore-224990969-large.jpg" group-title=" PELICULAS 1080 ",Animales Fantásticos 3: Los Secretos de Dumbledore 
 http://194539863471505154.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/505154.mkv
-
-#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Animales_fantaasticos_Los_secretos_de_Dumbledore-224990969-large.jpg" group-title=" PELICULAS 1080 ",Animales Fantásticos 3: Los Secretos de Dumbledore 
+ 
 
 
 
@@ -521,8 +529,6 @@ http://194539863471320461.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/320461.mkv
 http://194539863471505257.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/505257.mkv 
 
 
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYWY1ZDY4MmQtYjhiYS00N2QwLTk1NzgtOWI2YzUwZThjNDYwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg" group-title="PELICULAS 4K"  ,Creed III 4K (ACE)
-http://127.0.0.1:6878/ace/getstream?id=97b21156fffcdf1a442e5dd1adde14bafa03e841
 
 
 
@@ -552,9 +558,6 @@ http://127.0.0.1:6878/ace/getstream?id=a7dadb7ed35f2fc658b15a1a08eeef1c9760a8ce
 #EXTINF:-1,tvg-logo="https://www.ecartelera.com/carteles/3000/3074/001_p.jpg" group-title="HARRY POTTER " ,Harry Potter y la piedra filosofal  4K 
 http://194539863471148525.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/148525.mkv 
 
-#EXTINF:-1,tvg-logo="https://www.ecartelera.com/carteles/3000/3074/001_p.jpg" group-title="HARRY POTTER " ,Harry Potter y la piedra filosofal  1080
-magnet:?xt=urn:btih:55C21FADCF6C62DB2D0CC70B162D3056ECBAC6AC&dn=Harry%20Potter%201%20y%20la%20Piedra%20Filosofal%20%5bMicroHD%201080p%5d%5bAC3%205.1-Castellano-AC3%205.1%20Ingles%2bSubs%5d%5bES-EN%5d&tr=http%3a%2f%2fwww.spanishtracker.com%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80&tr=udp%3a%2f%2ftracker.publicbt.com%3a80&tr=http%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=wss%3a%2f%2fwstracker.online
-
 #EXTINF:-1,tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWZL5T74/image?locale=es-es&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg " group-title="HARRY POTTER ",Harry Potter y la cámara secreta  4K 
 http://194539863471148523.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/148523.mkv
 
@@ -573,7 +576,7 @@ http://194539863471148526.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/148526.mkv
 <!-- MARVEL  -->
 
 
-#EXTINF:-1, tvg-logo="https://www.cinemascomics.com/wp-content/uploads/2018/04/poster-imax-vengadores-infinity-war.jpg" group-title=" MARVEL ",Vengadores: Infinity War 1080
+#EXTINF:-1, tvg-logo="https://www.cinemascomics.com/wp-content/uploads/2018/04/poster-imax-vengadores-infinity-war.jpg" group-title=" MARVEL ",Vengadores: Infinity War 1080 (ACE)
 http://127.0.0.1:6878/ace/getstream?id=392ff4a0d2b82d4abe9b8c5c2c85e7e26205b8f6
 
 #EXTINF:-1, tvg-logo="https://i.promecal.es/IMG/2018/A51BD26A-DD3B-0221-022D6C41688A5E06.JPG" group-title=" MARVEL ",Black Panther: Wakanda Forever 1080
