@@ -429,6 +429,24 @@ http://127.0.0.1:6878/ace/getstream?id=246c2efc64e4425f1d6bef6530852ffbd9f53b65
 #EXTINF:-1,tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gZEqh3vVcHhPBmBHdkprePuMgWn.jpg" group-title="PELICULAS ACESTREAM" , Flash 4K 
 http://127.0.0.1:6878/ace/getstream?id=aac53f84df68d1fa43ef6d066ba13b56e64f35b6
 
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYWY1ZDY4MmQtYjhiYS00N2QwLTk1NzgtOWI2YzUwZThjNDYwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg" group-title="PELICULAS ACESTREAM"  ,Creed III 1080 
+http://127.0.0.1:6878/ace/getstream?id=2ab2433fbf732b96e2d1675e4aeb509139a441db
+
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/11/02/15/37/0544148.jpg" group-title="PELICULAS ACESTREAM"  , Avatar: El sentido del agua 1080 
+http://127.0.0.1:6878/ace/getstream?id=50f86b209afdb40fd79c29cc4de84541852a8555
+
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTJhNzlmNzctNTU5Yy00N2YwLThhMjQtZDM0YjEzN2Y0ZjNhXkEyXkFqcGdeQXVyMTEwMTQ4MzU5._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM " ,Super Mario Bros 4K
+http://127.0.0.1:6878/ace/getstream?id=76a2c712b929cf7294dd4877403f9dfe0557fdcc
+
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTJhNzlmNzctNTU5Yy00N2YwLThhMjQtZDM0YjEzN2Y0ZjNhXkEyXkFqcGdeQXVyMTEwMTQ4MzU5._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM " ,Super Mario Bros 1080
+http://127.0.0.1:6878/ace/getstream?id=42b4a39cfff3a276fce4f212dcfdf4777a477d94
+
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Black_Adam-931758598-large.jpg" group-title=" PELICULAS ACESTREAM ",Black Adam 1080
+http://127.0.0.1:6878/ace/getstream?id=be5d6949eeef78f17560c0e50238fcccc4858c5a
+
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMjZjNmJkYjItZjBiYS00MGI5LWFkM2YtMWQ0YjZmNTI0YTY3XkEyXkFqcGdeQXVyMTUzMTQ0NzQz._V1_.jpg" group-title=" PELICULAS ACESTREAM ",Air 1080
+http://127.0.0.1:6878/ace/getstream?id=35549f0d63b6524ae86b356cd07df5ea79fb64dd
+
 
 <!-- PELICULAS 1080  -->
 
@@ -450,7 +468,6 @@ http://194539863471148535.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/148535.mkv
 #EXTINF:-1, tvg-logo="https://comicsbarcelona.com/72347-large_default/star-wars-episodio-ix-el-ascenso-de-skywalker-novela-comprar.jpg" group-title=" PELICULAS 1080 " ,Star Wars: El ascenso de Skywalker
 http://194539863471148538.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/148538.mkv
 
-
 #EXTINF:-1, tvg-logo="https://www.lahiguera.net/cinemania/pelicula/10043/downton_abbey_una_nueva_era-cartel-10338.jpg" group-title=" PELICULAS 1080 ",Downton Abbey: La película 
 http://194539863471147138.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/147138.mp4 
 
@@ -459,21 +476,6 @@ http://194539863471505345.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/505345.mkv
 
 #EXTINF:-1, tvg-logo="https://es.web.img2.acsta.net/pictures/17/03/07/14/12/442907.jpg" group-title=" PELICULAS 1080 ",Fast & Furious 8  
 http://194539863471147970.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/147970.mp4
-
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYWY1ZDY4MmQtYjhiYS00N2QwLTk1NzgtOWI2YzUwZThjNDYwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg" group-title="PELICULAS 1080"  ,Creed III 1080 (ACE)
-http://127.0.0.1:6878/ace/getstream?id=2ab2433fbf732b96e2d1675e4aeb509139a441db
-
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/11/02/15/37/0544148.jpg" group-title="PELICULAS 1080"  , Avatar: El sentido del agua 1080 (ACE)
-http://127.0.0.1:6878/ace/getstream?id=50f86b209afdb40fd79c29cc4de84541852a8555
-
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTJhNzlmNzctNTU5Yy00N2YwLThhMjQtZDM0YjEzN2Y0ZjNhXkEyXkFqcGdeQXVyMTEwMTQ4MzU5._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS 1080 " ,Super Mario Bros (ACE)
-http://127.0.0.1:6878/ace/getstream?id=42b4a39cfff3a276fce4f212dcfdf4777a477d94
-
-#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Black_Adam-931758598-large.jpg" group-title=" PELICULAS 1080 ",Black Adam (ACE)
-http://127.0.0.1:6878/ace/getstream?id=be5d6949eeef78f17560c0e50238fcccc4858c5a
-
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMjZjNmJkYjItZjBiYS00MGI5LWFkM2YtMWQ0YjZmNTI0YTY3XkEyXkFqcGdeQXVyMTUzMTQ0NzQz._V1_.jpg" group-title=" PELICULAS 1080 ",Air (ACE)
-http://127.0.0.1:6878/ace/getstream?id=35549f0d63b6524ae86b356cd07df5ea79fb64dd
 
 #EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Animales_fantaasticos_Los_secretos_de_Dumbledore-224990969-large.jpg" group-title=" PELICULAS 1080 ",Animales Fantásticos 3: Los Secretos de Dumbledore 
 http://194539863471505154.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/505154.mkv
@@ -484,9 +486,6 @@ http://194539863471505154.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/505154.mkv
 
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/11/02/15/37/0544148.jpg" group-title=" PELICULAS 4K ",Avatar: El sentido del agua
 http://194539863471505164.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/505164.mkv
-
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTJhNzlmNzctNTU5Yy00N2YwLThhMjQtZDM0YjEzN2Y0ZjNhXkEyXkFqcGdeQXVyMTEwMTQ4MzU5._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS 4K " ,Super Mario Bros (ACE)
-http://127.0.0.1:6878/ace/getstream?id=76a2c712b929cf7294dd4877403f9dfe0557fdcc
 
 #EXTINF:-1, tvg-logo="https://pics.filmaffinity.com/Black_Adam-931758598-large.jpg" group-title="PELICULAS 4K" , Black Adam
 http://194539863471505174.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/505174.mkv
@@ -513,7 +512,7 @@ http://194539863471505257.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/505257.mkv
 #EXTINF:-1 ,tvg-logo="https://es.web.img2.acsta.net/pictures/22/06/22/10/41/1773839.jpg" group-title="DOCUMENTALES" , Rubius 
 http://194539863471505490.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/505490.mkv
 
-#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Oppenheimer_El_dilema_de_la_bomba_ataomica-948121966-mmed.jpg" group-title=" DOCUMENTALES",Oppenheimer El dilema de la bomba atomica  
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Oppenheimer_El_dilema_de_la_bomba_ataomica-948121966-mmed.jpg" group-title=" DOCUMENTALES",Oppenheimer El dilema de la bomba atomica (ACE)  
 http://127.0.0.1:6878/ace/getstream?id=9d83b4ef5b2b688e8433ffe5d40d9cb01fe9cde0
 
 #EXTINF:-1,tvg-logo=" https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/7/w1280/rftpS2XsgTlSb1xtOQ4mxmPRIN4.jpg" group-title=" DOCUMENTALES",Juan Lebrón: la evolución del pádel 
