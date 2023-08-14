@@ -56,13 +56,13 @@ http://127.0.0.1:6878/ace/getstream?id=2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
 http://127.0.0.1:6878/ace/getstream?id=5789ca155323664edd293b848606688edf803f4d
 #EXTINF:-1,tvg-name="DAZN F1 1080 2"tvg-logo="https://acortar.link/eeJCAb"  tvg-id="DAZN F1 HD" group-title="DAZN F1 ",DAZN F1 1080 2 
 http://127.0.0.1:6878/ace/getstream?id=9dad717d99b29a05672166258a77c25b57713dd5
-EXTINF:-1,tvg-name="DAZN F1 1080 TEMPORAL "tvg-logo=" https://acortar.link/eeJCAb" tvg-id="DAZN F1 HD"  group-title="DAZN F1 ",DAZN F1 1080 TEMPORAL 
+# !!!! EXTINF:-1,tvg-name="DAZN F1 1080 TEMPORAL "tvg-logo=" https://acortar.link/eeJCAb" tvg-id="DAZN F1 HD"  group-title="DAZN F1 ",DAZN F1 1080 TEMPORAL !!!
 http://127.0.0.1:6878/ace/getstream?id=aff9ef05a35642dbad7c0eee8c315768942e417e
 #EXTINF:-1,tvg-name="DAZN F1 720"tvg-logo=" https://acortar.link/eeJCAb" tvg-id="DAZN F1 HD"  group-title="DAZN F1 ",DAZN F1 720
 http://127.0.0.1:6878/ace/getstream?id=e1fcad9de0c782c157fde6377805c58297ab65c2
-EXTINF:-1,tvg-name= MULTICAMARA F1" tvg-logo="https://acortar.link/WwBYRx" tvg-id="DAZN F1 HD" group-title="DAZN F1 ",MULTICAMARA F1 
+# EXTINF:-1,tvg-name= MULTICAMARA F1" tvg-logo="https://acortar.link/WwBYRx" tvg-id="DAZN F1 HD" group-title="DAZN F1 ",MULTICAMARA F1 
 http://127.0.0.1:6878/ace/getstream?id=018186e9a5b942e3a5d8c24ca906ded64c2bbbe4
-EXTINF:-1,tvg-name="DAZN F1 ONBOARD ALONSO" tvg-logo="https://acortar.link/QZZ08Q" tvg-id="DAZN F1 HD" group-title="DAZN F1 ",DAZN F1 ONBOARD ALONSO 
+# EXTINF:-1,tvg-name="DAZN F1 ONBOARD ALONSO" tvg-logo="https://acortar.link/QZZ08Q" tvg-id="DAZN F1 HD" group-title="DAZN F1 ",DAZN F1 ONBOARD ALONSO 
 http://127.0.0.1:6878/ace/getstream?id=a88c674c825fd00a936f424f58cd9004f52eb59b
 
 <!-- MOVISTAR DEPORTES --> 
