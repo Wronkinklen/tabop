@@ -597,8 +597,11 @@ http://127.0.0.1:6878/ace/getstream?id=8bcc8ab90149b0776483600671e6bfa2ec28073f
 #EXTINF:-1, tvg-logo="https://es.web.img2.acsta.net/pictures/21/12/01/12/07/0243323.jpg" group-title="MARVEL " , Spider-Man No Way Home 1080 (ACE)
 http://127.0.0.1:6878/ace/getstream?id=6dff7ffba4e22e6787f6e3c91f9b1781047c688b
 
-#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Spider_Man_Cruzando_el_Multiverso-257260163-large.jpg"  group-title="MARVEL" ,Spider-Man: Cruzando el Multiverso (ACE)
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Spider_Man_Cruzando_el_Multiverso-257260163-large.jpg"  group-title="MARVEL" ,Spider-Man: Cruzando el Multiverso 4K (ACE)
 http://127.0.0.1:6878/ace/getstream?id=a06663348cd97dec63f6fcacd1418ca4b299387e
+
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Spider_Man_Cruzando_el_Multiverso-257260163-large.jpg"  group-title="MARVEL" ,Spider-Man: Cruzando el Multiverso 1080 (ACE)
+http://127.0.0.1:6878/ace/getstream?id=bea09e9c4de96b3a4ec5fe65a0ab1a8faf068b11
 
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/07/11/43/1839314.jpg" group-title=" MARVEL", Doctor Strange en el multiverso de la locura  4K 
 http://194539863471320486.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/320486.mkv
