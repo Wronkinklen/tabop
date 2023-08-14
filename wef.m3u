@@ -525,6 +525,7 @@ http://194539863471148529.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/148529.mkv
 #EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Animales_fantaasticos_Los_secretos_de_Dumbledore-224990969-large.jpg" group-title=" PELICULAS 4K ",Animales Fantásticos 3: Los Secretos de Dumbledore 
 http://194539863471320461.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/320461.mkv
 
+
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZjNiMjkzMDItOWNjMy00ODZjLTgwY2UtZTEyODYzNTI2NzI1XkEyXkFqcGdeQXVyMTU5OTA4NTIz._V1_FMjpg_UX1000_.jpg"  group-title=" PELICULAS 4K",El Gato con Botas: El último deseo 
 http://194539863471505257.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/505257.mkv 
 
@@ -560,6 +561,9 @@ http://194539863471148525.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/148525.mkv
 
 #EXTINF:-1,tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWZL5T74/image?locale=es-es&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg " group-title="HARRY POTTER ",Harry Potter y la cámara secreta  4K 
 http://194539863471148523.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/148523.mkv
+
+#EXTINF:-1,tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWZL5T74/image?locale=es-es&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg " group-title="HARRY POTTER ",Harry Potter y la cámara secreta  1080 
+http://127.0.0.1:6878/ace/getstream?id=b71ce8f2d7b8ac3eb41dec3342ea54ca6735b8c2
 
 #EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/14/04/30/11/36/185120.jpg" group-title="HARRY POTTER ",Harry Potter y el prisionero de Azkaban  4K  
 http://194539863471148522.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/148522.mkv
