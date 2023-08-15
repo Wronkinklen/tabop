@@ -460,10 +460,10 @@ http://127.0.0.1:6878/ace/getstream?id=be5d6949eeef78f17560c0e50238fcccc4858c5a
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMjZjNmJkYjItZjBiYS00MGI5LWFkM2YtMWQ0YjZmNTI0YTY3XkEyXkFqcGdeQXVyMTUzMTQ0NzQz._V1_.jpg" group-title=" PELICULAS ACESTREAM ",Air 1080
 http://127.0.0.1:6878/ace/getstream?id=35549f0d63b6524ae86b356cd07df5ea79fb64dd
 
-#EXTINF:-1,tvg-logo="https://hips.hearstapps.com/hmg-prod/images/tenet-1593638684.jpeg" group-title=" PELICULAS 1080 ",TENET 1080 
+#EXTINF:-1,tvg-logo="https://hips.hearstapps.com/hmg-prod/images/tenet-1593638684.jpeg" group-title=" PELICULAS ACESTREAM ",TENET 1080 
 http://127.0.0.1:6878/ace/getstream?id=5f2cf43c9bbda6bdb30c1a388151acfd7e015680
 
-#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Piratas_del_Caribe_La_venganza_de_Salazar-591351172-large.jpg" group-title=" PELICULAS 1080 ",Piratas del Caribe:La Venganza de Salazar 
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Piratas_del_Caribe_La_venganza_de_Salazar-591351172-large.jpg" group-title=" PELICULAS ACESTREAM ",Piratas del Caribe:La Venganza de Salazar 
 http://127.0.0.1:6878/ace/getstream?id=d7861c13722ad9c9b29fc1adbd509c03a3e40a8a
 
 
