@@ -560,11 +560,14 @@ http://127.0.0.1:6878/ace/getstream?id=a7dadb7ed35f2fc658b15a1a08eeef1c9760a8ce
 #EXTINF:-1,tvg-logo="https://www.ecartelera.com/carteles/3000/3074/001_p.jpg" group-title="HARRY POTTER " ,Harry Potter y la piedra filosofal  4K 
 http://194539863471148525.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/148525.mkv 
 
+#EXTINF:-1,tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWZL5T74/image?locale=es-es&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg " group-title="HARRY POTTER ",Harry Potter y la cámara secreta  1080  (ACE)
+http://127.0.0.1:6878/ace/getstream?id=b71ce8f2d7b8ac3eb41dec3342ea54ca6735b8c2
+
 #EXTINF:-1,tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWZL5T74/image?locale=es-es&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg " group-title="HARRY POTTER ",Harry Potter y la cámara secreta  4K 
 http://194539863471148523.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/148523.mkv
 
-#EXTINF:-1,tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWZL5T74/image?locale=es-es&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg " group-title="HARRY POTTER ",Harry Potter y la cámara secreta  1080  (ACE)
-http://127.0.0.1:6878/ace/getstream?id=b71ce8f2d7b8ac3eb41dec3342ea54ca6735b8c2
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/14/04/30/11/36/185120.jpg" group-title="HARRY POTTER ",Harry Potter y el prisionero de Azkaban 1080 (ACE)
+http://127.0.0.1:6878/ace/getstream?id=0e9bc1d05d857e249eb128bf1970c1553f973cf0
 
 #EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/14/04/30/11/36/185120.jpg" group-title="HARRY POTTER ",Harry Potter y el prisionero de Azkaban  4K 
 http://194539863471148522.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/148522.mkv
@@ -575,20 +578,29 @@ http://127.0.0.1:6878/ace/getstream?id=eedf51651f72921da0af33834ab9d428774fc15e
 #EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Harry_Potter_y_el_caaliz_de_fuego-612673227-mmed.jpg" group-title="HARRY POTTER ",Harry Potter y el Cáliz de Fuego 1080 (ACE)
 http://127.0.0.1:6878/ace/getstream?id=3272df8bfb02aeb5e7292d7fd8f3d7c542ac382a
 
+#EXTINF:-1,tvg-logo="https://acortar.link/GyksxC" group-title="HARRY POTTER " ,Harry Potter y la Orden del Fénix 1080 (ACE)
+http://127.0.0.1:6878/ace/getstream?id=de1d0f14c7e6a10e8340878a60a132713f994051
+
 #EXTINF:-1,tvg-logo="https://acortar.link/GyksxC" group-title="HARRY POTTER " ,Harry Potter y la Orden del Fénix 4K (ACE)
 http://127.0.0.1:6878/ace/getstream?id=399df9d49a5b903dcb4c1f9a6bb5de7aa7c01ab8
+
+#EXTINF:-1,tvg-logo="https://www.aceprensa.com/wp-content/uploads/2009/07/767-0.jpg" group-title="HARRY POTTER " ,Harry Potter y el Misterio del Principe 1080 (ACE)
+http://127.0.0.1:6878/ace/getstream?id=525b553b9263bd0b59933ea9b1533c8fb63d63ca
 
 #EXTINF:-1,tvg-logo="https://www.aceprensa.com/wp-content/uploads/2009/07/767-0.jpg" group-title="HARRY POTTER " ,Harry Potter y el Misterio del Principe 4K (ACE)
 http://127.0.0.1:6878/ace/getstream?id=89b63b687af6d1344e5c602ee6edb9f0dfbddc1a
 
+#EXTINF:-1,tvg-logo="https://i.etsystatic.com/10683147/r/il/df8d9b/2237714239/il_570xN.2237714239_buqx.jpg" group-title="HARRY POTTER " , Harry Potter y las Reliquias de la Muerte Parte 1 1080 (ACE)
+http://127.0.0.1:6878/ace/getstream?id=dbf4529b28294c20e4f2d8e97583d789b5ecaa4f
+
 #EXTINF:-1,tvg-logo="https://i.etsystatic.com/10683147/r/il/df8d9b/2237714239/il_570xN.2237714239_buqx.jpg" group-title="HARRY POTTER " , Harry Potter y las Reliquias de la Muerte Parte 1 4K
 http://194539863471148526.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/148526.mkv
 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/84/93/87/19765356.jpg" group-title="HARRY POTTER " , Harry Potter y las Reliquias de la Muerte Parte 2 1080 (ACE)
+http://127.0.0.1:6878/ace/getstream?id=87d47f551d63eb8ef4c5e8f97f0438a9bc144280
+
 #EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/84/93/87/19765356.jpg" group-title="HARRY POTTER " , Harry Potter y las Reliquias de la Muerte Parte 2 4K (ACE)
 http://127.0.0.1:6878/ace/getstream?id=89eb0d7a9be8be001548a71fc9071b2b5ac29d7d
-
-
-
 
 <!-- MARVEL  -->
 
@@ -645,7 +657,15 @@ http://194539863471505445.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/505445.mkv
 #EXTINF:-1, tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2019/3/w1280/5SPa7dZ85p54xa7E9tHRmfKq5ce.jpg" group-title=" MARVEL ",Capitana Marvel  1080 
 http://194539863471148512.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/148512.mkv
 
- <!-- CINE KINKI  Acestream   -->
+
+<!-- PIRATAS DEL CARIBE  -->
+
+#EXTINF:-1,  tvg-logo="https://pics.filmaffinity.com/Piratas_del_Caribe_La_maldiciaon_de_la_Perla_Negra-627724446-large.jpg"  group-title="PIRATAS DEL CARIBE " , Piratas del Caribe: La Maldición de la Perla Negra 4K (ACE)                               
+http://127.0.0.1:6878/ace/getstream?id=bcaef92aaf25fba1e8d30dae560717944f66c596
+#EXTINF:-1,  tvg-logo="https://pics.filmaffinity.com/Piratas_del_Caribe_La_maldiciaon_de_la_Perla_Negra-627724446-large.jpg"  group-title="PIRATAS DEL CARIBE " , Piratas del Caribe: La Maldición de la Perla Negra 1080 (ACE)                               
+http://127.0.0.1:6878/ace/getstream?id=3e00203278263c2e2e64166da3a6db86bcb1ab43
+
+ <!-- CINE KINKI  ACESTREAM   -->
  
 #EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/79/24/31/19494187.jpg" group-title="Cine Kinki Acestream",Perros callejeros (1977) 
 http://127.0.0.1:6878/ace/getstream?id=9ea5952f5cb78001b2ee35c099a28300e3daceb4
