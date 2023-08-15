@@ -662,7 +662,7 @@ http://127.0.0.1:6878/ace/getstream?id=3e00203278263c2e2e64166da3a6db86bcb1ab43
 #EXTINF:-1,  tvg-logo="https://pics.filmaffinity.com/Piratas_del_Caribe_La_maldiciaon_de_la_Perla_Negra-627724446-large.jpg"  group-title="PIRATAS DEL CARIBE " , Piratas del Caribe: La Maldición de la Perla Negra 4K (ACE)                               
 http://127.0.0.1:6878/ace/getstream?id=bcaef92aaf25fba1e8d30dae560717944f66c596
 
-#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Piratas_del_Caribe_La_venganza_de_Salazar-591351172-large.jpg" group-title=" PELICULAS ACESTREAM ",Piratas del Caribe:La Venganza de Salazar 1080 (ACE)
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Piratas_del_Caribe_La_venganza_de_Salazar-591351172-large.jpg" group-title=" PIRATAS DEL CARIBE",Piratas del Caribe:La Venganza de Salazar 1080 (ACE)
 http://127.0.0.1:6878/ace/getstream?id=d7861c13722ad9c9b29fc1adbd509c03a3e40a8a
 
  <!-- CINE KINKI  ACESTREAM   -->
