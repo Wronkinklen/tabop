@@ -564,8 +564,8 @@ http://194539863471148523.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/148523.mkv
 #EXTINF:-1,tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWZL5T74/image?locale=es-es&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg " group-title="HARRY POTTER ",Harry Potter y la cámara secreta  1080  (ACE)
 http://127.0.0.1:6878/ace/getstream?id=b71ce8f2d7b8ac3eb41dec3342ea54ca6735b8c2
 
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/14/04/30/11/36/185120.jpg" group-title="HARRY POTTER ",Harry Potter y el prisionero de Azkaban  4K  
-http://194539863471148522.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/148522.mkv
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/14/04/30/11/36/185120.jpg" group-title="HARRY POTTER ",Harry Potter y el prisionero de Azkaban  4K (ACE)  
+http://127.0.0.1:6878/ace/getstream?id=399df9d49a5b903dcb4c1f9a6bb5de7aa7c01ab8
 
 #EXTINF:-1,tvg-logo="https://acortar.link/GyksxC" group-title="HARRY POTTER " ,Harry Potter y la Orden del Fénix 4K 
 http://194539863471148524.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/148524.mkv
