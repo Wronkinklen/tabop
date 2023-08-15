@@ -572,11 +572,11 @@ http://127.0.0.1:6878/ace/getstream?id=0e9bc1d05d857e249eb128bf1970c1553f973cf0
 #EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/14/04/30/11/36/185120.jpg" group-title="HARRY POTTER ",Harry Potter y el prisionero de Azkaban  4K 
 http://194539863471148522.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/148522.mkv
 
-#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Harry_Potter_y_el_caaliz_de_fuego-612673227-mmed.jpg" group-title="HARRY POTTER ",Harry Potter y el Cáliz de Fuego 4K (ACE)
-http://127.0.0.1:6878/ace/getstream?id=eedf51651f72921da0af33834ab9d428774fc15e
-
 #EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Harry_Potter_y_el_caaliz_de_fuego-612673227-mmed.jpg" group-title="HARRY POTTER ",Harry Potter y el Cáliz de Fuego 1080 (ACE)
 http://127.0.0.1:6878/ace/getstream?id=3272df8bfb02aeb5e7292d7fd8f3d7c542ac382a
+
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Harry_Potter_y_el_caaliz_de_fuego-612673227-mmed.jpg" group-title="HARRY POTTER ",Harry Potter y el Cáliz de Fuego 4K (ACE)
+http://127.0.0.1:6878/ace/getstream?id=eedf51651f72921da0af33834ab9d428774fc15e
 
 #EXTINF:-1,tvg-logo="https://acortar.link/GyksxC" group-title="HARRY POTTER " ,Harry Potter y la Orden del Fénix 1080 (ACE)
 http://127.0.0.1:6878/ace/getstream?id=de1d0f14c7e6a10e8340878a60a132713f994051
