@@ -466,6 +466,8 @@ http://127.0.0.1:6878/ace/getstream?id=5f2cf43c9bbda6bdb30c1a388151acfd7e015680
 #EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Piratas_del_Caribe_La_venganza_de_Salazar-591351172-large.jpg" group-title=" PELICULAS ACESTREAM ",Piratas del Caribe:La Venganza de Salazar 
 http://127.0.0.1:6878/ace/getstream?id=d7861c13722ad9c9b29fc1adbd509c03a3e40a8a
 
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Memento-230609861-large.jpg" group-title=" PELICULAS ACESTREAM ",MEMENTO 1080 
+http://127.0.0.1:6878/ace/getstream?id=615823766c344082e45968a64da661d4dc916749
 
 
 
@@ -567,11 +569,23 @@ http://127.0.0.1:6878/ace/getstream?id=b71ce8f2d7b8ac3eb41dec3342ea54ca6735b8c2
 #EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/14/04/30/11/36/185120.jpg" group-title="HARRY POTTER ",Harry Potter y el prisionero de Azkaban  4K 
 http://194539863471148522.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/148522.mkv
 
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Harry_Potter_y_el_caaliz_de_fuego-612673227-mmed.jpg" group-title="HARRY POTTER ",Harry Potter y el Cáliz de Fuego 4K (ACE)
+http://127.0.0.1:6878/ace/getstream?id=eedf51651f72921da0af33834ab9d428774fc15e
+
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Harry_Potter_y_el_caaliz_de_fuego-612673227-mmed.jpg" group-title="HARRY POTTER ",Harry Potter y el Cáliz de Fuego 1080 (ACE)
+http://127.0.0.1:6878/ace/getstream?id=3272df8bfb02aeb5e7292d7fd8f3d7c542ac382a
+
 #EXTINF:-1,tvg-logo="https://acortar.link/GyksxC" group-title="HARRY POTTER " ,Harry Potter y la Orden del Fénix 4K (ACE)
 http://127.0.0.1:6878/ace/getstream?id=399df9d49a5b903dcb4c1f9a6bb5de7aa7c01ab8
 
+#EXTINF:-1,tvg-logo="https://www.aceprensa.com/wp-content/uploads/2009/07/767-0.jpg" group-title="HARRY POTTER " ,Harry Potter y el Misterio del Principe 4K (ACE)
+http://127.0.0.1:6878/ace/getstream?id=89b63b687af6d1344e5c602ee6edb9f0dfbddc1a
+
 #EXTINF:-1,tvg-logo="https://i.etsystatic.com/10683147/r/il/df8d9b/2237714239/il_570xN.2237714239_buqx.jpg" group-title="HARRY POTTER " , Harry Potter y las Reliquias de la Muerte Parte 1 4K
 http://194539863471148526.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/148526.mkv
+
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/84/93/87/19765356.jpg" group-title="HARRY POTTER " , Harry Potter y las Reliquias de la Muerte Parte 2 4K (ACE)
+http://127.0.0.1:6878/ace/getstream?id=89eb0d7a9be8be001548a71fc9071b2b5ac29d7d
 
 
 
