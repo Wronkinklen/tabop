@@ -8,11 +8,11 @@ http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
 #EXTINF:-1,tvg-name="MOVISTAR LIGA DE CAMPEONES 1080 2"tvg-logo="https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png"  tvg-id="M+ Liga de Campeones HD" group-title="CHAMPIONS",M.LIGA DE CAMPEONES 1080 2
 http://127.0.0.1:6878/ace/getstream?id=045718bad2ddb4f03b1a420754a97a23ad8b493b
 
-#EXTINF:-1,tvg-name="MOVISTAR LIGA DE CAMPEONES 1080 TEMPORAL "tvg-logo="https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png"  tvg-id="M+ Liga de Campeones HD" group-title="CHAMPIONS",M.LIGA DE CAMPEONES 1080 TEMPORAL (ON)
-http://127.0.0.1:6878/ace/getstream?id=fb854a0da764db77a4b05fb5bf3e41e6d6650909
+#EXTINF:-1,tvg-name="MOVISTAR LIGA DE CAMPEONES 1080 TEMPORAL "tvg-logo="https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png"  tvg-id="M+ Liga de Campeones HD" group-title="CHAMPIONS",M.LIGA DE CAMPEONES 1080 TEMPORAL (OFF)
+http://127.0.0.1:6878/ace/getstream?id=
 
 #EXTINF:-1,tvg-name="MOVISTAR LIGA DE CAMPEONES 720 "tvg-logo="https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png"  tvg-id="M+ Liga de Campeones HD" group-title="CHAMPIONS", M.LIGA DE CAMPEONES 720 
-http://127.0.0.1:6878/ace/getstream?id=3caae3914e0a77ddff6940a68e7a5eb9b5b3d9e5  
+http://127.0.0.1:6878/ace/getstream?id=3caae3914e0a77ddff6940a68e7a5eb9b5b3d9e5 
 
 #EXTINF:-1,tvg-name="M.LIGA DE CAMPEONES 2 1080"tvg-logo="https://i.postimg.cc/WbdGh9zM/Liga-de-Campeones-2-por-Movistar-Plus-2022-logo.png"   tvg-id="M+ Liga de Campeones 2 HD" "group-title="CHAMPIONS",M.LIGA DE CAMPEONES 2 1080
 http://127.0.0.1:6878/ace/getstream?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
@@ -661,14 +661,16 @@ http://194539863471148512.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/148512.mkv
 #EXTINF:-1,  tvg-logo="https://images3.wikia.nocookie.net/__cb20090906043659/doblaje/es/images/3/33/Piratas.jpg"  group-title="PIRATAS DEL CARIBE " , Piratas del Caribe: La Maldición de la Perla Negra 1080 (ACE)                               
 http://127.0.0.1:6878/ace/getstream?id=3e00203278263c2e2e64166da3a6db86bcb1ab43
 
-#EXTINF:-1,  tvg-logo="https://images3.wikia.nocookie.net/__cb20090906043659/doblaje/es/images/3/33/Piratas.jpg"  group-title="PIRATAS DEL CARIBE " , Piratas del Caribe: La Maldición de la Perla Negra 1080 (TORR)  
-http://127.0.0.1:8090/stream/PiratasdelCaribe1BDR1080.www.newpct1.com.mkv?link=970b79c6b43da80076e8d1a0c270f62658be6c5e&index=2&play
-
 #EXTINF:-1,  tvg-logo="https://images3.wikia.nocookie.net/__cb20090906043659/doblaje/es/images/3/33/Piratas.jpg"  group-title="PIRATAS DEL CARIBE " , Piratas del Caribe: La Maldición de la Perla Negra 4K (ACE)                               
 http://127.0.0.1:6878/ace/getstream?id=bcaef92aaf25fba1e8d30dae560717944f66c596
 
 #EXTINF:-1,tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/40b54979a9ea802327a7897bb593128acbd7395cf4633f38f9d25cf4c082a19d._RI_TTW_.jpg" group-title=" PIRATAS DEL CARIBE",Piratas del Caribe:La Venganza de Salazar 1080 (ACE)
 http://127.0.0.1:6878/ace/getstream?id=d7861c13722ad9c9b29fc1adbd509c03a3e40a8a
+
+<!-- PRUEBAS   -->
+
+#EXTINF:-1,  tvg-logo="https://images3.wikia.nocookie.net/__cb20090906043659/doblaje/es/images/3/33/Piratas.jpg"  group-title="PRUEBAS" , Piratas del Caribe: La Maldición de la Perla Negra 1080 (TORR)  
+http://127.0.0.1:8090/stream/PiratasdelCaribe1BDR1080.www.newpct1.com.mkv?link=970b79c6b43da80076e8d1a0c270f62658be6c5e&index=2&play
 
  <!-- CINE KINKI  ACESTREAM   -->
  
