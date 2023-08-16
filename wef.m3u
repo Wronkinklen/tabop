@@ -658,8 +658,8 @@ http://194539863471148512.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/148512.mkv
 #EXTINF:-1,  tvg-logo="https://pics.filmaffinity.com/Piratas_del_Caribe_La_maldiciaon_de_la_Perla_Negra-627724446-large.jpg"  group-title="PIRATAS DEL CARIBE " , Piratas del Caribe: La Maldición de la Perla Negra 1080 (ACE)                               
 http://127.0.0.1:6878/ace/getstream?id=3e00203278263c2e2e64166da3a6db86bcb1ab43
 
-#EXTINF:-1,  tvg-logo="https://pics.filmaffinity.com/Piratas_del_Caribe_La_maldiciaon_de_la_Perla_Negra-627724446-large.jpg"  group-title="PIRATAS DEL CARIBE " , Piratas del Caribe: La Maldición de la Perla Negra 1080 (TORR)                               
-http://127.0.0.1:8090/stream/HarryPotter6yelMisteriodelPrincipeBDR1080.www.newpct1.com.mkv?link=31acb4fc7a8e99560f14caaef2f3c572f347584d&index=1&play
+#EXTINF:-1,  tvg-logo="https://pics.filmaffinity.com/Piratas_del_Caribe_La_maldiciaon_de_la_Perla_Negra-627724446-large.jpg"  group-title="PIRATAS DEL CARIBE " , Piratas del Caribe: La Maldición de la Perla Negra 1080 (TORR)  
+http://127.0.0.1:8090/stream/PiratasdelCaribe1BDR1080.www.newpct1.com.mkv?link=970b79c6b43da80076e8d1a0c270f62658be6c5e&index=2&play
 
 #EXTINF:-1,  tvg-logo="https://pics.filmaffinity.com/Piratas_del_Caribe_La_maldiciaon_de_la_Perla_Negra-627724446-large.jpg"  group-title="PIRATAS DEL CARIBE " , Piratas del Caribe: La Maldición de la Perla Negra 4K (ACE)                               
 http://127.0.0.1:6878/ace/getstream?id=bcaef92aaf25fba1e8d30dae560717944f66c596
