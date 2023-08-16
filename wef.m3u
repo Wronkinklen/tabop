@@ -8,6 +8,9 @@ http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
 #EXTINF:-1,tvg-name="MOVISTAR LIGA DE CAMPEONES 1080 2"tvg-logo="https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png"  tvg-id="M+ Liga de Campeones HD" group-title="CHAMPIONS",M.LIGA DE CAMPEONES 1080 2
 http://127.0.0.1:6878/ace/getstream?id=045718bad2ddb4f03b1a420754a97a23ad8b493b
 
+#EXTINF:-1,tvg-name="MOVISTAR LIGA DE CAMPEONES 1080 TEMPORAL "tvg-logo="https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png"  tvg-id="M+ Liga de Campeones HD" group-title="CHAMPIONS",M.LIGA DE CAMPEONES 1080 TEMPORAL (ON)
+http://127.0.0.1:6878/ace/getstream?id=fb854a0da764db77a4b05fb5bf3e41e6d6650909
+
 #EXTINF:-1,tvg-name="MOVISTAR LIGA DE CAMPEONES 720 "tvg-logo="https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png"  tvg-id="M+ Liga de Campeones HD" group-title="CHAMPIONS", M.LIGA DE CAMPEONES 720 
 http://127.0.0.1:6878/ace/getstream?id=3caae3914e0a77ddff6940a68e7a5eb9b5b3d9e5  
 
