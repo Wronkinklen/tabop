@@ -119,16 +119,16 @@ http://127.0.0.1:6878/ace/getstream?id=8587ed8ac36ac477e1d4176d3159a38bd154d4ce
 #EXTINF:-1,tvg-name="MOVISTAR DEPORTES 7 1080 "tvg-logo="https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png" tvg-id="M+ Deportes 7" group-title="MOVISTAR",MOVISTAR DEPORTES 7 1080  
 http://127.0.0.1:6878/ace/getstream?id=2448f1d084f440eed2fbe847e24f1c02f5659a78
 
- #EXTINF:-1,tvg-name="MOVISTAR DEPORTES PLUS "tvg-logo="https://comunicacion.movistarplus.es/wp-content/uploads/2023/01/cabecera.jpg" tvg-id="M+ Deportes 7" group-title="MOVISTAR",MOVISTAR DEPORTES PLUS 1080
+ #EXTINF:-1,tvg-name="MOVISTAR DEPORTES PLUS "tvg-logo="https://telegra.ph/file/9a0d68a169f207c184eca.png" tvg-id="Movistar Plus+ HD" group-title="MOVISTAR",MOVISTAR PLUS 1080
 http://127.0.0.1:6878/ace/getstream?id=5a236fbbe6e5bbfec03db548c244a7c858d675c0
 
-#EXTINF:-1,tvg-name="ESPECIAL ALCARAZ 1080"tvg-logo="https://img2.rtve.es/n/2454219?w=800&preview=1692393215762.jpg"  tvg-id="M+ #Vamos HD" group-title="MOVISTAR",ESPECIAL ALCARAZ 1080 (OFF) 
+#EXTINF:-1,tvg-name="ESPECIAL ALCARAZ 1080"tvg-logo="https://img2.rtve.es/n/2454219?w=800&preview=1692393215762.jpg"  tvg-id="M+ Vamos HD" group-title="MOVISTAR",ESPECIAL ALCARAZ 1080 (OFF) 
 http://127.0.0.1:6878/ace/getstream?id=bea74178823e9a3aa3d586146325e836cbd18589
 
-#EXTINF:-1,tvg-name="VAMOS 1080"tvg-logo="https://acortar.link/Jl1X3Q"  tvg-id="M+ #Vamos HD" group-title="MOVISTAR",#VAMOS 1080 
+#EXTINF:-1,tvg-name="VAMOS 1080"tvg-logo="https://acortar.link/Jl1X3Q"  tvg-id="M+ Vamos HD" group-title="MOVISTAR",#VAMOS 1080 
 http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
 
-#EXTINF:-1,tvg-name="VAMOS 720"tvg-logo="https://acortar.link/Jl1X3Q"tvg-id="M+ #Vamos HD"group-title="MOVISTAR",#VAMOS 720 
+#EXTINF:-1,tvg-name="VAMOS 720"tvg-logo="https://acortar.link/Jl1X3Q"tvg-id="M+ Vamos HD"group-title="MOVISTAR",#VAMOS 720 
 http://127.0.0.1:6878/ace/getstream?id=3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
 
 #EXTINF:-1,tvg-name="#ELLAS 1080"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Ellas_V_por_Movistar_Plus%2B.svg/640px-Ellas_V_por_Movistar_Plus%2B.svg.png" tvg-id="M+ Ellas #V HD" group-title="MOVISTAR",#ELLAS 1080
@@ -683,6 +683,12 @@ http://127.0.0.1:8090/stream/DarkKnightBDR1080.www.newpct.com.mkv?link=adebf7eae
 
 #EXTINF:-1, tvg-logo="https://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/35/14/18/18364904.jpg"  group-title="MATRIX", Matrix: Revelations 1080
 http://127.0.0.1:8090/stream/MatrixRevolutionsBDR1080.www.newpct1.com.mkv?link=32e90e6bdbf0c80c349b4efb80bd5931aefdf61f&index=2&play
+
+#EXTINF:-1, tvg-logo="https://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/35/14/18/18364904.jpg"  group-title="MATRIX", Matrix: Revelations 4K
+http://127.0.0.1:8090/stream/Matrix%20Revolutions%204Kremux2160.pctreload1.com.mkv?link=bfa6c90cbd5a19bc00a25f9f494ec19a740d8103&index=4&play
+
+#EXTINF:-1, tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/86/86/43/20123634.jpg"  group-title="El Caballero Oscuro",El Caballero Oscuro: La Leyenda Renace 4K
+http://127.0.0.1:8090/stream/El%20Caballero%20Oscuro%20la%20Leyenda%20Renace%204K2160.www.newpct1.com.mkv?link=f0d97e62f3df052640dee5faebf1ccd3d8529e25&index=1&play
 
  <!-- CINE KINKI  ACESTREAM   -->
  
