@@ -122,6 +122,9 @@ http://127.0.0.1:6878/ace/getstream?id=2448f1d084f440eed2fbe847e24f1c02f5659a78
  #EXTINF:-1,tvg-name="MOVISTAR DEPORTES PLUS "tvg-logo="https://comunicacion.movistarplus.es/wp-content/uploads/2023/01/cabecera.jpg" tvg-id="M+ Deportes 7" group-title="MOVISTAR",MOVISTAR DEPORTES PLUS 1080
 http://127.0.0.1:6878/ace/getstream?id=5a236fbbe6e5bbfec03db548c244a7c858d675c0
 
+EXTINF:-1,tvg-name="ESPECIAL ALCARAZ 1080"tvg-logo="https://acortar.link/Jl1X3Q"  tvg-id="M+ #Vamos HD" group-title="MOVISTAR",ESPECIAL ALCARAZ 1080 (ON) 
+http://127.0.0.1:6878/ace/getstream?id=bea74178823e9a3aa3d586146325e836cbd18589
+
 #EXTINF:-1,tvg-name="VAMOS 1080"tvg-logo="https://acortar.link/Jl1X3Q"  tvg-id="M+ #Vamos HD" group-title="MOVISTAR",#VAMOS 1080 
 http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
 
