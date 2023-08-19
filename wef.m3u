@@ -675,19 +675,19 @@ http://127.0.0.1:6878/ace/getstream?id=d7861c13722ad9c9b29fc1adbd509c03a3e40a8a
 #EXTINF:-1,  tvg-logo="https://images3.wikia.nocookie.net/__cb20090906043659/doblaje/es/images/3/33/Piratas.jpg"  group-title="PRUEBAS" , Piratas del Caribe: La Maldición de la Perla Negra 1080 (TORR)  
 http://127.0.0.1:8090/stream/PiratasdelCaribe1BDR1080.www.newpct1.com.mkv?link=970b79c6b43da80076e8d1a0c270f62658be6c5e&index=2&play
 
-#EXTINF:-1, tvg-logo="https://pics.filmaffinity.com/Matrix-155050517-mmed.jpg"  group-title="MATRIX", Matrix 1080
+#EXTINF:-1, tvg-logo="https://pics.filmaffinity.com/Matrix-155050517-mmed.jpg"  group-title="PRUEBAS", Matrix 1080
 http://127.0.0.1:8090/stream/MatrixBDR1080.www.newpct1.com.mkv?link=f321dc4e7696c5fa4e431f9f86de7cc0c8fc168c&index=2&play
 
-#EXTINF:-1, tvg-logo="https://www.ecartelera.com/carteles/1700/1742/001_m.jpg"  group-title="El Caballero Oscuro",El Caballero Oscuro 1080
+#EXTINF:-1, tvg-logo="https://www.ecartelera.com/carteles/1700/1742/001_m.jpg"  group-title="PRUEBAS",El Caballero Oscuro 1080
 http://127.0.0.1:8090/stream/DarkKnightBDR1080.www.newpct.com.mkv?link=adebf7eaeee43cbab6f3d59a5b3efcc4de4275a3&index=1&play
 
-#EXTINF:-1, tvg-logo="https://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/35/14/18/18364904.jpg"  group-title="MATRIX", Matrix: Revelations 1080
+#EXTINF:-1, tvg-logo="https://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/35/14/18/18364904.jpg"  group-title="PRUEBAS", Matrix: Revelations 1080
 http://127.0.0.1:8090/stream/MatrixRevolutionsBDR1080.www.newpct1.com.mkv?link=32e90e6bdbf0c80c349b4efb80bd5931aefdf61f&index=2&play
 
-#EXTINF:-1, tvg-logo="https://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/35/14/18/18364904.jpg"  group-title="MATRIX", Matrix: Revelations 4K
+#EXTINF:-1, tvg-logo="https://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/35/14/18/18364904.jpg"  group-title="PRUEBAS", Matrix: Revelations 4K
 http://127.0.0.1:8090/stream/Matrix%20Revolutions%204Kremux2160.pctreload1.com.mkv?link=bfa6c90cbd5a19bc00a25f9f494ec19a740d8103&index=4&play
 
-#EXTINF:-1, tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/86/86/43/20123634.jpg"  group-title="El Caballero Oscuro",El Caballero Oscuro: La Leyenda Renace 4K
+#EXTINF:-1, tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/86/86/43/20123634.jpg"  group-title="PRUEBAS",El Caballero Oscuro: La Leyenda Renace 4K
 http://127.0.0.1:8090/stream/El%20Caballero%20Oscuro%20la%20Leyenda%20Renace%204K2160.www.newpct1.com.mkv?link=f0d97e62f3df052640dee5faebf1ccd3d8529e25&index=1&play
 
  <!-- CINE KINKI  ACESTREAM   -->
