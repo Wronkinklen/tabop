@@ -122,7 +122,7 @@ http://127.0.0.1:6878/ace/getstream?id=2448f1d084f440eed2fbe847e24f1c02f5659a78
  #EXTINF:-1,tvg-name="MOVISTAR DEPORTES PLUS "tvg-logo="https://comunicacion.movistarplus.es/wp-content/uploads/2023/01/cabecera.jpg" tvg-id="M+ Deportes 7" group-title="MOVISTAR",MOVISTAR DEPORTES PLUS 1080
 http://127.0.0.1:6878/ace/getstream?id=5a236fbbe6e5bbfec03db548c244a7c858d675c0
 
-#EXTINF:-1,tvg-name="ESPECIAL ALCARAZ 1080"tvg-logo="https://acortar.link/Jl1X3Q"  tvg-id="M+ #Vamos HD" group-title="MOVISTAR",ESPECIAL ALCARAZ 1080 (ON) 
+#EXTINF:-1,tvg-name="ESPECIAL ALCARAZ 1080"tvg-logo="https://img2.rtve.es/n/2454219?w=800&preview=1692393215762.jpg"  tvg-id="M+ #Vamos HD" group-title="MOVISTAR",ESPECIAL ALCARAZ 1080 (OFF) 
 http://127.0.0.1:6878/ace/getstream?id=bea74178823e9a3aa3d586146325e836cbd18589
 
 #EXTINF:-1,tvg-name="VAMOS 1080"tvg-logo="https://acortar.link/Jl1X3Q"  tvg-id="M+ #Vamos HD" group-title="MOVISTAR",#VAMOS 1080 
@@ -674,6 +674,15 @@ http://127.0.0.1:6878/ace/getstream?id=d7861c13722ad9c9b29fc1adbd509c03a3e40a8a
 
 #EXTINF:-1,  tvg-logo="https://images3.wikia.nocookie.net/__cb20090906043659/doblaje/es/images/3/33/Piratas.jpg"  group-title="PRUEBAS" , Piratas del Caribe: La Maldición de la Perla Negra 1080 (TORR)  
 http://127.0.0.1:8090/stream/PiratasdelCaribe1BDR1080.www.newpct1.com.mkv?link=970b79c6b43da80076e8d1a0c270f62658be6c5e&index=2&play
+
+#EXTINF:-1, tvg-logo="https://pics.filmaffinity.com/Matrix-155050517-mmed.jpg"  group-title="MATRIX", Matrix 1080
+http://127.0.0.1:8090/stream/MatrixBDR1080.www.newpct1.com.mkv?link=f321dc4e7696c5fa4e431f9f86de7cc0c8fc168c&index=2&play
+
+#EXTINF:-1, tvg-logo="https://www.ecartelera.com/carteles/1700/1742/001_m.jpg"  group-title="El Caballero Oscuro",El Caballero Oscuro 1080
+http://127.0.0.1:8090/stream/DarkKnightBDR1080.www.newpct.com.mkv?link=adebf7eaeee43cbab6f3d59a5b3efcc4de4275a3&index=1&play
+
+#EXTINF:-1, tvg-logo="https://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/35/14/18/18364904.jpg"  group-title="MATRIX", Matrix: Revelations 1080
+http://127.0.0.1:8090/stream/MatrixRevolutionsBDR1080.www.newpct1.com.mkv?link=32e90e6bdbf0c80c349b4efb80bd5931aefdf61f&index=2&play
 
  <!-- CINE KINKI  ACESTREAM   -->
  
