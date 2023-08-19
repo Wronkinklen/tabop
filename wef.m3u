@@ -681,10 +681,10 @@ http://127.0.0.1:8090/stream/MatrixBDR1080.www.newpct1.com.mkv?link=f321dc4e7696
 #EXTINF:-1, tvg-logo="https://www.ecartelera.com/carteles/1700/1742/001_m.jpg"  group-title="PRUEBAS",El Caballero Oscuro 1080
 http://127.0.0.1:8090/stream/DarkKnightBDR1080.www.newpct.com.mkv?link=adebf7eaeee43cbab6f3d59a5b3efcc4de4275a3&index=1&play
 
-#EXTINF:-1, tvg-logo="https://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/35/14/18/18364904.jpg"  group-title="PRUEBAS", Matrix: Revelations 1080
+#EXTINF:-1, tvg-logo="https://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/35/14/18/18364904.jpg"  group-title="PRUEBAS", Matrix: Revolutions 1080
 http://127.0.0.1:8090/stream/MatrixRevolutionsBDR1080.www.newpct1.com.mkv?link=32e90e6bdbf0c80c349b4efb80bd5931aefdf61f&index=2&play
 
-#EXTINF:-1, tvg-logo="https://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/35/14/18/18364904.jpg"  group-title="PRUEBAS", Matrix: Revelations 4K
+#EXTINF:-1, tvg-logo="https://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/35/14/18/18364904.jpg"  group-title="PRUEBAS", Matrix: Revolutions 4K
 http://127.0.0.1:8090/stream/Matrix%20Revolutions%204Kremux2160.pctreload1.com.mkv?link=bfa6c90cbd5a19bc00a25f9f494ec19a740d8103&index=4&play
 
 #EXTINF:-1, tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/86/86/43/20123634.jpg"  group-title="PRUEBAS",El Caballero Oscuro: La Leyenda Renace 4K
