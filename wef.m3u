@@ -705,13 +705,13 @@ http://127.0.0.1:8090/stream/Piratas%20del%20Caribe%20En%20mareas%20misteriosas%
 #EXTINF:-1,tvg-logo="https://www.dvd.it/80201-large_default/fast-and-furious-7.jpg" group-title=" PRUEBAS",Fast And Furious 8 4K 
 http://127.0.0.1:8090/stream/Fast%20and%20Furious%208.mkv?link=c5cedda46ec9ad4c3716a8155534507d684a979f&index=1&play
 
-#EXTINF:-1,tvg-logo="http://image.tmdb.org/t/p/w300/9u4yW7yPA0BQ2pv9XwiNzItwvp8.jpg" group-title=" PRUEBA",The Equalizer 1080 
+#EXTINF:-1,tvg-logo="http://image.tmdb.org/t/p/w300/9u4yW7yPA0BQ2pv9XwiNzItwvp8.jpg" group-title=" PRUEBAS",The Equalizer 1080 
 http://127.0.0.1:8090/stream/TheEqualizerBDR1080.www.newpct1.com.mkv?link=16d4387b763e51c7dc6ca5946d5adbe23b7f83d4&index=2&play
 
-#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/zack_snyder_s_justice_league-554207771-mmed.jpg" group-title=" PRUEBA",La Liga de La Justicia de Zack Snyder 4K 
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/zack_snyder_s_justice_league-554207771-mmed.jpg" group-title=" PRUEBAS",La Liga de La Justicia de Zack Snyder 4K 
 http://127.0.0.1:8090/stream/La%20Liga%20de%20la%20Justicia%20de%20Zack%20Snyder%204Krip2160.pctfenix.com.mkv?link=be38eba58218c4810342d6dfa65e253d6d182912&index=3&play
 
-#EXTINF:-1,tvg-logo="https://www.dvd.it/80201-large_default/fast-and-furious-7.jpg" group-title=" FAST AND FURIOUS",Fast And Furious 7 1080 
+#EXTINF:-1,tvg-logo="https://www.dvd.it/80201-large_default/fast-and-furious-7.jpg" group-title=" PRUEBAS",Fast And Furious 7 1080 
 http://127.0.0.1:8090/stream/FastAndFurious7V.ExtendidaBDR1080.www.newpct1.com.mkv?link=b3ceb363cb00fd13ba2a1d4ee78c9004dd1305fa&index=1&play
 
 
