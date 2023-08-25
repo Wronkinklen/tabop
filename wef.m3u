@@ -714,8 +714,8 @@ http://127.0.0.1:8090/stream/La%20Liga%20de%20la%20Justicia%20de%20Zack%20Snyder
 #EXTINF:-1,tvg-logo="https://www.dvd.it/80201-large_default/fast-and-furious-7.jpg" group-title=" PRUEBAS",Fast And Furious 7 1080 
 http://127.0.0.1:8090/stream/FastAndFurious7V.ExtendidaBDR1080.www.newpct1.com.mkv?link=b3ceb363cb00fd13ba2a1d4ee78c9004dd1305fa&index=1&play
 
-#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Toc_Toc-499619428-large.jpg" group-title=" PRUEBAS",Toc Toc 1080 
-http://127.0.0.1:8090/stream/TocTocM1080.www.newpct1.com.mkv?link=c99459ff6b2ec02ae6e5d07e4a5d4bbf56b2d811&index=2&play
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Toc_Toc-499619428-large.jpg" group-title=" PRUEBAS",Toc Toc 
+http://127.0.0.1:8090/stream/Toc%20Toc%20%5BBluRay%20Rip%5D%5BAC3%205.1%20Espa%C3%B1ol%20Castellano%5D.avi?link=d96a54774168eccab9bbeeb07259d1422fc04a11&index=2&play
 
 
 #EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Memorias_de_aAfrica-242610274-large.jpg" group-title=" PRUEBAS",Memorias de Africa
