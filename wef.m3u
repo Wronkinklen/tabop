@@ -81,14 +81,17 @@ http://127.0.0.1:6878/ace/getstream?id=5789ca155323664edd293b848606688edf803f4d
 #EXTINF:-1,tvg-name="DAZN F1 1080 2"tvg-logo="https://acortar.link/eeJCAb"  tvg-id="DAZN F1 HD" group-title="DAZN F1 ",DAZN F1 1080 2 
 http://127.0.0.1:6878/ace/getstream?id=9dad717d99b29a05672166258a77c25b57713dd5
 
-#EXTINF:-1,tvg-name="DAZN F1 1080 TEMPORAL "tvg-logo=" https://acortar.link/eeJCAb" tvg-id="DAZN F1 HD"  group-title="DAZN F1 ",DAZN F1 1080 TEMPORAL (OFF)
-http://127.0.0.1:6878/ace/getstream?id
+#EXTINF:-1,tvg-name="DAZN F1 1080 TEMPORAL "tvg-logo=" https://acortar.link/eeJCAb" tvg-id="DAZN F1 HD"  group-title="DAZN F1 ",DAZN F1 1080 TEMPORAL (ON)
+http://127.0.0.1:6878/ace/getstream?id=aff9ef05a35642dbad7c0eee8c315768942e417e
+
+#EXTINF:-1,tvg-name="DAZN F1 4K" group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://acortar.link/eeJCAb" ,DAZN F1 4K (ON)
+http://127.0.0.1:6878/ace/getstream?id=5c340fa3440fef0f9330187cb53e09350d1de270
 
 #EXTINF:-1,tvg-name="DAZN F1 720"tvg-logo=" https://acortar.link/eeJCAb" tvg-id="DAZN F1 HD"  group-title="DAZN F1 ",DAZN F1 720
 http://127.0.0.1:6878/ace/getstream?id=e1fcad9de0c782c157fde6377805c58297ab65c2
 
-#EXTINF:-1,tvg-name= MULTICAMARA F1" tvg-logo="https://acortar.link/WwBYRx" tvg-id="DAZN F1 HD" group-title="DAZN F1 ",MULTICAMARA F1 (OFF)
-http://127.0.0.1:6878/ace/getstream?id=
+#EXTINF:-1,tvg-name= MULTICAMARA F1" tvg-logo="https://acortar.link/WwBYRx" tvg-id="DAZN F1 HD" group-title="DAZN F1 ",MULTICAMARA F1 2  (ON)
+http://127.0.0.1:6878/ace/getstream?id=018186e9a5b942e3a5d8c24ca906ded64c2bbbe4
 
 #EXTINF:-1,tvg-name="DAZN F1 ONBOARD ALONSO" tvg-logo="https://acortar.link/QZZ08Q" tvg-id="DAZN F1 HD" group-title="DAZN F1 ",DAZN F1 ONBOARD ALONSO (OFF)
 http://127.0.0.1:6878/ace/getstream?id=a88c674c825fd00a936f424f58cd9004f52eb59b
@@ -217,6 +220,16 @@ http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 #EXTINF:-1,tvg-name="EUROSPORT  2 1080" tvg-logo="https://i.ibb.co/4dFxnrC/Eurosport2-o.jpge" tvg-id="Eurosport 2" group-title="EUROSPORT",EUROSPORT 2 1080 
 http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
 
+<!--Gol Mundial-->
+
+#EXTINF:-1 group-title="Gol Mundial" tvg-id="nil" tvg-logo="https://telegra.ph/file/93f57c0ee92a10ffb3323.png" ,Gol Mundial 1 1080
+http://127.0.0.1:6878/ace/getstream?id=78384a676407784df944243eb2f75d937fbcc253
+#EXTINF:-1 group-title="Gol Mundial" tvg-id="nil" tvg-logo="https://telegra.ph/file/93f57c0ee92a10ffb3323.png" ,Gol Mundial 2 1080  
+http://127.0.0.1:6878/ace/getstream?id=4af5952b95d3c2e99fcdc0de2f528d3fcd73e06b
+#EXTINF:-1 group-title="Gol Mundial" tvg-id="nil" tvg-logo="https://telegra.ph/file/93f57c0ee92a10ffb3323.png" ,Gol Mundial 3 1080  
+http://127.0.0.1:6878/ace/getstream?id=52c8ff01836c294caad8b8c029b53360aa16a4cd
+#EXTINF:-1 group-title="Gol Mundial" tvg-id="nil" tvg-logo="https://telegra.ph/file/93f57c0ee92a10ffb3323.png" ,Gol Mundial 4 1080  
+http://127.0.0.1:6878/ace/getstream?id=5a8d60f4c8e558f8ae5acad7c75f455928ce0c2e
 <!-- VARIADOS -->
  
 #EXTINF:-1,tvg-name="GOL TV 1080 "tvg-logo="https://i.postimg.cc/cCThLjpn/gol-play.png" tvg-id="GOL PLAY" group-title="VARIADOS",GOL TV 1080 
