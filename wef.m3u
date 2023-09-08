@@ -407,8 +407,8 @@ http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/290353.ts
 
  <!-- WRC IPTV -->
 
-#EXTINF:-1, group-title="WRC IPTV" tvg-id="Sport TV5 POR HD" tvg-logo="https://i.pinimg.com/236x/04/da/bd/04dabd53c1ac13f81a0ff16880a7cc8b.jpg" ,WRC ESPAÑOL HD (OFF)
-http://127.0.0.1:6878/ace/getstream?id=ecf4ec41200785812c140e3d1050b412f1519fa7
+#EXTINF:-1, group-title="WRC IPTV" tvg-id="Sport TV5 POR HD" tvg-logo="https://i.pinimg.com/236x/04/da/bd/04dabd53c1ac13f81a0ff16880a7cc8b.jpg" ,WRC ESPAÑOL HD (ON)
+https://vkvsd209.mycdn.me/hls/5193475951130.m3u8/sig/Sr8T6kaC2aA/expires/1694231583731/srcIp/37.14.103.248/urls/45.136.22.68/clientType/14/srcAg/CHROME_ANDROID/mid/6411895778074/5193475951130_fullhd/index.m3u8
 
 #EXTINF:-1, group-title="WRC IPTV" tvg-id="Sport TV5 POR HD" tvg-logo="https://i.pinimg.com/236x/04/da/bd/04dabd53c1ac13f81a0ff16880a7cc8b.jpg" ,WRC ESPAÑOL 2 HD (OFF)
 http://127.0.0.1:6878/ace/getstream?id=ecf4ec41200785812c140e3d1050b412f1519fa7
