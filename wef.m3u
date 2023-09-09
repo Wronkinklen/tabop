@@ -222,17 +222,17 @@ http://127.0.0.1:6878/ace/getstream?id=99e544cddbee13798e854c1009ee7d1a93fdedf7
  
 <!-- WRC -->
  
-#EXTINF:-1,tvg-name="WRC ESPAÑOL"tvg-logo="https://acortar.link/IZadUs" tvg-id="Sport TV5 POR HD" group-title="WRC",WRC ESPAÑOL 1080 (OFF)
+#EXTINF:-1,tvg-name="WRC ESPAÑOL"tvg-logo="https://acortar.link/IZadUs" tvg-id="Sport TV5 POR HD" group-title="WRC",WRC ESPAÑOL 1080 (ON)
 http://127.0.0.1:6878/ace/getstream?id=afe0e179d2d1a4fa7d6248ce6af2b7c43aeb11e2
 
 #EXTINF:-1, group-title="WRC" tvg-id="Sport TV5 POR HD" tvg-logo="https://i.pinimg.com/236x/04/da/bd/04dabd53c1ac13f81a0ff16880a7cc8b.jpg" ,WRC ESPAÑOL HD IPTV (ON)
 https://vkvsd72.mycdn.me/hls/5198717782554.m3u8/sig/0dRePL1G1wM/expires/1694317626552/srcIp/37.14.103.248/urls/185.226.53.55/clientType/14/srcAg/CHROME_ANDROID/mid/6415109597978/5198717782554_fullhd/index.m3u8
 
-#EXTINF:-1,tvg-name="WRC"tvg-logo="https://acortar.link/IZadUs" tvg-id="Sport TV5 POR HD" group-title="WRC",WRC 1080 (ON)
-http://127.0.0.1:6878/ace/getstream?id=afe0e179d2d1a4fa7d6248ce6af2b7c43aeb11e2
-
 #EXTINF:-1,tvg-name="WRC ORIGINAL"tvg-logo="https://acortar.link/IZadUs" "tvg-id="Sport TV5 POR HD" group-title="WRC",WRC 1080 
 http://127.0.0.1:6878/ace/getstream?id=8ef4e74336a0114d6def70de9d15cc4817d2f350
+
+#EXTINF:-1,tvg-name="WRC"tvg-logo="https://acortar.link/IZadUs" tvg-id="Sport TV5 POR HD" group-title="WRC",WRC 1080 (OFF)
+http://127.0.0.1:6878/ace/getstream?id=
  
 #EXTINF:-1, group-title="WRC " tvg-id="Sport TV5 POR HD" tvg-logo="https://i.pinimg.com/236x/04/da/bd/04dabd53c1ac13f81a0ff16880a7cc8b.jpg" ,WRC HD IPTV 2 (OFF)
 http://127.0.0.1:6878/ace/getstream?id=ecf4ec41200785812c140e3d1050b412f1519fa7
