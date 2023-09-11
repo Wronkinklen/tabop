@@ -93,7 +93,7 @@ http://127.0.0.1:6878/ace/getstream?id=5789ca155323664edd293b848606688edf803f4d
 #EXTINF:-1,tvg-name="DAZN F1 1080 2"tvg-logo="https://acortar.link/eeJCAb"  tvg-id="DAZN F1 HD" group-title="DAZN F1 ",DAZN F1 1080 2 
 http://127.0.0.1:6878/ace/getstream?id=9dad717d99b29a05672166258a77c25b57713dd5
 
-#EXTINF:-1,tvg-name="DAZN F1 1080 TEMPORAL "tvg-logo=" https://acortar.link/eeJCAb" tvg-id="DAZN F1 HD"  group-title="DAZN F1 ",DAZN F1 1080 TEMPORAL (OFf)
+#EXTINF:-1,tvg-name="DAZN F1 1080 TEMPORAL "tvg-logo=" https://acortar.link/eeJCAb" tvg-id="DAZN F1 HD"  group-title="DAZN F1 ",DAZN F1 1080 TEMPORAL (OFF)
 http://127.0.0.1:6878/ace/getstream?id=
 
 #EXTINF:-1,tvg-name="DAZN F1 4K" group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://acortar.link/eeJCAb" ,DAZN F1 4K (OFF)
@@ -225,8 +225,7 @@ http://127.0.0.1:6878/ace/getstream?id=99e544cddbee13798e854c1009ee7d1a93fdedf7
 #EXTINF:-1,tvg-name="WRC ESPAÑOL"tvg-logo="https://acortar.link/IZadUs" tvg-id="Sport TV5 POR HD" group-title="WRC",WRC ESPAÑOL 1080 (OFF)
 http://127.0.0.1:6878/ace/getstream?id=afe0e179d2d1a4fa7d6248ce6af2b7c43aeb11e2
 
-#EXTINF:-1, group-title="WRC" tvg-id="Sport TV5 POR HD" tvg-logo="https://i.pinimg.com/236x/04/da/bd/04dabd53c1ac13f81a0ff16880a7cc8b.jpg" ,WRC ESPAÑOL HD IPTV (ON)
-https://vkvsd198.mycdn.me/hls/5202766072346.m3u8/sig/PWhzuHBVk6E/srcIp/37.14.103.248/urls/185.226.52.55/expires/1694782772239/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/6417608551194/id/5202766072346/5202766072346_fullhd/index.m3u8
+#EXTINF:-1, group-title="WRC" tvg-id="Sport TV5 POR HD" tvg-logo="https://i.pinimg.com/236x/04/da/bd/04dabd53c1ac13f81a0ff16880a7cc8b.jpg" ,WRC ESPAÑOL HD IPTV (OFF)
 
 #EXTINF:-1,tvg-name="WRC ORIGINAL"tvg-logo="https://acortar.link/IZadUs" "tvg-id="Sport TV5 POR HD" group-title="WRC",WRC 1080 
 http://127.0.0.1:6878/ace/getstream?id=8ef4e74336a0114d6def70de9d15cc4817d2f350
