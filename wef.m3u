@@ -96,8 +96,11 @@ http://127.0.0.1:6878/ace/getstream?id=9dad717d99b29a05672166258a77c25b57713dd5
 #EXTINF:-1,tvg-name="DAZN F1 1080 TEMPORAL "tvg-logo=" https://acortar.link/eeJCAb" tvg-id="DAZN F1 HD"  group-title="DAZN F1 ",DAZN F1 1080 TEMPORAL (OFF)
 http://127.0.0.1:6878/ace/getstream?id=
 
-#EXTINF:-1,tvg-name="DAZN F1 4K" group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://acortar.link/eeJCAb" ,DAZN F1 4K (OFF)
-http://127.0.0.1:6878/ace/getstream?id=76d4087a189f847d2edbfb3979ee0e19b5b28899
+#EXTINF:-1,tvg-name="DAZN F1 4K" group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://acortar.link/eeJCAb" ,DAZN F1 4K 
+http://127.0.0.1:6878/ace/getstream?id=6b94479c24898700089e6b87d28a3ccc72dc4041 
+
+#EXTINF:-1,tvg-name="DAZN F1 4K" group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://acortar.link/eeJCAb" ,DAZN F1 4K TEMPORAL (ON)
+http://127.0.0.1:6878/ace/getstream?id=eeb0192c25538dbf09c1fd08b0ebca4864a8263a
 
 #EXTINF:-1,tvg-name="DAZN F1 720"tvg-logo=" https://acortar.link/eeJCAb" tvg-id="DAZN F1 HD"  group-title="DAZN F1 ",DAZN F1 720
 http://127.0.0.1:6878/ace/getstream?id=e1fcad9de0c782c157fde6377805c58297ab65c2
@@ -158,8 +161,11 @@ http://127.0.0.1:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
 #EXTINF:-1,tvg-name="MOVISTAR LA LIGA 1080 2  "tvg-logo="https://telegra.ph/file/87a4c3d008b086629d093.jpg" tvg-id="M+ LaLiga TV HD" group-title="LIGA",MOVISTAR LA LIGA 1080 2
 http://127.0.0.1:6878/ace/getstream?id=1969c27658d4c8333ab2c0670802546121a774a5
 
+#EXTINF:-1,tvg-name="MOVISTAR LA LIGA 1080 TEMPORAL  "tvg-logo="https://telegra.ph/file/87a4c3d008b086629d093.jpg" tvg-id="M+ LaLiga TV HD" group-title="LIGA",MOVISTAR LA LIGA 1080 3
+http://127.0.0.1:6878/ace/getstream?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280  
+
 #EXTINF:-1,tvg-name="MOVISTAR LA LIGA 1080 TEMPORAL  "tvg-logo="https://telegra.ph/file/87a4c3d008b086629d093.jpg" tvg-id="M+ LaLiga TV HD" group-title="LIGA",MOVISTAR LA LIGA 1080 TEMPORAL (OFF)
-http://127.0.0.1:6878/ace/getstream?id=
+http://127.0.0.1:6878/ace/getstream?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280  
 
 #EXTINF:-1,tvg-name="MOVISTAR LA LIGA 720  "tvg-logo="https://telegra.ph/file/87a4c3d008b086629d093.jpg" tvg-id="M+ LaLiga TV HD" group-title="LIGA",MOVISTAR LA LIGA 720
 http://127.0.0.1:6878/ace/getstream?id=f031f5728b32f6089dda28edebe990cf198108d8
