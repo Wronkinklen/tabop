@@ -105,10 +105,10 @@ http://127.0.0.1:6878/ace/getstream?id=eeb0192c25538dbf09c1fd08b0ebca4864a8263a
 #EXTINF:-1,tvg-name="DAZN F1 720"tvg-logo=" https://acortar.link/eeJCAb" tvg-id="DAZN F1 HD"  group-title="DAZN F1 ",DAZN F1 720
 http://127.0.0.1:6878/ace/getstream?id=e1fcad9de0c782c157fde6377805c58297ab65c2
 
-#EXTINF:-1,tvg-name= MULTICAMARA F1" tvg-logo="https://acortar.link/WwBYRx" tvg-id="DAZN F1 HD" group-title="DAZN F1 ",MULTICAMARA F1 (OFF)
+#EXTINF:-1,tvg-name= MULTICAMARA F1" tvg-logo="https://acortar.link/WwBYRx" tvg-id="DAZN F1 HD" group-title="DAZN F1 ",MULTICAMARA F1 TEMPORAL (OFF)
 http://127.0.0.1:6878/ace/getstream?id=de204a1aa0908f17529ee7e20df516a5a16352f7
 
-#EXTINF:-1,tvg-name="DAZN F1 ONBOARD ALONSO" tvg-logo="https://acortar.link/QZZ08Q" tvg-id="DAZN F1 HD" group-title="DAZN F1 ",DAZN F1 ONBOARD ALONSO (OFF)
+#EXTINF:-1,tvg-name="DAZN F1 ONBOARD ALONSO" tvg-logo="https://acortar.link/QZZ08Q" tvg-id="DAZN F1 HD" group-title="DAZN F1 ",DAZN F1 ONBOARD ALONSO TEMPORAL (OFF)
 http://127.0.0.1:6878/ace/getstream?id=a88c674c825fd00a936f424f58cd9004f52eb59b
 
 <!-- MOVISTAR DEPORTES --> 
@@ -170,7 +170,11 @@ http://127.0.0.1:6878/ace/getstream?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
 #EXTINF:-1,tvg-name="MOVISTAR LA LIGA 720  "tvg-logo="https://telegra.ph/file/87a4c3d008b086629d093.jpg" tvg-id="M+ LaLiga TV HD" group-title="LIGA",MOVISTAR LA LIGA 720
 http://127.0.0.1:6878/ace/getstream?id=f031f5728b32f6089dda28edebe990cf198108d8
 
-#EXTINF:-1,tvg-name="MOVISTAR LA LIGA 4K  "tvg-logo="https://telegra.ph/file/87a4c3d008b086629d093.jpg" tvg-id="M+ LaLiga TV HD"  group-title="LIGA",MOVISTAR LA LIGA 4K (ON)
+
+#EXTINF:-1,tvg-name="MOVISTAR LA LIGA 4K  "tvg-logo="https://telegra.ph/file/87a4c3d008b086629d093.jpg" tvg-id="M+ LaLiga TV HD"  group-title="LIGA",MOVISTAR LA LIGA 4K 
+http://127.0.0.1:6878/ace/getstream?id=dce1579e3a2e5bd29071fca8eae364f1eb3205cf
+
+#EXTINF:-1,tvg-name="MOVISTAR LA LIGA 4K  "tvg-logo="https://telegra.ph/file/87a4c3d008b086629d093.jpg" tvg-id="M+ LaLiga TV HD"  group-title="LIGA",MOVISTAR LA LIGA 4K TEMPORAL (OFF)
 http://127.0.0.1:6878/ace/getstream?id=be071f7a5977de40f8f024a8ae582e799a6c4b8c
 
 #EXTINF:-1,tvg-name="LA LIGA BAR 1080 "tvg-logo="https://acortar.link/Fw1d0B" tvg-id="LaLiga TV BAR HD" group-title="LIGA",LA LIGA BAR 1080 
