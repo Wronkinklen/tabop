@@ -32,7 +32,7 @@ http://127.0.0.1:6878/ace/getstream?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
 #EXTINF:-1,tvg-name="MOVISTAR LIGA DE CAMPEONES 2 720 "tvg-logo="https://telegra.ph/file/388cb7e9c2c35b3e2b2a3.jpg"  tvg-id="M+ Liga de Campeones 2 HD" "group-title="CHAMPIONS",M.LIGA DE CAMPEONES 2 720 
 http://127.0.0.1:6878/ace/getstream?id=6753492c1908274c268a1b28e2a054a0ff8f86f9
 
-#EXTINF:-1,tvg-name="MOVISTAR LIGA DE CAMPEONES 3 1080 "tvg-logo=https://telegra.ph/file/e4c5995e20c06f7fd036f.jpg" tvg-id="M+ Liga de Campeones 3 HD" group-title="CHAMPIONS",M.LIGA DE CAMPEONES 3 1080 
+#EXTINF:-1,tvg-name="MOVISTAR LIGA DE CAMPEONES 3 1080 "tvg-logo="https://telegra.ph/file/e4c5995e20c06f7fd036f.jpg" tvg-id="M+ Liga de Campeones 3 HD" group-title="CHAMPIONS",M.LIGA DE CAMPEONES 3 1080 
 http://127.0.0.1:6878/ace/getstream?id=ad372cba73aa0ece207a79532b3e30b731136bb2
 
 #EXTINF:-1,tvg-name="MOVISTAR LIGA DE CAMPEONES 3 720 "tvg-logo="https://telegra.ph/file/e4c5995e20c06f7fd036f.jpg"  tvg-id="M+ Liga de Campeones 3 HD" group-title="CHAMPIONS",M.LIGA DE CAMPEONES 3 720 
