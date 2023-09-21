@@ -14,7 +14,7 @@ http://127.0.0.1:6878/ace/getstream?id=5a8d60f4c8e558f8ae5acad7c75f455928ce0c2e
  
 <!-- CHAMPIONS -->
 
-#EXTINF:-1,tvg-name="MULTICHAMPIONS 1080 (ON) "tvg-logo="https://telegra.ph/file/b5075b2db3e21d0f5cb92.jpg"  tvg-id="M+ Liga de Campeones HD" group-title="CHAMPIONS",MULTICHAMPIONS 1080 (ON)
+#EXTINF:-1,tvg-name="MULTICHAMPIONS 1080 (OFF) "tvg-logo="https://telegra.ph/file/b5075b2db3e21d0f5cb92.jpg"  tvg-id="M+ Liga de Campeones HD" group-title="CHAMPIONS",MULTICHAMPIONS 1080 (ON)
 http://127.0.0.1:6878/ace/getstream?id=427738bd127e5ae3399906497f07e93d641bf90f
 
 
@@ -68,16 +68,22 @@ http://127.0.0.1:6878/ace/getstream?id=5932623d2fd7ed16b01787251b418e4f59a01cda
 http://127.0.0.1:6878/ace/getstream?id=1a4b41c02e116ed19a505551a9caa79f54c027f7
 
 #EXTINF:-1,tvg-name="MOVISTAR LIGA DE CAMPEONES 9 SD "tvg-logo="https://telegra.ph/file/cc889bcf3a3eabd469beb.jpg" tvg-id="M+ Liga de Campeones 9"group-title="CHAMPIONS",M.LIGA DE CAMPEONES 9 SD 
-http://127.0.0.1:6878/ace/getstream?id=69c95dc47b35dde559a6ef025c1b91c89646a17f 
+http://127.0.0.1:6878/ace/getstream?id=7244379f8f6382d40afec871fb8e4219a803840b 
 
 #EXTINF:-1,tvg-name="MOVISTAR LIGA DE CAMPEONES 10 SD "tvg-logo="https://telegra.ph/file/87e8ff06e728bac9eabb8.jpg" tvg-id="M+ Liga de Campeones 10" group-title="CHAMPIONS",M.LIGA DE CAMPEONES 10 SD 
-http://127.0.0.1:6878/ace/getstream?id=df67afe5c5f5e82a3ae629d126727b006b65e676
+http://127.0.0.1:6878/ace/getstream?id=d42e1b592b840ea34394fd3e1b1d3a4d0f399213
 
 #EXTINF:-1,tvg-name="MOVISTAR LIGA DE CAMPEONES 11 SD "tvg-logo="https://telegra.ph/file/26538ea7e7858cf653f05.jpg"  tvg-id="M+ Liga de Campeones 11"group-title="CHAMPIONS",M.LIGA DE CAMPEONES 11 SD 
-http://127.0.0.1:6878/ace/getstream?id=57e284a3c13100baeff7a88dc50949585c9f1277
+http://127.0.0.1:6878/ace/getstream?id=e737c681a92a4328703761c6ed9d8a951655f3e4
 
 #EXTINF:-1,tvg-name="MOVISTAR LIGA DE CAMPEONES 12 SD "tvg-logo="https://telegra.ph/file/e070f448f095ac6d66379.jpg" tvg-id="M+ Liga de Campeones 12" group-title="CHAMPIONS",M.LIGA DE CAMPEONES 12 SD 
-http://127.0.0.1:6878/ace/getstream?id=33369549c635dabdb78b95c478c21fcc9e4ee854
+http://127.0.0.1:6878/ace/getstream?id=bb50397b3f49167eed95264005fae851baa7e3ee
+
+#EXTINF:-1,tvg-name="MOVISTAR LIGA DE CAMPEONES 13 SD "tvg-logo="https://telegra.ph/file/b5075b2db3e21d0f5cb92.jpg" tvg-id="M+ Liga de Campeones 13" group-title="CHAMPIONS",M.LIGA DE CAMPEONES 13 SD 
+http://127.0.0.1:6878/ace/getstream?id=60296c246e3596f334903fefd48cfaa724a5053b
+
+#EXTINF:-1,tvg-name="MOVISTAR LIGA DE CAMPEONES 17 SD "tvg-logo="https://telegra.ph/file/b5075b2db3e21d0f5cb92.jpg" tvg-id="M+ Liga de Campeones 17" group-title="CHAMPIONS",M.LIGA DE CAMPEONES 17 SD 
+http://127.0.0.1:6878/ace/getstream?id=60296c246e3596f334903fefd48cfaa724a5053b
 
 <!-- DAZN -->
  
