@@ -14,7 +14,7 @@ http://127.0.0.1:6878/ace/getstream?id=5a8d60f4c8e558f8ae5acad7c75f455928ce0c2e
  
 <!-- CHAMPIONS -->
 
-#EXTINF:-1,tvg-name="MULTICHAMPIONS 1080 (OFF) "tvg-logo="https://telegra.ph/file/b5075b2db3e21d0f5cb92.jpg"  tvg-id="M+ Liga de Campeones HD" group-title="CHAMPIONS",MULTICHAMPIONS 1080 (ON)
+#EXTINF:-1,tvg-name="MULTICHAMPIONS 1080 (OFF) "tvg-logo="https://telegra.ph/file/b5075b2db3e21d0f5cb92.jpg"  tvg-id="M+ Liga de Campeones HD" group-title="CHAMPIONS",MULTICHAMPIONS 1080 (OFF)
 http://127.0.0.1:6878/ace/getstream?id=427738bd127e5ae3399906497f07e93d641bf90f
 
 
@@ -197,7 +197,7 @@ http://127.0.0.1:6878/ace/getstream?id=dce1579e3a2e5bd29071fca8eae364f1eb3205cf
 #EXTINF:-1,tvg-name="MOVISTAR LA LIGA 4K  "tvg-logo="https://telegra.ph/file/87a4c3d008b086629d093.jpg" tvg-id="M+ LaLiga TV HD"  group-title="LIGA",MOVISTAR LA LIGA 4K (OFF)
 http://127.0.0.1:6878/ace/getstream?id=8286183314d367940409b760bbf887f3fb923f60
 
-#EXTINF:-1,tvg-name="MOVISTAR LA LIGA 4K  "tvg-logo="https://telegra.ph/file/87a4c3d008b086629d093.jpg" tvg-id="M+ LaLiga TV HD"  group-title="LIGA",MOVISTAR LA LIGA 4K  2(OFF)
+#EXTINF:-1,tvg-name="MOVISTAR LA LIGA 4K  "tvg-logo="https://telegra.ph/file/87a4c3d008b086629d093.jpg" tvg-id="M+ LaLiga TV HD"  group-title="LIGA",MOVISTAR LA LIGA 4K 2 (OFF)
 http://127.0.0.1:6878/ace/getstream?id=aec6e3384c22d3ed1e1d1cdcbc9855379049487b
 
 #EXTINF:-1,tvg-name="LA LIGA BAR 1080 "tvg-logo="https://acortar.link/Fw1d0B" tvg-id="LaLiga TV BAR HD" group-title="LIGA",LA LIGA BAR 1080 
@@ -232,7 +232,7 @@ http://127.0.0.1:6878/ace/getstream?id=75251ba975132ec9a202806ba5bf606e87280c96
 #EXTINF:-1,tvg-name="DAZN LIGA 1080 TEMPORAL"tvg-logo="https://telegra.ph/file/ce066c11ff84d8e0a45c8.jpg" tvg-id="DAZN LaLiga HD"  group-title="DAZN LALIGA",DAZN LIGA 1080 (OFF)
 http://127.0.0.1:6878/ace/getstream?id=9bbf074a042efeb863ddb438dea39c3a9980a39b
 
-#EXTINF:-1,tvg-name="DAZN LIGA 1080 TEMPORAL"tvg-logo="https://telegra.ph/file/ce066c11ff84d8e0a45c8.jpg" tvg-id="DAZN LaLiga HD"  group-title="DAZN LALIGA",DAZN LIGA 1080 2  (OFf)
+#EXTINF:-1,tvg-name="DAZN LIGA 1080 TEMPORAL"tvg-logo="https://telegra.ph/file/ce066c11ff84d8e0a45c8.jpg" tvg-id="DAZN LaLiga HD"  group-title="DAZN LALIGA",DAZN LIGA 1080 2 (OFF)
 http://127.0.0.1:6878/ace/getstream?id=0fa10ebd34f849b940aeb84139ed7d38d6fdf737
 
 #EXTINF:-1,tvg-name="DAZN LIGA 720 "tvg-logo="https://telegra.ph/file/ce066c11ff84d8e0a45c8.jpg" tvg-id="DAZN LaLiga HD" group-title="DAZN LALIGA",DAZN LIGA 720 
