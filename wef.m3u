@@ -259,7 +259,7 @@ http://127.0.0.1:6878/ace/getstream?id=99e544cddbee13798e854c1009ee7d1a93fdedf7
 http://127.0.0.1:6878/ace/getstream?id=afe0e179d2d1a4fa7d6248ce6af2b7c43aeb11e2
 
 #EXTINF:-1,tvg-name="WRC ESPAÑOL HD IPTV" group-title="WRC" tvg-id="Sport TV5 POR HD" tvg-logo="https://i.pinimg.com/236x/04/da/bd/04dabd53c1ac13f81a0ff16880a7cc8b.jpg" ,WRC ESPAÑOL HD IPTV (ON)
-https://vkvsd193.mycdn.me/hls/5298562271770.m3u8/sig/F9_UNqt-aCU/expires/1696050076445/srcIp/37.14.103.248/urls/45.136.22.68/clientType/14/srcAg/CHROME_ANDROID/mid/6478419077914/5298562271770_fullhd/index.m3u8
+https://vkvsd176.mycdn.me/hls/5305005312538.m3u8/sig/80ZfIJittrU/expires/1696155554037/srcIp/37.14.103.248/urls/185.226.53.95/clientType/14/srcAg/CHROME_ANDROID/mid/6482470251290/5305005312538_fullhd/index.m3u8
 
 #EXTINF:-1,tvg-name="WRC ORIGINAL"tvg-logo="https://acortar.link/IZadUs" "tvg-id="Sport TV5 POR HD" group-title="WRC",WRC 1080 
 http://127.0.0.1:6878/ace/getstream?id=8ef4e74336a0114d6def70de9d15cc4817d2f350
