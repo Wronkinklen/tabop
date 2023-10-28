@@ -229,8 +229,8 @@ http://127.0.0.1:6878/ace/getstream?id=1960a9be8ae9e8c755330218eac4c5805466290a
 #EXTINF:-1,tvg-name="DAZN LIGA 1080 2"tvg-logo="https://telegra.ph/file/ce066c11ff84d8e0a45c8.jpg" tvg-id="DAZN LaLiga HD"  group-title="DAZN LALIGA",DAZN LIGA 1080 2
 http://127.0.0.1:6878/ace/getstream?id=75251ba975132ec9a202806ba5bf606e87280c96
 
-#EXTINF:-1,tvg-name="DAZN LIGA 1080 TEMPORAL"tvg-logo="https://telegra.ph/file/ce066c11ff84d8e0a45c8.jpg" tvg-id="DAZN LaLiga HD"  group-title="DAZN LALIGA",DAZN LIGA 1080 (OFF)
-http://127.0.0.1:6878/ace/getstream?id=9bbf074a042efeb863ddb438dea39c3a9980a39b
+#EXTINF:-1,tvg-name="DAZN LIGA 1080 TEMPORAL"tvg-logo="https://telegra.ph/file/ce066c11ff84d8e0a45c8.jpg" tvg-id="DAZN LaLiga HD"  group-title="DAZN LALIGA",DAZN LIGA 1080 (ON)
+http://127.0.0.1:6878/ace/getstream?id=a9ff38cd45e9d2e482dca5072d882f8944221105
 
 #EXTINF:-1,tvg-name="DAZN LIGA 1080 TEMPORAL"tvg-logo="https://telegra.ph/file/ce066c11ff84d8e0a45c8.jpg" tvg-id="DAZN LaLiga HD"  group-title="DAZN LALIGA",DAZN LIGA 1080 2 (OFF)
 http://127.0.0.1:6878/ace/getstream?id=0fa10ebd34f849b940aeb84139ed7d38d6fdf737
