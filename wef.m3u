@@ -2,13 +2,13 @@
 
 <!-- SUPERCOPA DE ESPAÑA -->
 
-#EXTINF:-1,tvg-name="MOVISTAR SUPERCOPA 1080"tvg-logo="https://i.ibb.co/R2N3PvH/supercopaespana2022.png"  tvg-id="" group-title="SUPERCOPA DE ESPAÑA",MOVISTAR SUPERCOPA 1080
+#EXTINF:-1,tvg-name="MOVISTAR SUPERCOPA 1080"tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIG2"  tvg-id="Movistar Plus+ HD" group-title="SUPERCOPA DE ESPAÑA",MOVISTAR SUPERCOPA 1080
 http://127.0.0.1:6878/ace/getstream?id=8ba764f6a3bce6eae87ec71208fad1aa3a20528d
 
-#EXTINF:-1,tvg-name="MOVISTAR SUPERCOPA 1080 2 "tvg-logo="https://i.ibb.co/R2N3PvH/supercopaespana2022.png"  tvg-id="" group-title="SUPERCOPA DE ESPAÑA",MOVISTAR SUPERCOPA 1080 2 
+#EXTINF:-1,tvg-name="MOVISTAR SUPERCOPA 1080 2 "tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIG2"  tvg-id="Movistar Plus+ HD" group-title="SUPERCOPA DE ESPAÑA",MOVISTAR SUPERCOPA 1080 2 
 http://127.0.0.1:6878/ace/getstream?id=5a236fbbe6e5bbfec03db548c244a7c858d675c0
 
-#EXTINF:-1,tvg-name="MOVISTAR SUPERCOPA 1080 3 "tvg-logo="https://i.ibb.co/R2N3PvH/supercopaespana2022.png"  tvg-id="" group-title="SUPERCOPA DE ESPAÑA",MOVISTAR SUPERCOPA 1080 3 
+#EXTINF:-1,tvg-name="MOVISTAR SUPERCOPA 1080 3 "tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIG2"  tvg-id="Movistar Plus+ HD" group-title="SUPERCOPA DE ESPAÑA",MOVISTAR SUPERCOPA 1080 3 
 http://127.0.0.1:6878/ace/getstream?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
 
 
@@ -156,7 +156,7 @@ http://127.0.0.1:6878/ace/getstream?id=8587ed8ac36ac477e1d4176d3159a38bd154d4ce
 #EXTINF:-1,tvg-name="MOVISTAR DEPORTES 7 1080 "tvg-logo="https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png" tvg-id="M+ Deportes 7" group-title="MOVISTAR",MOVISTAR DEPORTES 7 1080  
 http://127.0.0.1:6878/ace/getstream?id=2448f1d084f440eed2fbe847e24f1c02f5659a78
 
- #EXTINF:-1,tvg-name="MOVISTAR DEPORTES PLUS "tvg-logo="https://telegra.ph/file/9a0d68a169f207c184eca.png" tvg-id="Movistar Plus+ HD" group-title="MOVISTAR",MOVISTAR PLUS 1080
+ #EXTINF:-1,tvg-name="MOVISTAR DEPORTES PLUS "tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B%20HD.png" tvg-id="Movistar Plus+ HD" group-title="MOVISTAR",MOVISTAR PLUS 1080
 http://127.0.0.1:6878/ace/getstream?id=5a236fbbe6e5bbfec03db548c244a7c858d675c0
 
 #EXTINF:-1,tvg-name="ESPECIAL ALCARAZ 1080"tvg-logo="https://img2.rtve.es/n/2454219?w=800&preview=1692393215762.jpg"  tvg-id="M+ Vamos HD" group-title="MOVISTAR",ESPECIAL ALCARAZ 1080 (OFF) 
