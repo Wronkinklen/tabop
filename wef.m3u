@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml,https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
 
-<!-- SUPERCOPA DE ESPAÑA -->
+<!-- SUPERCOPA DE ESPAÑAA -->
 
 #EXTINF:-1,tvg-name="MOVISTAR SUPERCOPA 1080"tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIG2"  tvg-id="Movistar Plus+ HD" group-title="SUPERCOPA DE ESPAÑA",MOVISTAR SUPERCOPA 1080
 http://127.0.0.1:6878/ace/getstream?id=8ba764f6a3bce6eae87ec71208fad1aa3a20528d
