@@ -1,5 +1,17 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml,https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
 
+<!-- SUPERCOPA DE ESPAÑA -->
+
+#EXTINF:-1,tvg-name="MOVISTAR SUPERCOPA 1080"tvg-logo="https://i.ibb.co/R2N3PvH/supercopaespana2022.png"  tvg-id="M+ Liga de Campeones HD" group-title="SUPERCOPA DE ESPAÑA",MOVISTAR SUPERCOPA 1080
+http://127.0.0.1:6878/ace/getstream?id=8ba764f6a3bce6eae87ec71208fad1aa3a20528d
+
+#EXTINF:-1,tvg-name="MOVISTAR SUPERCOPA 1080 2 "tvg-logo="https://i.ibb.co/R2N3PvH/supercopaespana2022.png"  tvg-id="M+ Liga de Campeones HD" group-title="SUPERCOPA DE ESPAÑA",MOVISTAR SUPERCOPA 1080 2 
+http://127.0.0.1:6878/ace/getstream?id=5a236fbbe6e5bbfec03db548c244a7c858d675c0
+
+#EXTINF:-1,tvg-name="MOVISTAR SUPERCOPA 1080 3 "tvg-logo="https://i.ibb.co/R2N3PvH/supercopaespana2022.png"  tvg-id="M+ Liga de Campeones HD" group-title="SUPERCOPA DE ESPAÑA",MOVISTAR SUPERCOPA 1080 3 
+http://127.0.0.1:6878/ace/getstream?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
+
+
 <!-- CHAMPIONS -->
 
 #EXTINF:-1,tvg-name="MULTICHAMPIONS 1080 (OFF) "tvg-logo="https://telegra.ph/file/b5075b2db3e21d0f5cb92.jpg"  tvg-id="M+ Liga de Campeones HD" group-title="CHAMPIONS",MULTICHAMPIONS 1080 (OFF)
