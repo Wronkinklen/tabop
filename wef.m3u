@@ -2,20 +2,23 @@
 
 <!--COPA DEL REY-->
 
-#EXTINF:-1,tvg-name="COPA DEL REY 1080 "tvg-logo="h"  tvg-id="" group-title="COPA DEL REY ",COPA DEL REY 1080
-http://127.0.0.1:6878/ace/getstream?id=
+#EXTINF:-1,tvg-name="COPA DEL REY 1080 "tvg-logo="https://imgresizer.eurosport.com/unsafe/2560x1440/filters:format(jpeg)/origin-imgresizer.eurosport.com/2021/03/24/3017043-61896588-2560-1440.jpg" tvg-id="M+ Liga de Campeones HD" group-title="COPA DEL REY ",COPA DEL REY 1080
+http://127.0.0.1:6878/ace/getstream?id=8ba764f6a3bce6eae87ec71208fad1aa3a20528d
 
-#EXTINF:-1,tvg-name="COPA DEL REY 1080 "tvg-logo=""  tvg-id="" group-title="COPA DEL REY ",COPA DEL REY 1080 1 
-http://127.0.0.1:6878/ace/getstream?id=
+#EXTINF:-1,tvg-name="COPA DEL REY 1080 "tvg-logo="https://imgresizer.eurosport.com/unsafe/2560x1440/filters:format(jpeg)/origin-imgresizer.eurosport.com/2021/03/24/3017043-61896588-2560-1440.jpg" tvg-id="M+ Liga de Campeones HD" group-title="COPA DEL REY ",COPA DEL REY 1080 1 
+http://127.0.0.1:6878/ace/getstream?id=7d70685696722c2b1b48a5ae1a7f92c445d9443d
 
-#EXTINF:-1,tvg-name="COPA DEL REY 1080 "tvg-logo=""  tvg-id="" group-title="COPA DEL REY ",COPA DEL REY 1080 2 
-http://127.0.0.1:6878/ace/getstream?id=
+#EXTINF:-1,tvg-name="COPA DEL REY 1080 "tvg-logo="https://imgresizer.eurosport.com/unsafe/2560x1440/filters:format(jpeg)/origin-imgresizer.eurosport.com/2021/03/24/3017043-61896588-2560-1440.jpg" tvg-id="M+ Liga de Campeones HD" group-title="COPA DEL REY ",COPA DEL REY 1080 2 
+http://127.0.0.1:6878/ace/getstream?id=d6cdd724a97fcf851e7ef641c28d6beb8663496e
 
-#EXTINF:-1,tvg-name="COPA DEL REY 1080 "tvg-logo=""  tvg-id="" group-title="COPA DEL REY ",COPA DEL REY 1080 3 
-http://127.0.0.1:6878/ace/getstream?id=
+#EXTINF:-1,tvg-name="COPA DEL REY 1080 "tvg-logo="https://imgresizer.eurosport.com/unsafe/2560x1440/filters:format(jpeg)/origin-imgresizer.eurosport.com/2021/03/24/3017043-61896588-2560-1440.jpg" tvg-id="M+ Liga de Campeones HD" group-title="COPA DEL REY ",COPA DEL REY 1080 3 
+http://127.0.0.1:6878/ace/getstream?id=3a4c8ac955d451bf3c29b45256e74aa0ea82d281
 
-#EXTINF:-1,tvg-name="COPA DEL REY 1080 "tvg-logo=""  tvg-id="M+ Liga de Campeones HD" group-title="COPA DEL REY ",COPA DEL REY 720
-http://127.0.0.1:6878/ace/getstream?id=
+#EXTINF:-1,tvg-name="COPA DEL REY 1080 "tvg-logo="https://imgresizer.eurosport.com/unsafe/2560x1440/filters:format(jpeg)/origin-imgresizer.eurosport.com/2021/03/24/3017043-61896588-2560-1440.jpg" tvg-id="M+ Liga de Campeones HD" group-title="COPA DEL REY ",COPA DEL REY 1080 4
+http://127.0.0.1:6878/ace/getstream?id=5a236fbbe6e5bbfec03db548c244a7c858d675c0 
+
+#EXTINF:-1,tvg-name="COPA DEL REY 1080 "tvg-logo="https://imgresizer.eurosport.com/unsafe/2560x1440/filters:format(jpeg)/origin-imgresizer.eurosport.com/2021/03/24/3017043-61896588-2560-1440.jpg" tvg-id="M+ Liga de Campeones HD" group-title="COPA DEL REY ",COPA DEL REY 720
+http://127.0.0.1:6878/ace/getstream?id= acestream://dab7cab5d6d177df36c3b333ca363c2266d91a03
 
 <!-- CHAMPIONS -->
 
@@ -263,7 +266,7 @@ http://127.0.0.1:6878/ace/getstream?id=99e544cddbee13798e854c1009ee7d1a93fdedf7
 http://127.0.0.1:6878/ace/getstream?id=afe0e179d2d1a4fa7d6248ce6af2b7c43aeb11e2
 
 #EXTINF:-1,tvg-name="WRC ESPAÑOL HD IPTV" group-title="WRC" tvg-id="Sport TV5 POR HD" tvg-logo="https://i.pinimg.com/236x/04/da/bd/04dabd53c1ac13f81a0ff16880a7cc8b.jpg" ,WRC ESPAÑOL HD IPTV (OFF)
-https://vkvsd176.mycdn.me/hls/5305005312538.m3u8/sig/80ZfIJittrU/expires/1696155554037/srcIp/37.14.103.248/urls/185.226.53.95/clientType/14/srcAg/CHROME_ANDROID/mid/6482470251290/5305005312538_fullhd/index.m3u8
+https://vkvsd230.mycdn.me/hls/5849975294490.m3u8/sig/55gAdDezZyI/srcIp/37.14.45.69/urls/185.226.52.98/expires/1706035398266/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/6816408152858/id/5849975294490/5849975294490_fullhd/index.m3u8
 
 #EXTINF:-1,tvg-name="WRC ORIGINAL"tvg-logo="https://acortar.link/IZadUs" "tvg-id="Sport TV5 POR HD" group-title="WRC",WRC 1080 
 http://127.0.0.1:6878/ace/getstream?id=8ef4e74336a0114d6def70de9d15cc4817d2f350
@@ -272,8 +275,7 @@ http://127.0.0.1:6878/ace/getstream?id=8ef4e74336a0114d6def70de9d15cc4817d2f350
 http://127.0.0.1:6878/ace/getstream?id=
  
 #EXTINF:-1,tvg-name="WRC ESPAÑOL HD IPTV 2" group-title="WRC" tvg-id="Sport TV5 POR HD" tvg-logo="https://i.pinimg.com/236x/04/da/bd/04dabd53c1ac13f81a0ff16880a7cc8b.jpg" ,WRC HD IPTV 2 (OFF)
-https://paco@abby50.superabbit77.xyz/es/motorsport/wrc-1491759/wrc-rally-chile-chile---overall.html
-
+https://vkvsd230.mycdn.me/hls/5849975294490.m3u8/sig/GpAeJ6hD7Gk/srcIp/37.14.45.69/urls/185.226.52.98/expires/1706035517637/clientType/14/srcAg/SAFARI_IPHONE_OTHER/fromCache/1/mid/6816408152858/id/5849975294490/5849975294490_fullhd/index.m3u8
 <!-- EUROSPORT -->
  
 #EXTINF:-1,tvg-name="EUROSPORT  1 1080" tvg-logo="https://i.ibb.co/DKTwL0t/Eurosport1-o.jpg" tvg-id="Eurosport 1 HD" group-title="EUROSPORT",EUROSPORT 1 1080 
