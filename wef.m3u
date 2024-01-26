@@ -266,17 +266,22 @@ http://127.0.0.1:6878/ace/getstream?id=99e544cddbee13798e854c1009ee7d1a93fdedf7
 http://127.0.0.1:6878/ace/getstream?id=afe0e179d2d1a4fa7d6248ce6af2b7c43aeb11e2
 
 #EXTINF:-1,tvg-name="WRC ESPAÑOL HD IPTV" group-title="WRC" tvg-id="Sport TV5 POR HD" tvg-logo="https://i.pinimg.com/236x/04/da/bd/04dabd53c1ac13f81a0ff16880a7cc8b.jpg" ,WRC ESPAÑOL 1080 IPTV (ON)
-https://vkvsd37.mycdn.me/hls/5884062403098.m3u8/sig/adLoKPs-4fs/srcIp/37.14.45.69/urls/185.226.52.52/expires/1706652417685/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/6837644438298/id/5884062403098/5884062403098_fullhd/index.m3u8
+https://vkvsd165.mycdn.me/hls/5886677355034.m3u8/sig/-NDkGElM97M/srcIp/37.14.45.69/urls/45.136.20.35/expires/1706711463126/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/6839307086618/id/5886677355034/5886677355034_fullhd/index.m3u8
+
+#EXTINF:-1,tvg-name="WRC ESPAÑOL HD IPTV" group-title="WRC" tvg-id="Sport TV5 POR HD" tvg-logo="https://i.pinimg.com/236x/04/da/bd/04dabd53c1ac13f81a0ff16880a7cc8b.jpg" ,WRC ESPAÑOL 1080 IPTV 2 (ON)
+https://vk.com/video_ext.php?oid=718161690&id=456239373&hd=4
 
 #EXTINF:-1,tvg-name="WRC ORIGINAL"tvg-logo="https://acortar.link/IZadUs" "tvg-id="Sport TV5 POR HD" group-title="WRC",WRC 1080 
 http://127.0.0.1:6878/ace/getstream?id=8ef4e74336a0114d6def70de9d15cc4817d2f350
 
-#EXTINF:-1,tvg-name="WRC"tvg-logo="https://acortar.link/IZadUs" tvg-id="Sport TV5 POR HD" group-title="WRC",WRC 1080 (OFF)
-http://127.0.0.1:6878/ace/getstream?id=
- 
-#EXTINF:-1,tvg-name="WRC ESPAÑOL HD IPTV 2" group-title="WRC" tvg-id="Sport TV5 POR HD" tvg-logo="https://i.pinimg.com/236x/04/da/bd/04dabd53c1ac13f81a0ff16880a7cc8b.jpg" ,WRC 720 IPTV 2 (ON)
-https://vkvsd37.mycdn.me/hls/5884062403098.m3u8/sig/adLoKPs-4fs/srcIp/37.14.45.69/urls/185.226.52.52/expires/1706652417685/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/6837644438298/id/5884062403098/5884062403098_high/index.m3u8
+#EXTINF:-1,tvg-name="WRC"tvg-logo="https://acortar.link/IZadUs" tvg-id="Sport TV5 POR HD" group-title="WRC",WRC 1080 IPTV
+http://polcalminei.online:2082/viktor22/newJdqR5ksgQ3YKYnew/459532
 
+#EXTINF:-1,tvg-name="WRC"tvg-logo="https://acortar.link/IZadUs" tvg-id="Sport TV5 POR HD" group-title="WRC",WRC 1080 IPTV 2 
+http://polcalminei.online:2082/zoomnew/uXgVnHsS92V267new2xd/459532
+ 
+#EXTINF:-1,tvg-name="WRC ESPAÑOL HD IPTV 2" group-title="WRC" tvg-id="Sport TV5 POR HD" tvg-logo="https://i.pinimg.com/236x/04/da/bd/04dabd53c1ac13f81a0ff16880a7cc8b.jpg" ,WRC 720 IPTV  (ON)
+https://vkvsd165.mycdn.me/hls/5886677355034.m3u8/sig/-NDkGElM97M/srcIp/37.14.45.69/urls/45.136.20.35/expires/1706711463126/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/6839307086618/id/5886677355034/5886677355034_high/index.m3u8
 <!-- EUROSPORT -->
  
 #EXTINF:-1,tvg-name="EUROSPORT  1 1080" tvg-logo="https://i.ibb.co/DKTwL0t/Eurosport1-o.jpg" tvg-id="Eurosport 1 HD" group-title="EUROSPORT",EUROSPORT 1 1080 
