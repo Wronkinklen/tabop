@@ -262,19 +262,19 @@ http://127.0.0.1:6878/ace/getstream?id=99e544cddbee13798e854c1009ee7d1a93fdedf7
  
 <!-- WRC -->
 
-#EXTINF:-1,tvg-name="WRC ESPAÑOL HD IPTV" group-title="WRC" tvg-id="" tvg-logo="https://i.pinimg.com/236x/04/da/bd/04dabd53c1ac13f81a0ff16880a7cc8b.jpg" ,WRC ESPAÑOL 1080 IPTV (ON)
+#EXTINF:-1,tvg-name="WRC ESPAÑOL HD IPTV" group-title="WRC" tvg-id="" tvg-logo="https://i.pinimg.com/236x/04/da/bd/04dabd53c1ac13f81a0ff16880a7cc8b.jpg" ,WRC ESPAÑOL 1080 IPTV (OFF)
 https://vkvsd58.mycdn.me/hls/5982457301530.m3u8/sig/ICeGLFftJr0/srcIp/37.14.45.69/urls/185.226.53.65/expires/1708523085552/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/6898163919642/id/5982457301530/5982457301530_fullhd/index.m3u8
 
 #EXTINF:-1,tvg-name="WRC"tvg-logo="https://acortar.link/IZadUs" tvg-id="" group-title="WRC",WRC ESPAÑOL 1080 IPTV 2 (ON)
 https://vkvsd52.mycdn.me/hls/5982457301530.m3u8/sig/UUpn1NxW22Q/srcIp/37.14.45.69/urls/185.226.52.63/expires/1708530127062/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/6898163919642/id/5982457301530/5982457301530_high/index.m3u8
 
-#EXTINF:-1,tvg-name="WRC ESPAÑOL HD IPTV" group-title="WRC" tvg-id="" tvg-logo="https://i.pinimg.com/236x/04/da/bd/04dabd53c1ac13f81a0ff16880a7cc8b.jpg" ,WRC ESPAÑOL 1080 IPTV 3 (ON)
+#EXTINF:-1,tvg-name="WRC ESPAÑOL HD IPTV" group-title="WRC" tvg-id="" tvg-logo="https://i.pinimg.com/236x/04/da/bd/04dabd53c1ac13f81a0ff16880a7cc8b.jpg" ,WRC ESPAÑOL 1080 IPTV 3 (OFF)
 https://vk.com/video_ext.php?oid=718161690&id=456239373&hd=4
 
 #EXTINF:-1,tvg-name="WRC"tvg-logo="https://acortar.link/IZadUs" tvg-id="" group-title="WRC",WRC 1080 IPTV  
 http://polcalminei.online:2082/zoomnew/uXgVnHsS92V267new2xd/459532
 
-#EXTINF:-1,tvg-name="WRC ESPAÑOL HD IPTV 2" group-title="WRC" tvg-id="" tvg-logo="https://i.pinimg.com/236x/04/da/bd/04dabd53c1ac13f81a0ff16880a7cc8b.jpg" ,WRC ESPAÑOL 720 IPTV  (ON)
+#EXTINF:-1,tvg-name="WRC ESPAÑOL HD IPTV 2" group-title="WRC" tvg-id="" tvg-logo="https://i.pinimg.com/236x/04/da/bd/04dabd53c1ac13f81a0ff16880a7cc8b.jpg" ,WRC ESPAÑOL 720 IPTV  (OFF)
 https://vkvsd22.mycdn.me/hls/5895815432730.m3u8/sig/MpfSEKNkoQ8/srcIp/37.14.45.69/urls/185.226.53.64/expires/1706880014897/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/6844750899994/id/5895815432730/5895815432730_high/index.m3u8
 
 #EXTINF:-1,tvg-name="WRC ESPAÑOL"tvg-logo="https://acortar.link/IZadUs" tvg-id="Sport TV5 POR HD" group-title="WRC",WRC ESPAÑOL 1080 (OFF)
@@ -313,163 +313,6 @@ http://127.0.0.1:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
 #EXTINF:-1,tvg-name="Sky Sports Main Event  "tvg-logo="https://telegra.ph/file/f435538aa2919bbdf802c.jpg"  tvg-id="Sky Sports Maint Event" group-title="VARIADOS",Sky Sports Main Event
 http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
 
- <!-- DAZN F1 IPTV --> 
-
-#EXTINF:-1,tvg-name="DAZN F1 fHD "tvg-logo="https://acortar.link/eeJCAb" tvg-id="DAZN F1 HD" group-title="DAZN F1 IPTV  ",DAZN F1 FHD 
-http://62.197.129.85:8080/digitalbox/aJ4rpws3a0/204940
-
-#EXTINF:-1,tvg-name="DAZN F1 fHD 2"tvg-logo="https://acortar.link/eeJCAb" tvg-id="DAZN F1 HD" group-title="DAZN F1 IPTV ",DAZN F1 FHD 2 
-http://62.197.129.85:8080/0003/yaz6PY6SXEFx/204940
-
-#EXTINF:-1,tvg-name="DAZN F1 fHD 3"tvg-logo="https://acortar.link/eeJCAb" tvg-id="DAZN F1 HD" group-title="DAZN F1 IPTV ",DAZN F1 FHD 3 
-http://62.197.129.85:8080/firesp11/2023C/204940
-
-#EXTINF:-1,tvg-name="DAZN F1 fHD 4"tvg-logo="https://acortar.link/eeJCAb" tvg-id="DAZN F1 HD" group-title="DAZN F1 IPTV ",DAZN F1 FHD 4
-http://62.197.129.85:8080/1128221512/yUFEAr88Lv/204940
-
-#EXTINF:-1,tvg-name="DAZN F1 fHD 1"tvg-logo="https://acortar.link/eeJCAb" tvg-id="DAZN F1 HD" group-title="DAZN F1 IPTV ",DAZN F1 HD
-http://todoen1.xyz:8080/m6hP9j9tXP/r9NJQaGU6eMe/49905
-
-<!-- CHAMPIONS IPTV  -->
-
-#EXTINF:-1,tvg-name="MOVISTAR LIGA DE CAMPEONES HD "tvg-logo="https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png"  tvg-id="M+ Liga de Campeones HD" group-title="CHAMPIONS IPTV ",M.LIGA DE CAMPEONES HD
-http://172.93.111.179:8080/sergioarayacas/SergioWh6/157420
-
-#EXTINF:-1,tvg-name="MOVISTAR LIGA DE CAMPEONES HD 2  "tvg-logo="https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png"  tvg-id="M+ Liga de Campeones HD" group-title="CHAMPIONS IPTV ",M.LIGA DE CAMPEONES HD 2 
-http://172.93.111.179:8080/sergioarayacas/SergioWh6/157421
-
-#EXTINF:-1,tvg-name="MOVISTAR LIGA DE CAMPEONES HD 3  "tvg-logo="https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png"  tvg-id="M+ Liga de Campeones HD" group-title="CHAMPIONS IPTV ",M.LIGA DE CAMPEONES HD 3
-http://goodtv.ot0711.xyz:80/play/pheni iptv-EX/9538kdf9817GRHUr/165358.ts
-
-#EXTINF:-1,tvg-name="MOVISTAR LIGA DE CAMPEONES 2 HD "tvg-logo="https://i.postimg.cc/WbdGh9zM/Liga-de-Campeones-2-por-Movistar-Plus-2022-logo.png"  tvg-id="M+ Liga de Campeones 2 HD" group-title="CHAMPIONS IPTV ",M.LIGA DE CAMPEONES 2 HD
-http://goodtv.ot0711.xyz:80/play/pheni iptv-EX/9538kdf9817GRHUr/165365.ts
-
-#EXTINF:-1,tvg-name="MOVISTAR LIGA DE CAMPEONES 2 HD 2 "tvg-logo="https://i.postimg.cc/WbdGh9zM/Liga-de-Campeones-2-por-Movistar-Plus-2022-logo.png"  tvg-id="M+ Liga de Campeones 2 HD" group-title="CHAMPIONS IPTV ",M.LIGA DE CAMPEONES 2 HD 2
-http://172.93.111.179:8080/sergioarayacas/SergioWh6/157423
-
-#EXTINF:-1,tvg-name="MOVISTAR LIGA DE CAMPEONES 2 HD 3 "tvg-logo="https://i.postimg.cc/WbdGh9zM/Liga-de-Campeones-2-por-Movistar-Plus-2022-logo.png"  tvg-id="M+ Liga de Campeones 2 HD" group-title="CHAMPIONS IPTV ",M.LIGA DE CAMPEONES 2 HD 3
-http://172.93.111.179:8080/sergioarayacas/SergioWh6/157424
-
-#EXTINF:-1,tvg-name="MOVISTAR LIGA DE CAMPEONES 3 HD  "tvg-logo="https://i.postimg.cc/yY9bDhLr/Liga-de-Campeones-3-por-Movistar-Plus-2022-logo.png"  tvg-id="M+ Liga de Campeones 3 HD" group-title="CHAMPIONS IPTV ",M.LIGA DE CAMPEONES 3 HD 
-http://172.93.111.179:8080/sergioarayacas/SergioWh6/157426
-
-#EXTINF:-1,tvg-name="MOVISTAR LIGA DE CAMPEONES 4 FHD  "tvg-logo="https://i.postimg.cc/HxVSdbJz/Liga-de-Campeones-4-por-Movistar-Plus-2022-logo.png"  tvg-id="M+ Liga de Campeones 4" group-title="CHAMPIONS IPTV ",M.LIGA DE CAMPEONES 4 FHD
-http://172.93.111.179:8080/sergioarayacas/SergioWh6/157427
-
- <!-- LIGA IPTV  -->
-
-#EXTINF:-1,tvg-name="MOVISTAR LA LIGA FHD   "tvg-logo="https://telegra.ph/file/87a4c3d008b086629d093.jpg" tvg-id="M+ LaLiga TV HD"  group-title="LIGA IPTV",MOVISTAR LA LIGA FHD 
-http://172.93.111.179:8080/sergioarayacas/SergioWh6/157437
-
-#EXTINF:-1,tvg-name="MOVISTAR LA LIGA FHD 2   "tvg-logo="https://telegra.ph/file/87a4c3d008b086629d093.jpg" tvg-id="M+ LaLiga TV HD"  group-title="LIGA IPTV",MOVISTAR LA LIGA FHD 2
-http://172.93.111.179:8080/sergioarayacas/SergioWh6/157438
-
-#EXTINF:-1,tvg-name="MOVISTAR LA LIGA HD   "tvg-logo="https://telegra.ph/file/87a4c3d008b086629d093.jpg" tvg-id="M+ LaLiga TV HD"  group-title="LIGA IPTV",MOVISTAR LA LIGA HD 
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/165392.ts
-
-#EXTINF:-1,tvg-name="MOVISTAR LA LIGA HD 2  "tvg-logo="https://telegra.ph/file/87a4c3d008b086629d093.jpg" tvg-id="M+ LaLiga TV HD"  group-title="LIGA IPTV",MOVISTAR LA LIGA HD 2
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/165398.ts
-
-#EXTINF:-1,tvg-name="MOVISTAR LA LIGA 2  FHD "tvg-logo="https://telegra.ph/file/5c77da09724e53af96832.jpg" tvg-id="M+ LaLiga TV 2 HD"  group-title="LIGA IPTV",MOVISTAR LA LIGA 2 FHD 
-http://172.93.111.179:8080/sergioarayacas/SergioWh6/157440
-
-#EXTINF:-1,tvg-name="MOVISTAR LA LIGA 2  FHD 2 "tvg-logo="https://telegra.ph/file/5c77da09724e53af96832.jpg" tvg-id="M+ LaLiga TV 2 HD"  group-title="LIGA IPTV",MOVISTAR LA LIGA 2 FHD 2
-http://172.93.111.179:8080/sergioarayacas/SergioWh6/157442
-
-#EXTINF:-1,tvg-name="MOVISTAR LA LIGA 3  FHD "tvg-logo="https://telegra.ph/file/968c9d7eb40340bae2eab.jpg" tvg-id="M+ LaLiga TV 3 HD"  group-title="LIGA IPTV",MOVISTAR LA LIGA 3 FHD 
-http://172.93.111.179:8080/sergioarayacas/SergioWh6/157443
-
-#EXTINF:-1,tvg-name="MOVISTAR LA LIGA 3 FHD 2 "tvg-logo="https://telegra.ph/file/968c9d7eb40340bae2eab.jpg" tvg-id="M+ LaLiga TV 3 HD"  group-title="LIGA IPTV",MOVISTAR LA LIGA 3 FHD 2
-http://172.93.111.179:8080/sergioarayacas/SergioWh6/157444
-
- <!--DAZNLIGA IPTV -->
-
-#EXTINF:-1,tvg-name="DAZN LIGA HD "tvg-logo="https://telegra.ph/file/ce066c11ff84d8e0a45c8.jpg"  tvg-id="DAZN LaLiga HD" group-title="DAZN LALIGA IPTV ",DAZN LIGA HD
-http://172.93.111.179:8080/sergioarayacas/SergioWh6/157411
-
-#EXTINF:-1,tvg-name="DAZN LIGA HD  2 "tvg-logo="https://telegra.ph/file/ce066c11ff84d8e0a45c8.jpg"  tvg-id="DAZN LaLiga HD" group-title="DAZN LALIGA IPTV ",DAZN LIGA HD 2 
-http://172.93.111.179:8080/sergioarayacas/SergioWh6/157412
-
-#EXTINF:-1,tvg-name="DAZN LIGA 2  HD   "tvg-logo="https://telegra.ph/file/47cefdd0ff29e5ea76dfa.jpg"  tvg-id="DAZN LaLiga 2 HD" group-title="DAZN LALIGA IPTV ",DAZN LIGA 2 HD 
-http://172.93.111.179:8080/sergioarayacas/SergioWh6/157414
-
-#EXTINF:-1,tvg-name="DAZN LIGA 2  HD  2 "tvg-logo="https://telegra.ph/file/47cefdd0ff29e5ea76dfa.jpg"  tvg-id="DAZN LaLiga 2 HD" group-title="DAZN LALIGA IPTV ",DAZN LIGA 2 HD 2 
-http://172.93.111.179:8080/sergioarayacas/SergioWh6/157452 
-
- <!--DAZN IPTV -->
-
-#EXTINF:-1,tvg-name="DAZN 1 HD"tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" tvg-id="DAZN 1 HD" group-title="DAZN IPTV",DAZN 1 HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/228385.ts
-
-#EXTINF:-1,tvg-name="DAZN 2 HD"tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png"  tvg-id="DAZN 2 HD" group-title="DAZN IPTV",DAZN 2 HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/228388.ts
-
-#EXTINF:-1,tvg-name="DAZN 3 HD"tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png" tvg-id="DAZN 3 HD" group-title="DAZN IPTV ",DAZN 3 HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/228394.ts
-
-#EXTINF:-1,tvg-name="DAZN 4 HD"tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-4-es-2525.png"  tvg-id="DAZN 4 HD" group-title="DAZN IPTV",DAZN 4 HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/228398.ts
-
- <!-- MOVISTAR DEPORTES IPTV  -->
-
-#EXTINF:-1,tvg-name="VAMOS HD"tvg-logo="https://acortar.link/Jl1X3Q"  tvg-id="M+ #Vamos HD" group-title="MOVISTAR IPTV",#VAMOS HD 
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321072.ts
-
-#EXTINF:-1,tvg-name="VAMOS SD"tvg-logo="https://acortar.link/Jl1X3Q"  tvg-id="M+ #Vamos HD" group-title="MOVISTAR IPTV",#VAMOS SD 
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321073.ts
-
-#EXTINF:-1,tvg-name="MOVISTAR DEPORTES FHD"tvg-logo="https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"  tvg-id="M+ Deportes HD" group-title="MOVISTAR IPTV",MOVISTAR DEPORTES FHD
-http://37.49.230.42:8080/stadnik/6a627b52a9/227121
-
-#EXTINF:-1,tvg-name="MOVISTAR DEPORTES FHD"tvg-logo="https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"  tvg-id="M+ Deportes HD" group-title="MOVISTAR IPTV",MOVISTAR DEPORTES FHD 2 
-http://37.49.230.42:8080/LeCyGodF/thYAg86ShLywX9FL/227121
-
-#EXTINF:-1,tvg-name="MOVISTAR DEPORTES HD"tvg-logo="https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"  tvg-id="M+ Deportes HD" group-title="MOVISTAR IPTV",MOVISTAR DEPORTES HD 
-http://todoen1.xyz:8080/m6hP9j9tXP/r9NJQaGU6eMe/133748
-
-#EXTINF:-1,tvg-name="MOVISTAR DEPORTES 2 FHD"tvg-logo="https://i.postimg.cc/SNbF0tRZ/Deportes-por-Movistar-2-2022-logo.png"  tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR IPTV ",MOVISTAR DEPORTES 2 FHD 
-http://todoen1.xyz:8080/m6hP9j9tXP/r9NJQaGU6eMe/176646
-
-#EXTINF:-1,tvg-name="MOVISTAR DEPORTES 2 FHD 2 "tvg-logo="https://i.postimg.cc/SNbF0tRZ/Deportes-por-Movistar-2-2022-logo.png"  tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR IPTV ",MOVISTAR DEPORTES 2 FHD 2  
-http://todoen1.xyz:8080/patriciosonncalderon/4ZC4SsdD4/176646
-
-#EXTINF:-1,tvg-name="MOVISTAR DEPORTES 2 FHD 3"tvg-logo="https://i.postimg.cc/SNbF0tRZ/Deportes-por-Movistar-2-2022-logo.png"  tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR IPTV ",MOVISTAR DEPORTES 2 FHD 3  
-http://todoen1.xyz:8080/m6hP9j9tXP/r9NJQaGU6eMe/133757
-
-#EXTINF:-1,tvg-name="MOVISTAR DEPORTES 3 FHD "tvg-logo="https://i.postimg.cc/DynjPV8K/Deportes-por-Movistar-3-2022-logo.png"  tvg-id="M+ Deportes 3 " group-title="MOVISTAR IPTV ",MOVISTAR DEPORTES 3 FHD  
-http://todoen1.xyz:8080/m6hP9j9tXP/r9NJQaGU6eMe/176647
-
-#EXTINF:-1,tvg-name="MOVISTAR DEPORTES 3 FHD 2 "tvg-logo="https://i.postimg.cc/DynjPV8K/Deportes-por-Movistar-3-2022-logo.png"  tvg-id="M+ Deportes 3 " group-title="MOVISTAR IPTV",MOVISTAR DEPORTES 3 FHD 2 
-http://todoen1.xyz:8080/patriciosonncalderon/4ZC4SsdD4/176647
-
- <!-- EUROSPORT IPTV -->
-
-#EXTINF:-1,tvg-name="EUROSPORT  1 FHD" tvg-logo="https://i.ibb.co/DKTwL0t/Eurosport1-o.jpg" tvg-id="Eurosport 1 HD" group-title="EUROSPORT IPTV",EUROSPORT 1 FHD 
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/290348.ts
-
-#EXTINF:-1,tvg-name="EUROSPORT  1 HD" tvg-logo="https://i.ibb.co/DKTwL0t/Eurosport1-o.jpg" tvg-id="Eurosport 1 HD" group-title="EUROSPORT IPTV",EUROSPORT 1 HD 
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/290349.ts
-
-#EXTINF:-1,tvg-name="EUROSPORT  1 SD" tvg-logo="https://i.ibb.co/DKTwL0t/Eurosport1-o.jpg" tvg-id="Eurosport 1 HD" group-title="EUROSPORT IPTV",EUROSPORT 1 SD 
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/290350.ts
-
-#EXTINF:-1,tvg-name="EUROSPORT  2 FHD "tvg-logo="https://i.ibb.co/4dFxnrC/Eurosport2-o.jpg" tvg-id="Eurosport 2" group-title="EUROSPORT IPTV",EUROSPORT 2 FHD 
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/290351.ts
-
-#EXTINF:-1,tvg-name="EUROSPORT  2 HD "tvg-logo="https://i.ibb.co/4dFxnrC/Eurosport2-o.jpge" tvg-id="Eurosport 2" group-title="EUROSPORT IPTV",EUROSPORT 2 HD 
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/290352.ts
-
-#EXTINF:-1,tvg-name="EUROSPORT  2 SD "tvg-logo="https://i.ibb.co/4dFxnrC/Eurosport2-o.jpg" tvg-id="Eurosport 2" group-title="EUROSPORT IPTV",EUROSPORT 2 SD 
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/290353.ts
-
-
- <!-- VARIADOS IPTV -->
-
-#EXTINF:-1, tvg-name="GOL SD "  tvg-logo="https://i.postimg.cc/cCThLjpn/gol-play.png" tvg-id="GOL PLAY" group-title="VARIADOS IPTV ",GOL SD 
-http://16692914887321261.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321261.ts
-
-#EXTINF:-1, tvg-name="HOLLYWOOD HD"  tvg-id="Canal Hollywood HD" tvg-logo="https://acortar.link/002BDO" group-title="VARIADOS IPTV ",HOLLYWOOD HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321266.ts
 
 <!-- PELICULAS ACESTREAM  -->
 
@@ -612,8 +455,6 @@ http://194539863471505347.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/505347.mkV
 #EXTINF:-1,tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/10/w1280/9fIWPLaqOwg3S4hPmlP8JaYwpLU.jpg" group-title=" DOCUMENTALES" ,Ronaldo: El Fenómeno
 http://194539863471505487.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/505487.mkv
 
-#EXTINF:-1,tvg-logo=" https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/11/w1280/8vS3g2saQaDwHbCxBPAVOp3OpU1.jpg" group-title=" DOCUMENTALES",las reinas del Tiktok 
-http://194539863471505408.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/505408.mkv
 
 
 <!-- HARRY POTTER  -->
