@@ -125,7 +125,7 @@ http://127.0.0.1:6878/ace/getstream?id=9dad717d99b29a05672166258a77c25b57713dd5
 http://127.0.0.1:6878/ace/getstream?id=
 
 #EXTINF:-1,tvg-name="DAZN F1 4K" group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://acortar.link/eeJCAb" ,DAZN F1 4K 
-http://127.0.0.1:6878/ace/getstream?id=6b94479c24898700089e6b87d28a3ccc72dc4041 
+http://127.0.0.1:6878/ace/getstream?id=c021e3af42b9cd3743817a2c6258e0986666dd73 
 
 #EXTINF:-1,tvg-name="DAZN F1 4K" group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://acortar.link/eeJCAb" ,DAZN F1 4K (OFF)
 http://127.0.0.1:6878/ace/getstream?id=eeb0192c25538dbf09c1fd08b0ebca4864a8263a
@@ -133,7 +133,7 @@ http://127.0.0.1:6878/ace/getstream?id=eeb0192c25538dbf09c1fd08b0ebca4864a8263a
 #EXTINF:-1,tvg-name="DAZN F1 720"tvg-logo=" https://acortar.link/eeJCAb" tvg-id="DAZN F1 HD"  group-title="DAZN F1 ",DAZN F1 720
 http://127.0.0.1:6878/ace/getstream?id=e1fcad9de0c782c157fde6377805c58297ab65c2
 
-#EXTINF:-1,tvg-name= MULTICAMARA F1" tvg-logo="https://acortar.link/WwBYRx" tvg-id="DAZN F1 HD" group-title="DAZN F1 ",MULTICAMARA F1 (ON)
+#EXTINF:-1,tvg-name= MULTICAMARA F1" tvg-logo="https://acortar.link/WwBYRx" tvg-id="DAZN F1 HD" group-title="DAZN F1 ",MULTICAMARA F1 (OFF)
 http://127.0.0.1:6878/ace/getstream?id=968627d24eec1c16b51d88e4a4a6c02211e3346e 
 
 #EXTINF:-1,tvg-name="DAZN F1 ONBOARD ALONSO" tvg-logo="https://acortar.link/QZZ08Q" tvg-id="DAZN F1 HD" group-title="DAZN F1 ",DAZN F1 ONBOARD ALONSO (OFF)
@@ -202,7 +202,7 @@ http://127.0.0.1:6878/ace/getstream?id=f031f5728b32f6089dda28edebe990cf198108d8
 #EXTINF:-1,tvg-name="MOVISTAR LA LIGA 4K  "tvg-logo="https://telegra.ph/file/87a4c3d008b086629d093.jpg" tvg-id="M+ LaLiga TV HD"  group-title="LIGA",MOVISTAR LA LIGA 4K 
 http://127.0.0.1:6878/ace/getstream?id=dce1579e3a2e5bd29071fca8eae364f1eb3205cf
 
-#EXTINF:-1,tvg-name="MOVISTAR LA LIGA 4K  "tvg-logo="https://telegra.ph/file/87a4c3d008b086629d093.jpg" tvg-id="M+ LaLiga TV HD"  group-title="LIGA",MOVISTAR LA LIGA 4K (OFF)
+#EXTINF:-1,tvg-name="MOVISTAR LA LIGA 4K  "tvg-logo="https://telegra.ph/file/87a4c3d008b086629d093.jpg" tvg-id="M+ LaLiga TV HD"  group-title="LIGA",MOVISTAR LA LIGA 4K (ON)
 http://127.0.0.1:6878/ace/getstream?id=8286183314d367940409b760bbf887f3fb923f60
 
 #EXTINF:-1,tvg-name="MOVISTAR LA LIGA 4K  "tvg-logo="https://telegra.ph/file/87a4c3d008b086629d093.jpg" tvg-id="M+ LaLiga TV HD"  group-title="LIGA",MOVISTAR LA LIGA 4K 2 (OFF)
@@ -293,7 +293,30 @@ http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 
 #EXTINF:-1,tvg-name="EUROSPORT  2 1080" tvg-logo="https://i.ibb.co/4dFxnrC/Eurosport2-o.jpge" tvg-id="Eurosport 2" group-title="EUROSPORT",EUROSPORT 2 1080 
 http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
+acestream://3e0df5e0e93cc867022e320afef0aaecda9509fe
 
+#EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 3" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", Eurosport 3 1080  
+acestream://a62c010c71bfb76b18188f108c3cc4541c34f45e
+
+#EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 4" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", Eurosport 4 1080  
+acestream://76a482a4cb53fc28518187c6b814f136b3db3c95
+
+#EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 5" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", Eurosport 5 1080  
+acestream://914ce366baec9b0fb3523dd7ba762a44b597fc40
+
+#EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 6" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", Eurosport 6 1080  
+acestream://1bc614c5aa2a94117c13c7f0be2b8ea31b535f38
+
+#EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 7" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", Eurosport 7 1080  
+acestream://e899a4f1e20f7ce1b39cc529dc237fc29a21855f
+
+#EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 8" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", Eurosport 8 1080  
+acestream://721a78f2076faa584c9c09059ffb4e10159f4665
+
+#EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 9" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", Eurosport 9 1080  
+acestream://dd9c56ef2f09753c59d9c2e2d2af31aeea6451c0
+
+#EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMgdqJODqwW6zAFu6rkzH-mNfUvkcdX52R2g&s", Eurosport 4K  
 <!-- VARIADOS -->
  
 #EXTINF:-1,tvg-name="GOL TV 1080 "tvg-logo="https://i.postimg.cc/cCThLjpn/gol-play.png" tvg-id="GOL PLAY" group-title="VARIADOS",GOL TV 1080 
