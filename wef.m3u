@@ -264,7 +264,7 @@ http://127.0.0.1:6878/ace/getstream?id=99e544cddbee13798e854c1009ee7d1a93fdedf7
 <!-- WRC -->
 
 #EXTINF:-1,tvg-name="WRC ESPAÑOL HD IPTV" group-title="WRC" tvg-id="" tvg-logo="https://i.pinimg.com/236x/04/da/bd/04dabd53c1ac13f81a0ff16880a7cc8b.jpg" ,WRC ESPAÑOL 1080 IPTV (ON)
-https://vkvsd177.mycdn.me/hls/6924202150426.m3u8/sig/Bu5gpHVeVzk/srcIp/37.14.45.69/urls/185.226.52.99/expires/1726230470060/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7501339241242/id/6924202150426/6924202150426_fullhd/index.m3u8
+https://vkvsd180.mycdn.me/hls/7033673746970.m3u8/sig/VAfi_u0auFc/srcIp/37.14.45.69/urls/185.226.52.97/expires/1728064069024/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7573843618586/id/7033673746970/7033673746970_fullhd/index.m3u8
 
 #EXTINF:-1,tvg-name="WRC"tvg-logo="https://acortar.link/IZadUs" tvg-id="" group-title="WRC",WRC ESPAÑOL 1080 IPTV 2 (OFF)
 https://vkvsd52.mycdn.me/hls/5982457301530.m3u8/sig/UUpn1NxW22Q/srcIp/37.14.45.69/urls/185.226.52.63/expires/1708530127062/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/6898163919642/id/5982457301530/5982457301530_high/index.m3u8
@@ -276,7 +276,7 @@ https://vk.com/video_ext.php?oid=718161690&id=456239373&hd=4
 http://polcalminei.online:2082/zoomnew/uXgVnHsS92V267new2xd/459532
 
 #EXTINF:-1,tvg-name="WRC ESPAÑOL HD IPTV 2" group-title="WRC" tvg-id="" tvg-logo="https://i.pinimg.com/236x/04/da/bd/04dabd53c1ac13f81a0ff16880a7cc8b.jpg" ,WRC ESPAÑOL 720 IPTV  (ON)
-https://vkvsd177.mycdn.me/hls/6924202150426.m3u8/sig/Bu5gpHVeVzk/srcIp/37.14.45.69/urls/185.226.52.99/expires/1726230470060/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7501339241242/id/6924202150426/6924202150426_high/index.m3u8
+https://vkvsd203.mycdn.me/hls/7033673746970.m3u8/sig/Of0SuU80xPE/srcIp/37.14.45.69/urls/185.226.53.69/expires/1728064405082/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7573843618586/id/7033673746970/7033673746970_high/index.m3u8
 
 #EXTINF:-1,tvg-name="WRC ESPAÑOL"tvg-logo="https://acortar.link/IZadUs" tvg-id="Sport TV5 POR HD" group-title="WRC",WRC ESPAÑOL 1080 (OFF)
 http://127.0.0.1:6878/ace/getstream?id=
