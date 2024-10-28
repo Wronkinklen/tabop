@@ -2,7 +2,7 @@
 
 <!--COPA DEL REY-->
 
- <!-- #EXTINF:-1,tvg-name="COPA DEL REY 1080 "tvg-logo="https://imgresizer.eurosport.com/unsafe/2560x1440/filters:format(jpeg)/origin-imgresizer.eurosport.com/2021/03/24/3017043-61896588-2560-1440.jpg" tvg-id="M+ Liga de Campeones HD" group-title="COPA DEL REY ",COPA DEL REY 1080
+  // <!--#EXTINF:-1,tvg-name="COPA DEL REY 1080 "tvg-logo="https://imgresizer.eurosport.com/unsafe/2560x1440/filters:format(jpeg)/origin-imgresizer.eurosport.com/2021/03/24/3017043-61896588-2560-1440.jpg" tvg-id="M+ Liga de Campeones HD" group-title="COPA DEL REY ",COPA DEL REY 1080
 http://127.0.0.1:6878/ace/getstream?id=8ba764f6a3bce6eae87ec71208fad1aa3a20528d-->
 
 <!--#EXTINF:-1,tvg-name="COPA DEL REY 1080 "tvg-logo="https://imgresizer.eurosport.com/unsafe/2560x1440/filters:format(jpeg)/origin-imgresizer.eurosport.com/2021/03/24/3017043-61896588-2560-1440.jpg" tvg-id="M+ Liga de Campeones HD" group-title="COPA DEL REY ",COPA DEL REY 1080 1 
@@ -15,7 +15,7 @@ http://127.0.0.1:6878/ace/getstream?id=3a4c8ac955d451bf3c29b45256e74aa0ea82d281-
 http://127.0.0.1:6878/ace/getstream?id=7d70685696722c2b1b48a5ae1a7f92c445d9443d-->
 
 <!--#EXTINF:-1,tvg-name="COPA DEL REY 1080 "tvg-logo="https://imgresizer.eurosport.com/unsafe/2560x1440/filters:format(jpeg)/origin-imgresizer.eurosport.com/2021/03/24/3017043-61896588-2560-1440.jpg" tvg-id="M+ Liga de Campeones HD" group-title="COPA DEL REY ",COPA DEL REY 720 
-http://127.0.0.1:6878/ace/getstream?id=dab7cab5d6d177df36c3b333ca363c2266d91a03-->
+http://127.0.0.1:6878/ace/getstream?id=dab7cab5d6d177df36c3b333ca363c2266d91a03--> //
 
 <!-- CHAMPIONS -->
 
