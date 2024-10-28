@@ -35,9 +35,6 @@ http://127.0.0.1:6878/ace/getstream?id=1d79a7543d691666135669f89f3541f54e2dd0a9
 #EXTINF:-1,tvg-name="MOVISTAR LIGA DE CAMPEONES 1080 TEMPORAL "tvg-logo="https://telegra.ph/file/b5075b2db3e21d0f5cb92.jpg"  tvg-id="M+ Liga de Campeones HD" group-title="CHAMPIONS",M.LIGA DE CAMPEONES 1080 (OFF)
 http://127.0.0.1:6878/ace/getstream?id=b41cca7b8f2cddfd2fd59a73ac4ff8c44a98f2dd
 
-#EXTINF:-1,tvg-name="MOVISTAR LIGA DE CAMPEONES 1080 TEMPORAL 2 "tvg-logo="https://telegra.ph/file/b5075b2db3e21d0f5cb92.jpg"  tvg-id="M+ Liga de Campeones HD" group-title="CHAMPIONS",M.LIGA DE CAMPEONES 1080 2 (OFF)
-http://127.0.0.1:6878/ace/getstream?id=c728e2ee1ef6e33fd1b60bd7cbc5af22518d1028
-
 #EXTINF:-1,tvg-name="MOVISTAR LIGA DE CAMPEONES 720 "tvg-logo="https://telegra.ph/file/b5075b2db3e21d0f5cb92.jpg"  tvg-id="M+ Liga de Campeones HD" group-title="CHAMPIONS", M.LIGA DE CAMPEONES 720 
 http://127.0.0.1:6878/ace/getstream?id=e2e2aca792aae5da19995ac516b1d620531bd49c
 
@@ -130,7 +127,7 @@ http://127.0.0.1:6878/ace/getstream?id=eeb0192c25538dbf09c1fd08b0ebca4864a8263a
 #EXTINF:-1,tvg-name="DAZN F1 720"tvg-logo=" https://acortar.link/eeJCAb" tvg-id="DAZN F1 HD"  group-title="DAZN F1 ",DAZN F1 720
 http://127.0.0.1:6878/ace/getstream?id=e1fcad9de0c782c157fde6377805c58297ab65c2
 
-#EXTINF:-1,tvg-name= MULTICAMARA F1" tvg-logo="https://acortar.link/WwBYRx" tvg-id="DAZN F1 HD" group-title="DAZN F1 ",MULTICAMARA F1 (OFF)
+#EXTINF:-1,tvg-name= MULTICAMARA F1" tvg-logo="https://acortar.link/WwBYRx" tvg-id="DAZN F1 HD" group-title="DAZN F1 ",MULTICAMARA F1 
 http://127.0.0.1:6878/ace/getstream?id=968627d24eec1c16b51d88e4a4a6c02211e3346e 
 
 #EXTINF:-1,tvg-name="DAZN F1 ONBOARD ALONSO" tvg-logo="https://acortar.link/QZZ08Q" tvg-id="DAZN F1 HD" group-title="DAZN F1 ",DAZN F1 ONBOARD ALONSO (OFF)
