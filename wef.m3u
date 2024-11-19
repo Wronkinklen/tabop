@@ -155,6 +155,9 @@ http://127.0.0.1:6878/ace/getstream?id=3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
 
 #EXTINF:-1,tvg-name="#ELLAS 1080"tvg-logo="https://telegra.ph/file/90d3f483ee3eabc124bbb.jpg" tvg-id="M+ Ellas Vamos HD" group-title="MOVISTAR",#ELLAS 1080
 http://127.0.0.1:6878/ace/getstream?id=67654e63b5065cdaa6c8e8d41bb5428b42b32830
+
+#EXTINF:-1,tvg-name="Movistar plus 1080 1080"tvg-logo="https://telegra.ph/file/90d3f483ee3eabc124bbb.jpg" tvg-id="M+ Ellas Vamos HD" group-title="MOVISTAR",MOVISTAR PLUS 1080
+http://127.0.0.1:6878/ace/getstream?id=56ac8e227d526e722624675ccdd91b0cc850582f
  
 <!-- M+LIGA -->
  
