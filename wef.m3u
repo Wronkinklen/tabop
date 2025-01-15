@@ -1,24 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml" 
 
-<!--MOVISTAR SUPERCOPA -->
-
-#EXTINF:-1,tvg-name="MOVISTAR SUPERCOPA "tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/Movistar_Plus%2B_Supercopa_de_Espa%C3%B1a_logo_2023.png"  tvg-id="LaLiga TV BAR HD" group-title="SUPERCOPA DE ESPAÑA ",M+ SUPERCOPA 1080 1 
-http://127.0.0.1:6878/ace/getstream?id=56ac8e227d526e722624675ccdd91b0cc850582f
-
-#EXTINF:-1,tvg-name="MOVISTAR SUPERCOPA "tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/Movistar_Plus%2B_Supercopa_de_Espa%C3%B1a_logo_2023.png"  tvg-id="LaLiga TV BAR HD" group-title="SUPERCOPA DE ESPAÑA ",M+ SUPERCOPA 1080 2
-http://127.0.0.1:6878/ace/getstream?id=f6beccbc4eea4bc0cda43b3e8ac14790a98b61b4
-
-#EXTINF:-1,tvg-name="MOVISTAR SUPERCOPA "tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/Movistar_Plus%2B_Supercopa_de_Espa%C3%B1a_logo_2023.png"  tvg-id="LaLiga TV BAR HD" group-title="SUPERCOPA DE ESPAÑA ",M+ SUPERCOPA 1080 3
-http://127.0.0.1:6878/ace/getstream?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
-
-#EXTINF:-1,tvg-name="MOVISTAR SUPERCOPA "tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/Movistar_Plus%2B_Supercopa_de_Espa%C3%B1a_logo_2023.png"  tvg-id="LaLiga TV BAR HD" group-title="SUPERCOPA DE ESPAÑA ",M+ SUPERCOPA 1080 4
-http://127.0.0.1:6878/ace/getstream?id=94d34491106e00394835c8cb68aa94481339b53f
-
-#EXTINF:-1,tvg-name="MOVISTAR SUPERCOPA "tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/Movistar_Plus%2B_Supercopa_de_Espa%C3%B1a_logo_2023.png"  tvg-id="LaLiga TV BAR HD" group-title="SUPERCOPA DE ESPAÑA ",M+ SUPERCOPA 1080 5
-http://127.0.0.1:6878/ace/getstream?id=729bec9bb0a9c6f67fd3b008a216344fc560a797
-
-#EXTINF:-1,tvg-name="MOVISTAR SUPERCOPA "tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/Movistar_Plus%2B_Supercopa_de_Espa%C3%B1a_logo_2023.png"  tvg-id="LaLiga TV BAR HD" group-title="SUPERCOPA DE ESPAÑA ",M+ SUPERCOPA 720 
-http://127.0.0.1:6878/ace/getstream?id=b51f2d9a15b6956a44385b6be531bcabeb099d9d
 
 <!-- CHAMPIONS -->
 
@@ -197,7 +178,7 @@ http://127.0.0.1:6878/ace/getstream?id=94d34491106e00394835c8cb68aa94481339b53f
 #EXTINF:-1 group-title="M+LIGA" tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://telegra.ph/file/5c77da09724e53af96832.jpg" ,MOVISTAR LA LIGA 2  1080 
 http://127.0.0.1:6878/ace/getstream?id=83c6c4942d69f4aa324aa746c5d7dbfd7d1572b3
 
-#EXTINF:-1 group-title="M+LIGA" tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://telegra.ph/file/5c77da09724e53af96832.jpg" ,MOVISTAR LA LIGA 2 720 
+#EXTINF:-1 group-qtitle="M+LIGA" tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://telegra.ph/file/5c77da09724e53af96832.jpg" ,MOVISTAR LA LIGA 2 720 
 http://127.0.0.1:6878/ace/getstream?id=f31a586422c9244196c810c84b6c85da350318a5
 
 #EXTINF:-1 group-title="M+LIGA" tvg-id="M+ LaLiga TV 3 HD" tvg-logo="https://telegra.ph/file/968c9d7eb40340bae2eab.jpg" ,,MOVISTAR LA LIGA 3 1080 
@@ -245,6 +226,10 @@ http://127.0.0.1:6878/ace/getstream?id=
 http://127.0.0.1:6878/ace/getstream?id=
 
 <!--COPA DEL REY-->
+
+
+#EXTINF:-1,tvg-name="COPA DEL REY 1080 "tvg-logo="https://imgresizer.eurosport.com/unsafe/2560x1440/filters:format(jpeg)/origin-imgresizer.eurosport.com/2021/03/24/3017043-61896588-2560-1440.jpg" tvg-id="M+ Liga de Campeones HD" group-title="COPA DEL REY ",COPA DEL REY 1080 ESPECIAL
+http://127.0.0.1:6878/ace/getstream?id=f785c45f32379c3b0e332c20bbd05a7fb311e8d1
 
  #EXTINF:-1,tvg-name="COPA DEL REY 1080 "tvg-logo="https://imgresizer.eurosport.com/unsafe/2560x1440/filters:format(jpeg)/origin-imgresizer.eurosport.com/2021/03/24/3017043-61896588-2560-1440.jpg" tvg-id="M+ Liga de Campeones HD" group-title="COPA DEL REY ",COPA DEL REY 1080
 http://127.0.0.1:6878/ace/getstream?id=f6beccbc4eea4bc0cda43b3e8ac14790a98b61b4
