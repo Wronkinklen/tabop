@@ -228,9 +228,6 @@ http://127.0.0.1:6878/ace/getstream?id=
 <!--COPA DEL REY-->
 
 
-#EXTINF:-1,tvg-name="COPA DEL REY 1080 "tvg-logo="https://imgresizer.eurosport.com/unsafe/2560x1440/filters:format(jpeg)/origin-imgresizer.eurosport.com/2021/03/24/3017043-61896588-2560-1440.jpg" tvg-id="M+ Liga de Campeones HD" group-title="COPA DEL REY ",COPA DEL REY 1080 ESPECIAL
-http://127.0.0.1:6878/ace/getstream?id=f785c45f32379c3b0e332c20bbd05a7fb311e8d1
-
  #EXTINF:-1,tvg-name="COPA DEL REY 1080 "tvg-logo="https://imgresizer.eurosport.com/unsafe/2560x1440/filters:format(jpeg)/origin-imgresizer.eurosport.com/2021/03/24/3017043-61896588-2560-1440.jpg" tvg-id="M+ Liga de Campeones HD" group-title="COPA DEL REY ",COPA DEL REY 1080
 http://127.0.0.1:6878/ace/getstream?id=f6beccbc4eea4bc0cda43b3e8ac14790a98b61b4
 
