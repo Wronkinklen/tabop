@@ -233,13 +233,13 @@ http://127.0.0.1:6878/ace/getstream?id=b51f2d9a15b6956a44385b6be531bcabeb099d9d
 http://127.0.0.1:6878/ace/getstream?id=ad6f4e8e329d6a97c7e7d7b0b8e5d04d8dd0bb48
 
 #EXTINF:-1,tvg-name="WRC ESPAÑOL HD IPTV" group-title="WRC" tvg-id="" tvg-logo="https://i.pinimg.com/236x/04/da/bd/04dabd53c1ac13f81a0ff16880a7cc8b.jpg" ,WRC ESPAÑOL 1080 IPTV (ON)
-https://vkvsd217.okcdn.ru/hls/7644834957850.m3u8/sig/1FETU9hXAgc/srcIp/37.14.45.69/urls/185.226.55.77/expires/1738247171303/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/8996585679642/id/7644834957850/7644834957850_high/index.m3u8
+https://vkvsd196.okcdn.ru/hls/7652600056346.m3u8/sig/m1I3bEGNHOo/srcIp/37.14.45.69/urls/45.136.21.85/expires/1738325623348/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/8999714827034/id/7652600056346/7652600056346_fullhd/index.m3u8
 
 #EXTINF:-1,tvg-name="WRC ORIGINAL"tvg-logo="https://acortar.link/IZadUs" "tvg-id="" group-title="WRC",WRC 1080 
 http://127.0.0.1:6878/ace/getstream?id=8ef4e74336a0114d6def70de9d15cc4817d2f350
 
-#EXTINF:-1,tvg-name="WRC"tvg-logo="https://acortar.link/IZadUs" tvg-id="" group-title="WRC",WRC ESPAÑOL 1080 IPTV 2 (OFF)
-https://vkvsd52.mycdn.me/hls/5982457301530.m3u8/sig/UUpn1NxW22Q/srcIp/37.14.45.69/urls/185.226.52.63/expires/1708530127062/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/6898163919642/id/5982457301530/5982457301530_high/index.m3u8
+#EXTINF:-1,tvg-name="WRC"tvg-logo="https://acortar.link/IZadUs" tvg-id="" group-title="WRC",WRC ESPAÑOL 720 IPTV  (ON)
+https://vkvsd91.okcdn.ru/hls/7652600056346.m3u8/sig/RzM4DiWUuwo/srcIp/37.14.45.69/urls/185.226.53.69/expires/1738326450177/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/8999714827034/id/7652600056346/7652600056346_high/index.m3u8
 
 #EXTINF:-1,tvg-name="WRC ESPAÑOL HD IPTV" group-title="WRC" tvg-id="" tvg-logo="https://i.pinimg.com/236x/04/da/bd/04dabd53c1ac13f81a0ff16880a7cc8b.jpg" ,WRC ESPAÑOL 1080 IPTV 3 (OFF)
 https://vk.com/video_ext.php?oid=718161690&id=456239373&hd=4
