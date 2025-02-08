@@ -145,6 +145,10 @@ http://127.0.0.1:6878/ace/getstream?id=67654e63b5065cdaa6c8e8d41bb5428b42b32830
 <!-- M+LIGA -->
  
 
+EXTINF:-1,tvg-name="MOVISTAR LA LIGA 1080 1  "tvg-logo="https://telegra.ph/file/87a4c3d008b086629d093.jpg" tvg-id="M+ LaLiga TV HD"  group-title="M+LIGA",MOVISTAR LA LIGA 1080 IPTV https://vkvsd192.okcdn.ru/hls/7638078065314.m3u8/sig/UyJiX1bm1Do/srcIp/94.73.56.147/urls/185.226.52.92/expires/1739478230747/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/8958498450338/id/7638078065314/7638078065314_high/index.m3u8
+
+EXTINF:-1,tvg-name="MOVISTAR LA LIGA 1080 1  "tvg-logo="https://telegra.ph/file/87a4c3d008b086629d093.jpg" tvg-id="M+ LaLiga TV HD"  group-title="M+LIGA",MOVISTAR LA LIGA 1080 IPTV 2 https://tb.dazcfutbolios.me/eventos.html?r=aHR0cHM6Ly9zdHJlYW1kejMubGF0L3BsYXllci9qLnBocD9jaGFubmVsPWRzcG9ydHM=
+
 #EXTINF:-1,tvg-name="MOVISTAR LA LIGA 1080 1  "tvg-logo="https://telegra.ph/file/87a4c3d008b086629d093.jpg" tvg-id="M+ LaLiga TV HD"  group-title="M+LIGA",MOVISTAR LA LIGA 1080 1
 http://127.0.0.1:6878/ace/getstream?id=94d34491106e00394835c8cb68aa94481339b53f
 
