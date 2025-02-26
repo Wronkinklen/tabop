@@ -132,17 +132,20 @@ http://127.0.0.1:6878/ace/getstream?id=2c6e4c897661e6b0257bfe931b66d20b2ec763b6
 #EXTINF:-1,tvg-name="DAZN F1 1080 "tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/DAZN_F1_2024_logo.svg/1280px-DAZN_F1_2024_logo.svg.png" tvg-id="DAZN F1 HD"  group-title="DAZN F1 ",DAZN F1 1080 3
 http://127.0.0.1:6878/ace/getstream?id=71eef80158aa8b37f3dc59f6793c6696df9a2dfa
 
-#EXTINF:-1,tvg-name="DAZN F1 4K" group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/DAZN_F1_2024_logo.svg/1280px-DAZN_F1_2024_logo.svg.png" ,DAZN F1 4K (OFF)
-http://127.0.0.1:6878/ace/getstream?id=eeb0192c25538dbf09c1fd08b0ebca4864a8263a
+#EXTINF:-1,tvg-name="DAZN F1 1080 "tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/DAZN_F1_2024_logo.svg/1280px-DAZN_F1_2024_logo.svg.png" tvg-id="DAZN F1 HD"  group-title="DAZN F1 ",DAZN F1 1080 4
+http://127.0.0.1:6878/ace/getstream?id=83d46a1a62104c72ad1487d81c0e81f92db00d25
+
+#EXTINF:-1,tvg-name="DAZN F1 1080 "tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/DAZN_F1_2024_logo.svg/1280px-DAZN_F1_2024_logo.svg.png" tvg-id="DAZN F1 HD"  group-title="DAZN F1 ",DAZN F1 1080 5
+http://127.0.0.1:6878/ace/getstream?id=21511645a5f014cb64f85d445482a8a14bba9e62
+
+#EXTINF:-1,tvg-name="DAZN F1 1080 "tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/DAZN_F1_2024_logo.svg/1280px-DAZN_F1_2024_logo.svg.png" tvg-id="DAZN F1 HD"  group-title="DAZN F1 ",DAZN F1 1080 6
+http://127.0.0.1:6878/ace/getstream?id=61c1f3cf1d86a2789e985818fe2bd398048d047f
+
+#EXTINF:-1,tvg-name="DAZN F1 1080 "tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/DAZN_F1_2024_logo.svg/1280px-DAZN_F1_2024_logo.svg.png" tvg-id="DAZN F1 HD"  group-title="DAZN F1 ",DAZN F1 1080 7
+http://127.0.0.1:6878/ace/getstream?id=073d33a5e5270399154bb251fcc95f99c0741264
 
 #EXTINF:-1,tvg-name="DAZN F1 720"tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/DAZN_F1_2024_logo.svg/1280px-DAZN_F1_2024_logo.svg.png" tvg-id="DAZN F1 HD"  group-title="DAZN F1 ",DAZN F1 720
 http://127.0.0.1:6878/ace/getstream?id=268289e7a3c5209960b53b4d43c8c65fab294b85
-
-#EXTINF:-1,tvg-name= MULTICAMARA F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/DAZN_F1_2024_logo.svg/1280px-DAZN_F1_2024_logo.svg.png" tvg-id="DAZN F1 HD" group-title="DAZN F1 ",MULTICAMARA F1 
-http://127.0.0.1:6878/ace/getstream?id=968627d24eec1c16b51d88e4a4a6c02211e3346e 
-
-#EXTINF:-1,tvg-name="DAZN F1 ONBOARD ALONSO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/DAZN_F1_2024_logo.svg/1280px-DAZN_F1_2024_logo.svg.png" tvg-id="DAZN F1 HD" group-title="DAZN F1 ",DAZN F1 ONBOARD ALONSO (OFF)
-http://127.0.0.1:6878/ace/getstream?id=085b241844e6a1f9a8395e861323c0977731de17
 
 <!-- MOVISTAR DEPORTES --> 
 
