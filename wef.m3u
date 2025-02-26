@@ -144,6 +144,9 @@ http://127.0.0.1:6878/ace/getstream?id=417988354fa348ac80ffcbed58f55c50b72cdbf0
 #EXTINF:-1,tvg-name="DAZN F1 1080 "tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/DAZN_F1_2024_logo.svg/1280px-DAZN_F1_2024_logo.svg.png" tvg-id="DAZN F1 HD"  group-title="DAZN F1 ",DAZN F1 1080 7
 http://127.0.0.1:6878/ace/getstream?id=073d33a5e5270399154bb251fcc95f99c0741264
 
+#EXTINF:-1,tvg-name="DAZN F1 1080 "tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/DAZN_F1_2024_logo.svg/1280px-DAZN_F1_2024_logo.svg.png" tvg-id="DAZN F1 HD"  group-title="DAZN F1 ",DAZN F1 1080 8
+http://127.0.0.1:6878/ace/getstream?id=21511645a5f014cb64f85d445482a8a14bba9e62
+
 #EXTINF:-1,tvg-name="DAZN F1 720"tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/DAZN_F1_2024_logo.svg/1280px-DAZN_F1_2024_logo.svg.png" tvg-id="DAZN F1 HD"  group-title="DAZN F1 ",DAZN F1 720
 http://127.0.0.1:6878/ace/getstream?id=268289e7a3c5209960b53b4d43c8c65fab294b85
 
