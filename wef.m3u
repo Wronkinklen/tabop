@@ -129,23 +129,32 @@ http://127.0.0.1:6878/ace/getstream?id=d6281d4e6310269b416180442a470d23a4a99dc9
 #EXTINF:-1,tvg-name="DAZN F1 1080 2"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/DAZN_F1_2024_logo.svg/1280px-DAZN_F1_2024_logo.svg.png"  tvg-id="DAZN F1 HD" group-title="DAZN F1 ",DAZN F1 1080 2 
 http://127.0.0.1:6878/ace/getstream?id=2c6e4c897661e6b0257bfe931b66d20b2ec763b6
 
-#EXTINF:-1,tvg-name="DAZN F1 1080 "tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/DAZN_F1_2024_logo.svg/1280px-DAZN_F1_2024_logo.svg.png" tvg-id="DAZN F1 HD"  group-title="DAZN F1 ",DAZN F1 1080 3
+#EXTINF:-1,tvg-name="DAZN F1 1080 3"tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/DAZN_F1_2024_logo.svg/1280px-DAZN_F1_2024_logo.svg.png" tvg-id="DAZN F1 HD"  group-title="DAZN F1 ",DAZN F1 1080 3
 http://127.0.0.1:6878/ace/getstream?id=71eef80158aa8b37f3dc59f6793c6696df9a2dfa
 
-#EXTINF:-1,tvg-name="DAZN F1 1080 "tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/DAZN_F1_2024_logo.svg/1280px-DAZN_F1_2024_logo.svg.png" tvg-id="DAZN F1 HD"  group-title="DAZN F1 ",DAZN F1 1080 4
+#EXTINF:-1,tvg-name="DAZN F1 1080 4  "tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/DAZN_F1_2024_logo.svg/1280px-DAZN_F1_2024_logo.svg.png" tvg-id="DAZN F1 HD"  group-title="DAZN F1 ",DAZN F1 1080 4
 http://127.0.0.1:6878/ace/getstream?id=43c07b04b414bfbaaaec1aed58f7157fca277583
 
-#EXTINF:-1,tvg-name="DAZN F1 1080 "tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/DAZN_F1_2024_logo.svg/1280px-DAZN_F1_2024_logo.svg.png" tvg-id="DAZN F1 HD"  group-title="DAZN F1 ",DAZN F1 1080 5
+#EXTINF:-1,tvg-name="DAZN F1 1080 5  "tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/DAZN_F1_2024_logo.svg/1280px-DAZN_F1_2024_logo.svg.png" tvg-id="DAZN F1 HD"  group-title="DAZN F1 ",DAZN F1 1080 5
 http://127.0.0.1:6878/ace/getstream?id=83d46a1a62104c72ad1487d81c0e81f92db00d25
 
-#EXTINF:-1,tvg-name="DAZN F1 1080 "tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/DAZN_F1_2024_logo.svg/1280px-DAZN_F1_2024_logo.svg.png" tvg-id="DAZN F1 HD"  group-title="DAZN F1 ",DAZN F1 1080 6
+#EXTINF:-1,tvg-name="DAZN F1 1080 6  "tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/DAZN_F1_2024_logo.svg/1280px-DAZN_F1_2024_logo.svg.png" tvg-id="DAZN F1 HD"  group-title="DAZN F1 ",DAZN F1 1080 6
 http://127.0.0.1:6878/ace/getstream?id=417988354fa348ac80ffcbed58f55c50b72cdbf0
 
-#EXTINF:-1,tvg-name="DAZN F1 1080 "tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/DAZN_F1_2024_logo.svg/1280px-DAZN_F1_2024_logo.svg.png" tvg-id="DAZN F1 HD"  group-title="DAZN F1 ",DAZN F1 1080 7
+#EXTINF:-1,tvg-name="DAZN F1 1080 7  "tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/DAZN_F1_2024_logo.svg/1280px-DAZN_F1_2024_logo.svg.png" tvg-id="DAZN F1 HD"  group-title="DAZN F1 ",DAZN F1 1080 7
 http://127.0.0.1:6878/ace/getstream?id=073d33a5e5270399154bb251fcc95f99c0741264
 
-#EXTINF:-1,tvg-name="DAZN F1 1080 "tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/DAZN_F1_2024_logo.svg/1280px-DAZN_F1_2024_logo.svg.png" tvg-id="DAZN F1 HD"  group-title="DAZN F1 ",DAZN F1 1080 8
+#EXTINF:-1,tvg-name="DAZN F1 1080 8 "tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/DAZN_F1_2024_logo.svg/1280px-DAZN_F1_2024_logo.svg.png" tvg-id="DAZN F1 HD"  group-title="DAZN F1 ",DAZN F1 1080 8
 http://127.0.0.1:6878/ace/getstream?id=21511645a5f014cb64f85d445482a8a14bba9e62
+
+#EXTINF:-1,tvg-name="DAZN F1 1080 9 "tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/DAZN_F1_2024_logo.svg/1280px-DAZN_F1_2024_logo.svg.png" tvg-id="DAZN F1 HD"  group-title="DAZN F1 ",DAZN F1 1080 9
+http://127.0.0.1:6878/ace/getstream?id=61c1f3cf1d86a2789e985818fe2bd398048d047f
+
+#EXTINF:-1,tvg-name="DAZN F1 1080 10 "tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/DAZN_F1_2024_logo.svg/1280px-DAZN_F1_2024_logo.svg.png" tvg-id="DAZN F1 HD"  group-title="DAZN F1 ",DAZN F1 1080 10
+http://127.0.0.1:6878/ace/getstream?id=0b7bd581b0eae65396b96a4efe4491a2dd1ba088
+
+#EXTINF:-1,tvg-name="DAZN F1 1080 11 "tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/DAZN_F1_2024_logo.svg/1280px-DAZN_F1_2024_logo.svg.png" tvg-id="DAZN F1 HD"  group-title="DAZN F1 ",DAZN F1 1080 11
+http://127.0.0.1:6878/ace/getstream?id=9de13e593cd54c904d26a16aefe098d082335088
 
 #EXTINF:-1,tvg-name="DAZN F1 720"tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/DAZN_F1_2024_logo.svg/1280px-DAZN_F1_2024_logo.svg.png" tvg-id="DAZN F1 HD"  group-title="DAZN F1 ",DAZN F1 720
 http://127.0.0.1:6878/ace/getstream?id=268289e7a3c5209960b53b4d43c8c65fab294b85
