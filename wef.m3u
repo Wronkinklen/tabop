@@ -288,8 +288,8 @@ http://127.0.0.1:6878/ace/getstream?id=b51f2d9a15b6956a44385b6be531bcabeb099d9d
 <!-- WRC -->
 
 
-#EXTINF:-1,tvg-name="WRC ESPAÑOL"tvg-logo="https://acortar.link/IZadUs" tvg-id="Sport TV5 POR HD" group-title="WRC",WRC ESPAÑOL 1080 (OFF)
-http://127.0.0.1:6878/ace/getstream?id=ad6f4e8e329d6a97c7e7d7b0b8e5d04d8dd0bb48
+#EXTINF:-1,tvg-name="WRC ESPAÑOL"tvg-logo="https://acortar.link/IZadUs" tvg-id="Sport TV5 POR HD" group-title="WRC",WRC ESPAÑOL 1080 (ON)
+https://vkvsd250.okcdn.ru/hls/7914813524506.m3u8/sig/7HKpkY0wBPI/srcIp/37.14.45.69/urls/45.136.21.61/expires/1743162060380/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/9179820731162/id/7914813524506/7914813524506_fullhd/index.m3u8
 
 #EXTINF:-1,tvg-name="WRC ESPAÑOL HD IPTV" group-title="WRC" tvg-id="" tvg-logo="https://i.pinimg.com/236x/04/da/bd/04dabd53c1ac13f81a0ff16880a7cc8b.jpg" ,WRC ESPAÑOL 1080 IPTV (ON)
 https://loveb3.gasolineblocky24tje.cfd/es/motorsport/wrc-1860942/wrc-rally-sweden-sweden---special-stage-13.html?icg=RVM%28ES%29
