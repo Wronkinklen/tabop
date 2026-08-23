@@ -1,8 +1,11 @@
+Contenido de get.txt
+×
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml,https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml" refresh="3600"
 #EXTVLCOPT:network-caching=1000
 
 #EXTGRP: group-title="1RFEF" group-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es"
 #EXTGRP: group-title="BUNDESLIGA" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/180px-Bundesliga_logo_%282017%29.svg.png"
+#EXTGRP: group-title="DAZN" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png"
 #EXTGRP: group-title="DEPORTES" group-logo="https://i.ibb.co/6JGvLDWx/deportes-logo.png"
 #EXTGRP: group-title="EUROSPORT" group-logo="https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo.png"
 #EXTGRP: group-title="EVENTOS" group-logo="https://i.ibb.co/Lh13t8zX/logo-eventos.png"
@@ -106,6 +109,8 @@ http://127.0.0.1:6878/ace/getstream?id=b5f3cc5cd66c98bae9d65df43ecee6c02d18aebd
 http://127.0.0.1:6878/ace/getstream?id=c21d60fa884b24f3cedcb1110b84ac2bcb0c2d19
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 FHD 0b5f --> NEW ERA VI
 http://127.0.0.1:6878/ace/getstream?id=724f9b252b11064e3f16220717fd52bd3a510b5f
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 d95b --> NEW LOOP
+http://127.0.0.1:6878/ace/getstream?id=d2087e61e8617208fd3992f460ee2edb9e05d95b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 0076 --> SPORT TV
 http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 HD 4be2 --> SPORT TV
@@ -118,8 +123,6 @@ http://127.0.0.1:6878/ace/getstream?id=118416583faa3fb4f03800173429b6b844b43a52
 http://127.0.0.1:6878/ace/getstream?id=edb507e38394d614c9ff55805c9d354ae13210bc
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%203.png" tvg-id="FR | beIN SPORTS 3" group-title="FUTBOL INT", BEIN SPORTS 3 2cf8 --> SPORT TV
 http://127.0.0.1:6878/ace/getstream?id=731bd3336ec0986ff9100efe40dbaf1473a22cf8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/320px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png" tvg-id="beIN SPORTS XTRA ñ" group-title="FUTBOL INT", BEIN SPORTS Ñ d398 --> NEW LOOP
-http://127.0.0.1:6878/ace/getstream?id=33aa6331066d7796fcab74bed23206f16bded398
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%201.png" tvg-id="UK | TNT Sports 1" group-title="FUTBOL INT", BT Sport 1 [UK] c915 --> NEW LOOP
 http://127.0.0.1:6878/ace/getstream?id=2605c201c8c9cf6684ee1de562d3b4c7e17ac915
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%201.png" tvg-id="UK | TNT Sports 1" group-title="FUTBOL INT", BT Sport 1 [UK] 9bce --> SPORT TV
@@ -630,4 +633,3 @@ http://127.0.0.1:6878/ace/getstream?id=fce354f24fe26ca527e2c38b14eb7b0c81f756dd
 http://127.0.0.1:6878/ace/getstream?id=92f8939c7bff6bcb7e6da39379bb3d7a6a76693f
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Хоккейный HD (RU) 3857 --> SPORT TV
 http://127.0.0.1:6878/ace/getstream?id=99f0646986e9266836dd79047dedecb04e243857
-
