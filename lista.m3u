@@ -705,24 +705,3 @@ http://127.0.0.1:6878/ace/getstream?id=fce354f24fe26ca527e2c38b14eb7b0c81f756dd
 http://127.0.0.1:6878/ace/getstream?id=92f8939c7bff6bcb7e6da39379bb3d7a6a76693f
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Хоккейный HD (RU) 3857 --> SPORT TV
 http://127.0.0.1:6878/ace/getstream?id=99f0646986e9266836dd79047dedecb04e243857
-
-
-
-
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", RALLY TV 3f9 --> EL CANO
-http://127.0.0.1:6878/ace/getstream?id=12404b00d2787995d639ccf71a80da5d39d153f9
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", MOTO GP 1080 558c --> EL CANO
-http://127.0.0.1:6878/ace/getstream?id=e18b79bce27f6ee8eef9a1fc811bb5f80e4b558c
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", MOTO GP 1080 e1a5 --> EL CANO
-http://127.0.0.1:6878/ace/getstream?id=20d4b3586bb822c3618cf8fb665a304869c5e1a5
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", MOTO GP 1080 2028 --> EL CANO
-http://127.0.0.1:6878/ace/getstream?id=342ca6975a4884d81f9fec5c4085a47060bd2028
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", MOTO GP 1080 bb4d --> EL CANO
-http://127.0.0.1:6878/ace/getstream?id=b18dda520e112e48a33d6d0ae558681b9ecfbb4d
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", MOTO GP 1080 5cea --> EL CANO
-http://127.0.0.1:6878/ace/getstream?id=c53bdb3be55d12c5188d25085f1bb16911c15cea
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", MOTO GP 720 9137 --> EL CANO
-http://127.0.0.1:6878/ace/getstream?id=ac33342ccf7d40d46174229085461d95000b9137
-
-
-
