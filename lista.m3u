@@ -1,23 +1,3 @@
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", RALLY TV 3f9 --> EL CANO
-http://127.0.0.1:6878/ace/getstream?id=12404b00d2787995d639ccf71a80da5d39d153f9
-
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", RALLY TV 9ca9 --> EL CANO
-http://127.0.0.1:6878/ace/getstream?id=64eb19dccf5e60f121a4c1f7c69489af6b1c9ca9
-
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", MOTO GP 1080 558c --> EL CANO
-http://127.0.0.1:6878/ace/getstream?id=e18b79bce27f6ee8eef9a1fc811bb5f80e4b558c
-
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", MOTO GP 1080 2028 --> EL CANO
-http://127.0.0.1:6878/ace/getstream?id=342ca6975a4884d81f9fec5c4085a47060bd2028
-
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", MOTO GP 15cea --> EL CANO
-http://127.0.0.1:6878/ace/getstream?id=c53bdb3be55d12c5188d25085f1bb16911c15cea
-
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", MOTO GP 1080 bb4d --> EL CANO
-http://127.0.0.1:6878/ace/getstream?id=b18dda520e112e48a33d6d0ae558681b9ecfbb4d
-
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", MOTO GP 720 9137 --> EL CANO
-http://127.0.0.1:6878/ace/getstream?id=ac33342ccf7d40d46174229085461d95000b9137
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml,https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml" refresh="3600"
 #EXTVLCOPT:network-caching=1000
